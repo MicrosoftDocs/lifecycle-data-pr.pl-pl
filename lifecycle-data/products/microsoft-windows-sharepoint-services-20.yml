@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Program Microsoft Windows SharePoint Services 2.0
+  description: Program Microsoft Windows SharePoint Services 2.0 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3293736b7dd1f77d735150f0c004daf5840d0be0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832091"
+name: Program Microsoft Windows SharePoint Services 2.0
+summary: "Program Microsoft Windows SharePoint Services 2.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\n\n> [!IMPORTANT]\n> Wsparcie zostało zakończone. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/03/2003
+  end: 01/13/2009
+  extendedEnd: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 06/03/2003
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Linki \n* [Dokumentacja deweloperska programu Windows SharePoint Services 2.0](/previous-versions/office/developer/sharepoint2003/dd587302(v=office.11))\n* [Dokumentacja produktu programu Windows SharePoint Services 2.0](/previous-versions/tn-archive/cc288501(v=office.12))"

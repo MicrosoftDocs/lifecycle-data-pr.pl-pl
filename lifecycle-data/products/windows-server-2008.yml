@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: System Windows Server 2008 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832393"
+name: Windows Server 2008
+summary: >
+  System Windows Server 2008 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Datacenter, Datacenter without Hyper-V, Enterprise, Enterprise without Hyper-V, for Itanium-Based Systems, Foundation, Standard, Standard without Hyper-V, Web
+
+
+  > [!IMPORTANT]
+
+  > Obsługa tego produktu została zakończona. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://aka.ms/AA1ovn4)\n* [Informacje o uaktualnieniu serwera](/windows-server/upgrade/upgrade-overview)\n* [Rozszerzony program aktualizacji zabezpieczeń (ESU)](/lifecycle/faq/extended-security-updates)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Rozszerzone aktualizacje zabezpieczeń (ESU) są dostępne za pośrednictwem określonych programów licencjonowania zbiorowego dla wersji Datacenter, Standard, Enterprise i Embedded tej wersji produktu przez okres do dodatkowych trzech lat po zakończeniu pomocy technicznej. Aby dowiedzieć się więcej, skontaktuj się z partnerem lub zespołem kont firmy Microsoft. \n\nData wydania-------------------------------Start----Wykańczenia\n\nRozszerzona aktualizacja zabezpieczeń Rok 3---01/11/2022---01/10/2023\n\nRozszerzona aktualizacja zabezpieczeń Rok 2---01/12/2021---01/11/2022\n\nRozszerzona aktualizacja zabezpieczeń Rok 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Fundacja Systemu Windows Server 2008 wydana 21 maja 2009\n\n## <a name=\"editions\"></a>Wersje \n* Datacenter\n* Centrum danych bez funkcji Hyper-V\n* Przedsiębiorstwo\n* Przedsiębiorstwo bez funkcji Hyper-V\n* dla systemów opartych na Itanium\n* Foundation\n* Standardowych\n* Standard bez funkcji Hyper-V\n* Sieci web"

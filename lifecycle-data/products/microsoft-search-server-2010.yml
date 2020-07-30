@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Serwer wyszukiwania firmy Microsoft 2010
+  description: Program Microsoft Search Server 2010 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 736253699cf6033278b0f49fbf90bd2289a1b9a6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832131"
+name: Serwer wyszukiwania firmy Microsoft 2010
+summary: >+
+  Program Microsoft Search Server 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Wszystkie obowiązujące,
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Service Pack 1
+  startDate: 06/24/2011
+  endDate: 10/13/2020
+- version: Original Release
+  startDate: 06/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Wersje \n* Wszystkie obowiązujące\n* Express"
