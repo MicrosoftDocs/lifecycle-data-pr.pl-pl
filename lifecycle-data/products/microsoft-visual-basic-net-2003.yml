@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual Basic .NET 2003
+  description: Program Microsoft Visual Basic .NET 2003 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: aa66f6d0e0a3cd91eb4a22845d303643d8482004
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832096"
+name: Microsoft Visual Basic .NET 2003
+summary: >+
+  Program Microsoft Visual Basic .NET 2003 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Standard
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/10/2003
+  end: 10/14/2008
+  extendedEnd: 10/08/2013
+releases:
+- version: Original Release
+  startDate: 07/10/2003
+  endDate: 10/08/2013
+content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Standardowych"
