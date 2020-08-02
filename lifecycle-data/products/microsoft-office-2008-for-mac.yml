@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Pakiet Microsoft Office 2008 dla komputerów Mac
+  description: Pakiet Microsoft Office 2008 dla komputerów Mac jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "831826"
+name: Pakiet Microsoft Office 2008 dla komputerów Mac
+summary: "Pakiet Microsoft Office 2008 dla komputerów Mac jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących wydań: Biznes, Dom i Student, Special Media Editon\n\n> [!IMPORTANT]\n> Obsługa tego produktu została zakończona. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/15/2008
+  end: 04/09/2013
+releases:
+- version: Service Pack 2
+  startDate: 07/20/2009
+  endDate: 04/09/2013
+- version: Service Pack 1
+  startDate: 05/13/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 01/15/2008
+  endDate: 10/19/2009
+content: "\n## <a name=\"links\"></a>Linki \n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Data rozpoczęcia programu Office 2008 dla programu Mac Special Media Edition to 12 marca 2008 r.\n\n## <a name=\"editions\"></a>Wersje \n* Biznesowych\n* Dom i student\n* Edycja mediów specjalnych"
