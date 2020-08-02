@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: System Windows Mobile 2003
+  description: System Windows Mobile 2003 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832027"
+name: System Windows Mobile 2003
+summary: >
+  System Windows Mobile 2003 jest zgodny [z zasadami stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: dla Pocket PC, dla smartfonów, oprogramowania Second Edition dla Pocket PC Phone, second edition software for Smartphone
+
+
+  > [!IMPORTANT]
+
+  > Obsługa tego produktu została zakończona.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/31/2004
+  endDate: 07/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* do pocket PC\n* dla smartfonów\n* Oprogramowanie Drugiej Edycji dla Pocket PC Phone\n* Oprogramowanie drugiej edycji dla smartfonów"
