@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Usługi programu Visio w usłudze SharePoint Online
+  description: Usługi programu Visio w usłudze SharePoint Online są zgodne z zasadami nowoczesnego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a6c493769f21589c572611837326a9535f56840
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "831690"
+name: Usługi programu Visio w usłudze SharePoint Online
+summary: >+
+  Usługi programu Visio w usłudze SharePoint Online są zgodne z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 04/16/2010
+  end: 09/30/2020
+releases:
+- version: Original Release
+  startDate: 04/16/2010
+  endDate: 09/30/2020
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Office-Retirement-Blog/Visio-Web-Access-aka-Visio-Services-Updates/ba-p/109541)"
