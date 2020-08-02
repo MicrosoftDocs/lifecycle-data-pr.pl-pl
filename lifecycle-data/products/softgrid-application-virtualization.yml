@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Wirtualizacja aplikacji SoftGrid
+  description: Wirtualizacja aplikacji SoftGrid jest zgodna z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "831538"
+name: Wirtualizacja aplikacji SoftGrid
+summary: >
+  Wirtualizacja aplikacji SoftGrid jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: 4.1 dla komputerów stacjonarnych, 4.2 dla komputerów stacjonarnych, dla usług terminalowych 4.1
+
+
+  > [!IMPORTANT]
+
+  > Wsparcie zostało zakończone. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/25/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 05/25/2007
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Wersje \n* 4.1 dla komputerów stacjonarnych\n* 4.2 dla komputerów stacjonarnych\n* dla usług terminalowych 4.1"

@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Program Microsoft SharePoint Server 2010
+  description: Program Microsoft SharePoint Server 2010 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "831564"
+name: Program Microsoft SharePoint Server 2010
+summary: >+
+  Program Microsoft SharePoint Server 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Usługi dostępu, Wszystkie obowiązujące, Usługi programu Excel, Usługi punktów wydajności
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 04/13/2021
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 04/13/2021
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Linki \n* [Rozszerzenie pomocy technicznej](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Wskazówki dotyczące migracji](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Data zakończenia pomocy technicznej produktu została przedłużona z 13 października 2020 r. do 13 kwietnia 2021 r.\n\n## <a name=\"editions\"></a>Wersje \n* Usługi dostępu\n* Wszystkie obowiązujące\n* Usługi programu Excel\n* Usługi punktów wydajności"
