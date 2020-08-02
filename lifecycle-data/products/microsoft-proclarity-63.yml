@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Program Microsoft ProClarity 6.3
+  description: Program Microsoft ProClarity 6.3 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 317529e1a142906f2aebd67ada9a28a32a680b2a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "831569"
+name: Program Microsoft ProClarity 6.3
+summary: >+
+  Program Microsoft ProClarity 6.3 jest zgodny [z zasadami stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Analytics Server, Desktop Professional, SharePoint Viewer
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/01/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Service Pack 3
+  startDate: 10/13/2009
+  endDate: 07/11/2017
+- version: Service Pack 2
+  startDate: 03/01/2009
+  endDate: 01/11/2011
+- version: Service Pack 1
+  startDate: 07/19/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 06/01/2007
+  endDate: 10/13/2009
+content: "\n## <a name=\"links\"></a>Linki \n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Wersje \n* Serwer analytics\n* Pulpit profesjonalny\n* Przeglądarka programu SharePoint"
