@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Vista
+  description: System Windows Vista jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "831670"
+name: Windows Vista
+summary: >
+  System Windows Vista jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Biznes, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
+
+
+  > [!IMPORTANT]
+
+  > Obsługa tego produktu została zakończona, zobacz poniżej informacje o migracji.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/25/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 04/11/2017
+- version: Service Pack 1
+  startDate: 02/04/2008
+  endDate: 07/12/2011
+- version: Original Release
+  startDate: 01/25/2007
+  endDate: 04/13/2010
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Zagadnienia dotyczące uaktualniania i migracji systemu Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Wersje \n* Biznesowych\n* Biznes N\n* Przedsiębiorstwo\n* Przedsiębiorstwo X64\n* Strona główna Podstawowa\n* Strona główna Basic 64-bit\n* Strona główna Podstawowe N\n* Strona główna Basic N 64-bit\n* Strona główna Premium\n* Strona główna Premium 64-bit\n* Starter\n* Ostateczny\n* Ostateczny 64-bitowy"
