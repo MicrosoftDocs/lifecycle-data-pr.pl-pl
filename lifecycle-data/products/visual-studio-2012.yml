@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2012
+  description: Visual Studio 2012 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859981"
+name: Visual Studio 2012
+summary: >+
+  Visual Studio 2012 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Agenci, Społeczność 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redystrybucyjny, Rozszerzenia narzędzi sieci Web
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/31/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>Linki \n* [Cykl życia produktu i serwis programu Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Wersje \n* Agentów\n* Wspólnota 2013\n* Express for Web\n* Express dla systemu Windows 8\n* Express dla pulpitu systemu Windows\n* Moduł zbierający IntelliTrace\n* Narzędzia platformy Microsoft Azure\n* Premium\n* Professional\n* Narzędzia zdalne\n* Powłoka (zintegrowana)\n* Powłoka (izolowana)\n* Narzędzia danych programu SQL Server\n* Eksplorator zespołu\n* Test Professional 2013\n* Ostateczny\n* Visual C++ redystrybucyjny\n* Rozszerzenia narzędzi internetowych"

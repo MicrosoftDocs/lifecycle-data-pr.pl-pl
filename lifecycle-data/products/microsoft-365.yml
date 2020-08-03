@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 365
+  description: Usługa Microsoft 365 jest zgodna z zasadami nowoczesnego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 305fc57c897c1f8b2eb95b170d5b8403e1ea35ee
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860181"
+name: Microsoft 365
+summary: >+
+  Usługa Microsoft 365 jest zgodna z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Biznes, Edukacja, Przedsiębiorstwa,
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>Linki \n* [Plan działania usługi Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Wymagania systemowe](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Wersje \n* Biznesowych\n* Edukacji\n* Przedsiębiorstwo\n* Rząd"

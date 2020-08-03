@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Ścieżka infopath 2013
+  description: Program Infopath 2013 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 69bc8811a52c75cb58357ad4e0213f28a1001cae
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860007"
+name: Ścieżka infopath 2013
+summary: >+
+  Program Infopath 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 07/13/2021
+  extendedEnd: 07/14/2026
+releases:
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 07/14/2026
+content: "\n## <a name=\"links\"></a>Linki \n* [Szczegóły pomocy technicznej](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Pomoc techniczna dotycząca programu Microsoft InfoPath 2013 została rozszerzona w sposób pokazany w celu zapewnienia zgodności z programem SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Wersje \n* Standardowych"

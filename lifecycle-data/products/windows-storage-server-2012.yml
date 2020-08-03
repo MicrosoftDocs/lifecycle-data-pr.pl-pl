@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Storage Server 2012
+  description: System Windows Storage Server 2012 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ff27c05566c461244c14b45f75ef07a6ad47f6db
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859801"
+name: Windows Storage Server 2012
+summary: >+
+  System Windows Storage Server 2012 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Standard, Workgroup
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Podstawowa i rozszerzona pomoc techniczna dla tego produktu została rozszerzona, aby zapewnić klientom standardową oś czasu przejścia cyklu życia.\n\n## <a name=\"editions\"></a>Wersje \n* Standardowych\n* Grupy roboczej"

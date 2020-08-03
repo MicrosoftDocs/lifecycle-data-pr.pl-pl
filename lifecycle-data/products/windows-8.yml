@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 8
+  description: System Windows 8 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860026"
+name: Windows 8
+summary: >
+  System Windows 8 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N
+
+
+  > [!IMPORTANT]
+
+  > Obsługa tego produktu została zakończona. Klienci muszą zaktualizować system Windows 8.1, aby pozostać obsługiwanym.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące cyklu życia — Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Wersje \n* Przedsiębiorstwo\n* Przedsiębiorstwo N\n* N\n* Pro z media center\n* Professional\n* Profesjonalny N"

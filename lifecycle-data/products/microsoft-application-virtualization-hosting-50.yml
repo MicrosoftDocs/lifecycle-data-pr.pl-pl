@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Hosting wirtualizacji aplikacji firmy Microsoft 5.0 dla komputerów stacjonarnych z systemem Windows
+  description: Hosting wirtualizacji aplikacji firmy Microsoft 5.0 dla komputerów stacjonarnych z systemem Windows jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859919"
+name: Hosting wirtualizacji aplikacji firmy Microsoft 5.0 dla komputerów stacjonarnych z systemem Windows
+summary: >+
+  Hosting wirtualizacji aplikacji firmy Microsoft 5.0 dla komputerów stacjonarnych z systemem Windows jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: dla komputerów stacjonarnych z systemem Windows
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/01/2012
+  end: 01/09/2018
+  extendedEnd: 04/14/2026
+releases:
+- version: Service Pack 3
+  startDate: 12/08/2014
+  endDate: 04/14/2026
+- version: Service Pack 2
+  startDate: 11/08/2013
+  endDate: 01/12/2016
+- version: Service Pack 1
+  startDate: 04/10/2013
+  endDate: 01/13/2015
+- version: Original Release
+  startDate: 11/01/2012
+  endDate: 07/08/2014
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Wersje \n* dla komputerów z systemem Windows Desktops"

@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Wirtualizacja pulpitu dla przedsiębiorstw firmy Microsoft 2.0
+  description: Wirtualizacja pulpitu dla przedsiębiorstw firmy Microsoft 2.0 jest zgodna z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 003a5a0de6b6aab0b3422c53f305f9a445cc76e9
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860098"
+name: Wirtualizacja pulpitu dla przedsiębiorstw firmy Microsoft 2.0
+summary: >+
+  Wirtualizacja pulpitu dla przedsiębiorstw firmy Microsoft 2.0 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Enterprise
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/10/2011
+  end: 04/12/2016
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 03/10/2011
+  endDate: 04/13/2021
+content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Przedsiębiorstwo"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Harmonogram platformy Azure
+  description: Harmonogram platformy Azure jest zgodny z zasadami nowoczesnego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859772"
+name: Harmonogram platformy Azure
+summary: >+
+  Harmonogram platformy Azure jest zgodny z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 07/01/2014
+  end: 09/30/2019
+releases:
+- version: Original Release
+  startDate: 07/01/2014
+  endDate: 09/30/2019
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"

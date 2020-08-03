@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Program Lync 2013
+  description: Program Lync 2013 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859897"
+name: Program Lync 2013
+summary: >+
+  Program Lync 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: SDK, Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/11/2023
+content: "\n\n> [!NOTE]\n> Wersja klienta programu Skype dla firm 2015 jest aktualizacją klienta programu Lync 2013 i będzie zgodna z tym samym cyklem życia produktu.\nData rozpoczęcia sdk programu Lync 2013 to 23 lutego 2013 r. \n\n## <a name=\"editions\"></a>Wersje \n* Sdk\n* Standardowych"
