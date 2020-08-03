@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Brama zarządzania zagrożeniami w forefrontach firmy Microsoft, Medium Business Edition
+  description: Brama zarządzania zagrożeniami w programie Microsoft Forefront, medium business edition jest zgodna z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3c131da862f2972fbb5afe704f499ea4e649df78
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832164"
+name: Brama zarządzania zagrożeniami w forefrontach firmy Microsoft, Medium Business Edition
+summary: >+
+  Brama zarządzania zagrożeniami w programie Microsoft Forefront, medium business edition jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji:
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 11/12/2008
+  end: 11/12/2013
+  extendedEnd: 11/12/2018
+releases:
+- version: Original Release
+  startDate: 11/12/2008
+  endDate: 11/12/2018
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Wersje \n* Biznesowych"
