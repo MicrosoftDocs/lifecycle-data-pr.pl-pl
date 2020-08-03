@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Wirtualizacja aplikacji firmy Microsoft 4.6
+  description: Wirtualizacja aplikacji firmy Microsoft 4.6 jest zgodna z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832242"
+name: Wirtualizacja aplikacji firmy Microsoft 4.6
+summary: >+
+  Wirtualizacja aplikacji firmy Microsoft 4.6 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: dla usług pulpitu zdalnego dla pulpitów systemu Windows, sekwencer
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produktach i migracji](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ponieważ klient app-v 4.6 korzysta z serwera App-V 4.5, serwer App-V 4.5 będzie nadal obsługiwany zgodnie z datami cyklu życia aplikacji 4.6, gdy jest używany z obsługiwanym klientem App-V 4.6.\n\n## <a name=\"editions\"></a>Wersje \n* dla usług pulpitu zdalnego\n* dla komputerów z systemem Windows Desktops\n* Sekwenser"
