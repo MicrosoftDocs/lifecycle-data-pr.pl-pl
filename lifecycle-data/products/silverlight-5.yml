@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Silverlight 5 (Światło silverlight) 5
+  description: Program Silverlight 5 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871330"
+name: Silverlight 5 (Światło silverlight) 5
+summary: >+
+  Program Silverlight 5 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+products:
+- silverlight
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2011
+  end: 10/12/2021
+releases:
+- version: Original Release
+  startDate: 12/09/2011
+  endDate: 10/12/2021
+content: "\n## <a name=\"links\"></a>Linki \n* [Program Silverlight 5 będzie obsługiwać przeglądarki wymienione w 10/12/2021 lub przez cykl życia podstawowych przeglądarek, w zależności od tego, która z tych wartości jest krótsza.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlight Koniec wsparcia](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Firma Microsoft powiadomi o tym co najmniej 12 miesięcy przed zakończeniem pomocy technicznej dla narzędzi."

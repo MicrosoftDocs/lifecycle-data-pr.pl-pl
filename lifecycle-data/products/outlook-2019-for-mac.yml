@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Program Outlook 2019 dla komputerów Mac
+  description: Program Outlook 2019 dla komputerów Mac jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 006aa458fb550f820a351c1bf093611c95d2d7c4
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871352"
+name: Program Outlook 2019 dla komputerów Mac
+summary: >+
+  Program Outlook 2019 dla komputerów Mac jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/24/2018
+  end: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 09/24/2018
+  endDate: 10/10/2023
+content: ''
