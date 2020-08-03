@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Zestaw do przenoszenia programu Microsoft .NET Micro Framework 3.0
+  description: Zestaw 3.0 dla systemu Microsoft .NET Micro Framework Porting Kit jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: bceaa4d262839239519b3ea3244f762d88982921
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832528"
+name: Zestaw do przenoszenia programu Microsoft .NET Micro Framework 3.0
+summary: >
+  Zestaw 3.0 dla systemu Microsoft .NET Micro Framework Porting Kit jest zgodny [z zasadami stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+
+  > [!IMPORTANT]
+
+  > Obsługa tego produktu została zakończona.
+products:
+- dotnet
+policyType: fixed
+supportDates:
+  start: 01/25/2009
+  end: 04/08/2014
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 01/25/2009
+  endDate: 07/11/2017
+content: ''

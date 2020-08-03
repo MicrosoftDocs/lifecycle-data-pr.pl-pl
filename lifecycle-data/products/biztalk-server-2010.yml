@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Serwer BizTalk 2010
+  description: Program BizTalk Server 2010 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0e1ec4100c78330ba53becb9c910129cf0f2602c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832437"
+name: Serwer BizTalk 2010
+summary: >+
+  Program BizTalk Server 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Oddział, Deweloper, Przedsiębiorstwo, Standard
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 11/14/2010
+  end: 01/12/2016
+  extendedEnd: 01/12/2021
+releases:
+- version: Original Release
+  startDate: 11/14/2010
+  endDate: 01/12/2021
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Informacje o wersji](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Wersje \n* Oddział\n* Deweloper\n* Przedsiębiorstwo\n* Standardowych"
