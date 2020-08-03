@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Hosting wirtualizacji aplikacji firmy Microsoft 4.5 dla komputerów stacjonarnych z systemem Windows
+  description: Hosting wirtualizacji aplikacji firmy Microsoft 4.5 dla komputerów stacjonarnych z systemem Windows jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832237"
+name: Hosting wirtualizacji aplikacji firmy Microsoft 4.5 dla komputerów stacjonarnych z systemem Windows
+summary: >
+  Hosting wirtualizacji aplikacji firmy Microsoft 4.5 dla komputerów stacjonarnych z systemem Windows jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: dla komputerów stacjonarnych z systemem Windows
+
+
+  > [!IMPORTANT]
+
+  > Obsługa tego produktu została zakończona. Zobacz informacje o migracji poniżej.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produktach i migracji](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Wersje \n* dla komputerów z systemem Windows Desktops"

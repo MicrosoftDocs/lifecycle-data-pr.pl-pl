@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Antygen firmy Microsoft
+  description: Antygen firmy Microsoft jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832246"
+name: Antygen firmy Microsoft
+summary: >+
+  Antygen firmy Microsoft jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: 9.0 dla exchange, Enterprise Manager 9.0, dla bram SMTP, Spam Manager
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/17/2006
+  end: 04/08/2014
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 07/17/2006
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Mapa drogowa dla produktów zabezpieczających pod marką Forefront uległa zmianie.Ten produkt jest wycofany z obrotu od 31 grudnia 2015.\n\n## <a name=\"editions\"></a>Wersje \n* 9.0 dla giełdy\n* Menedżer przedsiębiorstwa 9.0\n* dla bram SMTP\n* Menedżer spamu"
