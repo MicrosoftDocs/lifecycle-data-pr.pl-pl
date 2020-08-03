@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Plan online programu Visio 2
+  description: Plan 2 usługi Visio Online jest zgodny z zasadami nowoczesnego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5320f94b79e36743b0fb70999b363dd7f5466fb6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860079"
+name: Plan online programu Visio 2
+summary: >+
+  Plan 2 usługi Visio Online jest zgodny z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: ''

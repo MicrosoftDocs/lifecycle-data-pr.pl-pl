@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: InMage Scout w usłudze Azure Site Recovery
+  description: InMage Scout w usłudze Azure Site Recovery jest zgodny z zasadami nowoczesnego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e7dc0cfa718919e8546b0d28c28ff8c0d3347d3b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859937"
+name: InMage Scout w usłudze Azure Site Recovery
+summary: >+
+  InMage Scout w usłudze Azure Site Recovery jest zgodny z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 08/01/2014
+  end: 12/31/2020
+releases:
+- version: Original Release
+  startDate: 08/01/2014
+  endDate: 12/31/2020
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://aka.ms/asr-scout-doc)"

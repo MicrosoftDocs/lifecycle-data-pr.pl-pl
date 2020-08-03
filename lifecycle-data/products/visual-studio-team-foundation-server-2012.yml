@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Program Visual Studio Team Foundation Server 2012
+  description: Program Visual Studio Team Foundation Server 2012 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fd163f4af7e1f56e537990c97f59aa03cbb323c2
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860161"
+name: Program Visual Studio Team Foundation Server 2012
+summary: >+
+  Program Visual Studio Team Foundation Server 2012 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Wszystkie
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/31/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 01/10/2023
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/13/2015
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/azure/devops/server/upgrade/get-started?view=azure-devops)\n\n\n## <a name=\"editions\"></a>Wersje \n* Wszystkie"

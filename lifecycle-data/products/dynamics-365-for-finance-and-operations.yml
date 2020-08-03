@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamika 365 dla finansów i operacji
+  description: Dynamics 365 for Finance and Operations jest zgodna z nowoczesnymi zasadami cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860052"
+name: Dynamika 365 dla finansów i operacji
+summary: >+
+  Dynamics 365 for Finance and Operations jest zgodna z [nowoczesnymi](/lifecycle/policies/modern) zasadami cyklu życia.
+
+
+  Dotyczy to następujących wersji: Enterprise
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 02/19/2016
+releases:
+- version: Original Release
+  startDate: 02/19/2016
+content: "\n## <a name=\"links\"></a>Linki \n* [Plan działania systemu Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Informacje serwisowe](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Wymagania systemowe](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Wersje \n* Przedsiębiorstwo"

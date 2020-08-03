@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Menedżer operacyjny programu Microsoft System Center 2012 R2
+  description: Program Microsoft System Center 2012 R2 Operations Manager jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 57db6fbda015c2bbd55d4ec9621ed6cda6948a56
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859850"
+name: Menedżer operacyjny programu Microsoft System Center 2012 R2
+summary: >+
+  Program Microsoft System Center 2012 R2 Operations Manager jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 01/16/2014
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 01/16/2014
+  endDate: 07/12/2022
+content: "\n## <a name=\"links\"></a>Linki \n* [Dokumentacja centrum systemowego](/system-center/#pivot=components&panel=components-all)\n* [Zasoby centrum systemowego](https://www.microsoft.com/system-center/resources)"

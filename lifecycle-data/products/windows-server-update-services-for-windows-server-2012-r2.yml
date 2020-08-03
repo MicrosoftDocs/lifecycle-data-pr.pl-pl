@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Usługi Windows Server Update Services dla systemu Windows Server 2012 R2
+  description: Usługi Windows Server Update Services dla systemu Windows Server 2012 R2 są zgodne z zasadami cyklu życia składnika.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: db602a56da102f56953ea16e19275df5aa653458
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860150"
+name: Usługi Windows Server Update Services dla systemu Windows Server 2012 R2
+summary: >+
+  Usługi Windows Server Update Services dla systemu Windows Server 2012 R2 są zgodne z zasadami cyklu życia [składnika.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 11/25/2013
+releases:
+- version: Original Release
+  startDate: 11/25/2013
+  endDate: 10/10/2023
+content: "> [!TIP]\n> Ten składnik jest zgodny z cyklem życia produktu nadrzędnego, Windows Server 2012 R2\n\n## <a name=\"links\"></a>Linki \n* [Windows Server 2012 R2](/lifecycle/)"

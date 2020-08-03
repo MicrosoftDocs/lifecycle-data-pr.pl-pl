@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 4.5.1
+  description: Program Microsoft .NET Framework 4.5.1 jest zgodny z zasadami cyklu życia składników.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9141a70347bbcd248703cfb15bfe1414abda7caa
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859891"
+name: Microsoft .NET Framework 4.5.1
+summary: >+
+  Program Microsoft .NET Framework 4.5.1 jest zgodny z zasadami cyklu życia [składników.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 01/15/2014
+  end: 01/12/2016
+releases:
+- version: RTM
+  startDate: 01/15/2014
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-451)\n\n> [!NOTE]\n> Obsługa programu .NET Framework 4, 4.5 i 4.5.1 zakończyła się 12 stycznia 2016 r."

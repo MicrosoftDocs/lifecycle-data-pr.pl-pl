@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Embedded 8 Przemysł
+  description: Branża osadzona w systemie Windows 8 jest zgodna z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859808"
+name: Windows Embedded 8 Przemysł
+summary: >
+  Branża osadzona w systemie Windows 8 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Enterprise, Pro
+
+
+  > [!IMPORTANT]
+
+  > Klienci muszą przeprowadzić migrację do systemu Windows 8.1w celu zachowania obsługi.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/24/2013
+  end: 01/12/2016
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 06/24/2013
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Cykliczne — często zadawane pytania - Produkty z systemem Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Wersje \n* Przedsiębiorstwo\n* Pro"

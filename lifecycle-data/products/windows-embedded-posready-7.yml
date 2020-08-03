@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Osadzone pos systemu WindowsCzytaj 7
+  description: PosReady 7 z osadzonym systemem Windows jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61f2ed95175d81f6e33f8435e70b3b45a01094f5
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860151"
+name: Osadzone pos systemu WindowsCzytaj 7
+summary: >+
+  PosReady 7 z osadzonym systemem Windows jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 09/10/2011
+  end: 10/11/2016
+  extendedEnd: 10/12/2021
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 10/10/2023
+  endDate: 10/14/2024
+- version: Extended Security Update Year 2*
+  startDate: 10/11/2022
+  endDate: 10/10/2023
+- version: Extended Security Update Year 1*
+  startDate: 10/12/2021
+  endDate: 10/08/2022
+- version: Original Release
+  startDate: 09/10/2011
+  endDate: 10/12/2021
+content: "\n## <a name=\"links\"></a>Linki \n* [* Rozszerzony program aktualizacji zabezpieczeń (ESU) — rozszerzone aktualizacje zabezpieczeń dla wybranych produktów wbudowanych są dostępne za pośrednictwem usług OEM.](/lifecycle/faq/extended-security-updates)\n* [Tryb osadzony IoT systemu Windows](/windows/iot-core/develop-your-app/embeddedmode)"

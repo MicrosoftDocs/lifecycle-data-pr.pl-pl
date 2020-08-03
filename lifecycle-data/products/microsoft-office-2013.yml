@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Pakiet Microsoft Office 2013
+  description: Pakiet Microsoft Office 2013 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860225"
+name: Pakiet Microsoft Office 2013
+summary: >+
+  Pakiet Microsoft Office 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Home and Business, Home and Student, Professional, Professional Plus, Professional Plus Home Use Program, Standard, Web Apps Server
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Service Pack 1
+  startDate: 02/25/2014
+  endDate: 04/11/2023
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/14/2015
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dodatek Service Pack 1 nie ma zastosowania do wersji serwera aplikacji sieci Web. \n\n## <a name=\"editions\"></a>Wersje \n* Dom i biznes\n* Dom i student\n* Professional\n* Profesjonalny Plus\n* Program do użytku domowego Professional Plus\n* Standardowych\n* Serwer aplikacji sieci Web"

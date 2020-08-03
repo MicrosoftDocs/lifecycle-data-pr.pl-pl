@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 7.8
+  description: System Windows Phone 7.8 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860242"
+name: Windows Phone 7.8
+summary: >
+  System Windows Phone 7.8 jest zgodny [z zasadami stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+
+  > [!IMPORTANT]
+
+  > Obsługa tego produktu została zakończona.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 02/09/2013
+  end: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 02/09/2013
+  endDate: 10/14/2014
+content: "\n\n> [!NOTE]\n> Firma Microsoft udostępni w telefonie aktualizacje systemu operacyjnego, w tym aktualizacje zabezpieczeń, przez okres 18 miesięcy od daty rozpoczęcia cyklu życia. Dystrybucja aktualizacji może być kontrolowana przez operatora sieci komórkowej lub producenta telefonu, od którego zakupiono telefon. Dostępność aktualizacji będzie się również różnić w zależności od kraju, regionu i możliwości sprzętu."

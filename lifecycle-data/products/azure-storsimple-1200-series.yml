@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Seria Azure StorSimple 1200
+  description: Usługa Azure StorSimple serii 1200 jest zgodna z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 82f3a04f6c89120819c1db952a04ddbd45d4f9c9
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859781"
+name: Seria Azure StorSimple 1200
+summary: >+
+  Usługa Azure StorSimple serii 1200 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+products:
+- azure
+policyType: fixed
+supportDates:
+  start: 10/28/2016
+  end: 07/01/2020
+  extendedEnd: 12/31/2022
+releases:
+- version: Original Release
+  startDate: 10/28/2016
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/azure/storage/files/storage-files-migration-storsimple-1200)"

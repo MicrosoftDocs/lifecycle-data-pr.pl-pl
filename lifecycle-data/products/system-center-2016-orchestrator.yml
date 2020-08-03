@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Koordynator Programu System Center 2016
+  description: Program Programu Program programu System Center 2016 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c5725bbb0002c3952fb18ff688be105c808e190b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860259"
+name: Koordynator Programu System Center 2016
+summary: >+
+  Program Programu Program programu System Center 2016 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/28/2016
+  end: 01/11/2022
+  extendedEnd: 01/11/2027
+releases:
+- version: Original Release
+  startDate: 10/28/2016
+  endDate: 01/11/2027
+content: ''
