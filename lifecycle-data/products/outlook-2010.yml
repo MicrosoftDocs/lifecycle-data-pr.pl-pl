@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Outlook 2010
+  description: Program Outlook 2010 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 54e6783e437f7a61c6e49b3b81ff496cc8a765f9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832075"
+name: Outlook 2010
+summary: >+
+  Program Outlook 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Standard z business contact managerem
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/DeployOffice/office-2010-end-support-roadmap)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Wersje \n* Standardowych\n* z menedżerem kontaktów biznesowych"
