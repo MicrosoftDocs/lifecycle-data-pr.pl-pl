@@ -1,30 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Analytics
-  description: Usługa Windows Analytics jest zgodna z zasadami nowoczesnego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4e35970134232ac66d6cae3e03ce5f0dcb3ceb0b
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: Analiza systemu Windows
+  description: Analiza systemu Windows jest zgodna z nowoczesnymi zasadami cyklu życia.
+  ms.date: 08/11/2020
+  ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
+  ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "871285"
-name: Windows Analytics
+  ms.lasthandoff: 08/11/2020
+  ms.locfileid: "887866"
+name: Analiza systemu Windows
 summary: >
-  Usługa Windows Analytics jest zgodna z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  Analiza systemu Windows jest zgodna z [nowoczesnymi](/lifecycle/policies/modern) zasadami cyklu życia.
 
 
 
   > [!IMPORTANT]
 
-  > Wsparcie zostało zakończone. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
+  > Pomoc techniczna została zakończona. Zobacz wskazówki dotyczące migracji poniżej.
 products:
 - windows
 policyType: modern-on-prem
 supportDates:
   start: 03/02/2017
+  end: 01/31/2020
 releases:
 - version: Original Release
   startDate: 03/02/2017
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
+content: "\n## <a name=\"links\"></a>Umieszczon \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
