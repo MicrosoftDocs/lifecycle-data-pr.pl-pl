@@ -1,28 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Forefront Security for Exchange Server
-  description: Program Forefront Security for Exchange Server jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c3d1542acc20b211ef41984c07656ca0f74be61
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Program Forefront Security for Exchange Server
+  description: Program Forefront Security for Exchange Server jest zgodny ze stałymi zasadami cyklu życia.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832277"
-name: Forefront Security for Exchange Server
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893731"
+name: Program Forefront Security for Exchange Server
 summary: >
-  Program Forefront Security for Exchange Server jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Forefront Security for Exchange Server jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
 
   > [!IMPORTANT]
 
-  > Mapa drogowa dla produktów zabezpieczających pod marką Forefront uległa zmianie. Ten produkt jest wycofany z obrotu od 31 grudnia 2015.
+  > Plan dla produktów zabezpieczających w ramach marki Forefront zmienił się. Ten produkt jest wycofany z 31 grudnia 2015 r.
 products:
 - windows
 policyType: fixed
 supportDates:
   start: 03/08/2007
+  end: 12/31/2015
   extendedEnd: 12/31/2015
 releases:
 - version: Service Pack 2
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>Umieszczon \n* [Wskazówki dotyczące migracji](https://www.microsoft.com/security/business/explore/cybersecurity)"
