@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Informacje o cyklu życia produktów i usług wyszukiwania (wersja zapoznawcza)
+title: Wyszukiwanie informacji o cyklu życia produktów i usług (wersja Preview)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Ta strona jest w fazie rozwoju. Aby uzyskać pełną listę produktów firmy Microsoft oraz ich harmonogramy i szczegóły pomocy technicznej, odwiedź [stronę aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Eksportowanie informacji o cyklu życia ze strony [Eksportowanie cyklu życia.](/lifecycle/export/products)\n\n\nCykl życia firmy Microsoft zapewnia spójne i przewidywalne wytyczne dotyczące pomocy technicznej przez cały okres użytkowania produktu, pomagając klientom zarządzać inwestycjami i środowiskami IT, jednocześnie strategicznie planując przyszłość.\n\n\nPoniżej wyszukaj listę komercyjnych produktów i usług firmy Microsoft, a następnie wybierz wynik, aby znaleźć pomoc techniczną i obsługę osi czasu, wymagane aktualizacje, informacje o migracji i wymagania systemowe."
+summary: "\n\n> [!IMPORTANT]\n> Ta strona jest w trakcie opracowywania i będzie dostępna w pełnym dniu 2 września. Tymczasem możesz wyświetlić pełną listę produktów firmy Microsoft wraz z ich osiami czasu i szczegółowymi informacjami w witrynie [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Eksportowanie informacji o cyklu życia z strony [Eksportowanie cyklu życia](/lifecycle/export/products) .\n\n\nFirma Microsoft zapewnia spójne i przewidywalne wytyczne dotyczące pomocy w całym okresie użytkowania produktu, pomagając klientom w zarządzaniu inwestycjami i środowiskami INFORMATYCZNymi podczas strategicznego planowania w przyszłości.\n\n\nWyszukaj poniżej listę produktów i usług komercyjnych firmy Microsoft, a następnie wybierz wynik, aby znaleźć pomoc techniczną i serwisową, wymagane aktualizacje, informacje dotyczące migracji oraz wymagania systemowe."
 metadata:
-  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
-  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
+  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
+  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 08/04/2020
-  ms.locfileid: "882447"
+  ms.lasthandoff: 08/17/2020
+  ms.locfileid: "899850"
