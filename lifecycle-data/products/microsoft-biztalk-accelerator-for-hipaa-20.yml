@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BizTalk Accelerator dla HIPAA 2,0
+  description: Program Microsoft BizTalk Accelerator dla HIPAA 2,0 jest zgodny ze stałymi zasadami cyklu życia.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 09c6fc47a6b2f21bb6325d7451927076984c2a5f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904386"
+name: Microsoft BizTalk Accelerator dla HIPAA 2,0
+summary: >+
+  Program Microsoft BizTalk Accelerator dla HIPAA 2,0 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+
+
+  Dotyczy to następujących wersji: Enterprise, standard
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 02/15/2003
+  end: 04/08/2008
+  extendedEnd: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 02/15/2003
+  endDate: 04/09/2013
+content: "\n\n\n## <a name=\"editions\"></a>Wydań \n* —\n* Standard"
