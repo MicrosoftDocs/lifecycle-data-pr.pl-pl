@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Ulepszony zestaw narzędzi do ograniczania ryzyka (EMET)
+  description: Ulepszony pakiet narzędzi do ograniczania ryzyka (EMET) jest zgodny ze stałymi zasadami cyklu życia.
+  ms.date: 08/20/2020
+  ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
+  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905319"
+name: Ulepszony zestaw narzędzi do ograniczania ryzyka (EMET)
+summary: >+
+  Ulepszony pakiet narzędzi do ograniczania ryzyka (EMET) jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2016
+  end: 12/30/2016
+  extendedEnd: 07/31/2018
+releases:
+- version: Original Release
+  startDate: 12/30/2016
+  endDate: 07/31/2018
+content: ''
