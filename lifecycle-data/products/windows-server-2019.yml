@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: c074cbdb100e858572f6f6375311034d593055a9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871282"
@@ -14,7 +14,7 @@ summary: >+
   System Windows Server 2019 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Datacenter, Essentials, Standard
+  Dotyczy to następujących edycji: Datacenter, Essentials, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/windows-server/get-started-19/whats-new-19)\n* [Aktualizacja dostępności systemu Windows Server 2019](https://aka.ms/WSRelaunchBlog)\n* [Cykliczne — często zadawane pytania - Produkty z systemem Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 i Windows Server, wersja 1809 zostały ponownie wydane w listopadzie 13, 2018. Daty wsparcia zostały odpowiednio skorygowane.\n\n## <a name=\"editions\"></a>Wersje \n* Datacenter\n* Podstawy\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/windows-server/get-started-19/whats-new-19)\n* [Aktualizacja dot. dostępności systemu Windows Server 2019](https://aka.ms/WSRelaunchBlog)\n* [Często zadawane pytania dotyczące zasad cyklu życia — Produkty z systemem Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Systemy Windows Server 2019 i Windows Server, wersja 1809 zostały ponownie wydane 13 listopada 2018 r. Terminy końca wsparcia technicznego zostały odpowiednio zmienione.\n\n## <a name=\"editions\"></a>Edycje \n* Datacenter\n* Essentials\n* Standard"

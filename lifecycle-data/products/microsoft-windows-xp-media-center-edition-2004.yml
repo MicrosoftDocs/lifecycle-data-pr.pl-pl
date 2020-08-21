@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Windows XP Media Center Edition 2004
-  description: System Microsoft Windows XP Media Center Edition 2004 jest zgodny z ustalonymi zasadami cyklu życia.
+  description: System Microsoft Windows XP Media Center Edition 2004 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/05/2020
   ms.openlocfilehash: 8dc0603e1db4f759c1d882a09a6b3d95ea08cbec
   ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/05/2020
   ms.locfileid: "883485"
 name: Microsoft Windows XP Media Center Edition 2004
 summary: >+
-  System Microsoft Windows XP Media Center Edition 2004 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  System Microsoft Windows XP Media Center Edition 2004 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: program Media Center
+  Dotyczy to następujących edycji: Media Center
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/27/2003
   endDate: 10/10/2006
-content: "\n\n\n## <a name=\"editions\"></a>Wydań \n* Media Center"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Media Center"
