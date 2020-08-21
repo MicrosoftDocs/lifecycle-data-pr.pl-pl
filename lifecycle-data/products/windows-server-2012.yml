@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Windows Server 2012
+  title: Windows Server 2012
   description: System Windows Server 2012 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860238"
-name: System Windows Server 2012
+name: Windows Server 2012
 summary: >+
   System Windows Server 2012 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
+  Dotyczy to następujących edycji: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/windows-server/upgrade/upgrade-overview)\n* [Informacje o produkcie](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Podstawowa i rozszerzona pomoc techniczna dla tego produktu została rozszerzona, aby zapewnić klientom standardową oś czasu przejścia cyklu życia. System Windows Server Essentials wydany 2 stycznia 2013 r.\n\n## <a name=\"editions\"></a>Wersje \n* Datacenter\n* Podstawy\n* dla systemów wbudowanych\n* Foundation\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/windows-server/upgrade/upgrade-overview)\n* [Informacje o produkcie](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Podstawowe i dodatkowe wsparcie dla tego produktu zostało rozszerzone, aby zapewnić klientom przejście na standardowy czas trwania cyklu życia. System Windows Server Essentials wydany 2 stycznia 2013 r.\n\n## <a name=\"editions\"></a>Edycje \n* Datacenter\n* Essentials\n* for Embedded Systems\n* Foundation\n* Standard"

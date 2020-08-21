@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Pakiet Microsoft Office 2013
+  title: Microsoft Office 2013
   description: Pakiet Microsoft Office 2013 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860225"
-name: Pakiet Microsoft Office 2013
+name: Microsoft Office 2013
 summary: >+
   Pakiet Microsoft Office 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Home and Business, Home and Student, Professional, Professional Plus, Professional Plus Home Use Program, Standard, Web Apps Server
+  Dotyczy to następujących edycji: Home and Business, Home and Student, Professional, Professional Plus, Professional Plus Home Use Program, Standard, Web Apps Server
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dodatek Service Pack 1 nie ma zastosowania do wersji serwera aplikacji sieci Web. \n\n## <a name=\"editions\"></a>Wersje \n* Dom i biznes\n* Dom i student\n* Professional\n* Profesjonalny Plus\n* Program do użytku domowego Professional Plus\n* Standardowych\n* Serwer aplikacji sieci Web"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Dodatek Service Pack 1 nie ma zastosowania do edycji Web Apps Server. \n\n## <a name=\"editions\"></a>Edycje \n* Home and Business\n* Home and Student\n* Professional\n* Professional Plus\n* Professional Plus Home Use Program\n* Standard\n* Web Apps Server"

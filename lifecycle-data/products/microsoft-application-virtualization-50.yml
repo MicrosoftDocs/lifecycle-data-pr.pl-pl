@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Wirtualizacja aplikacji firmy Microsoft 5.0
-  description: Wirtualizacja aplikacji firmy Microsoft 5.0 jest zgodna z zasadami stałego cyklu życia.
+  title: Microsoft Application Virtualization 5.0
+  description: Program Microsoft Application Virtualization 5.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859928"
-name: Wirtualizacja aplikacji firmy Microsoft 5.0
+name: Microsoft Application Virtualization 5.0
 summary: >+
-  Wirtualizacja aplikacji firmy Microsoft 5.0 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Microsoft Application Virtualization 5.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: dla usług pulpitu zdalnego, usług terminalowych, pulpitów systemu Windows
+  Dotyczy to następujących edycji: for Remote Desktop Services, for Terminal Services, for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Wersje \n* dla usług pulpitu zdalnego\n* dla usług terminalowych\n* dla komputerów z systemem Windows Desktops"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edycje \n* for Remote Desktop Services\n* for Terminal Services\n* for Windows Desktops"

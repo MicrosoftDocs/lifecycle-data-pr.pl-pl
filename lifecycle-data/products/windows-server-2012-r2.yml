@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 35b2c5868387b3f6aa94bc41d2674c8ea7286aa6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859819"
@@ -14,7 +14,7 @@ summary: >+
   System Windows Server 2012 R2 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
+  Dotyczy to następujących edycji: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Podstawowa i rozszerzona pomoc techniczna dla tego produktu została rozszerzona, aby zapewnić klientom standardową oś czasu przejścia cyklu życia.\n\n## <a name=\"editions\"></a>Wersje \n* Datacenter\n* Podstawy\n* dla systemów wbudowanych\n* Foundation\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Podstawowe i dodatkowe wsparcie dla tego produktu zostało rozszerzone, aby zapewnić klientom przejście na standardowy czas trwania cyklu życia.\n\n## <a name=\"editions\"></a>Edycje \n* Datacenter\n* Essentials\n* for Embedded Systems\n* Foundation\n* Standard"

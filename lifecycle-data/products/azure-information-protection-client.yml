@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859768"
 name: Klient usługi Azure Information Protection
 summary: >+
-  Klient usługi Azure Information Protection jest zgodny z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  Klient usługi Azure Information Protection jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Aby zapewnić ujednolicone i usprawnione środowisko klienta, klient usługi Azure Information Protection (klasyczny) i zarządzanie etykietami w witrynie Azure Portal są przestarzałe od 31 marca 2021 r. Ta rama czasowa umożliwia wszystkim obecnym klientom usługi Azure Information Protection przejście do naszego ujednoliconego rozwiązania do etykietowania przy użyciu platformy Microsoft Information Protection Unified Labeling."
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Aby zapewnić ujednolicone i usprawnione środowisko klienta, klient usługi Azure Information Protection (klasyczny) i zarządzanie etykietami w witrynie Azure Portal zostaną uznane za przestarzałe od 31 marca 2021 r. Te ramy czasowe umożliwiają wszystkim obecnym klientom usługi Azure Information Protection przejście do naszego ujednoliconego rozwiązania do etykietowania przy użyciu platformy Microsoft Information Protection Unified Labeling."

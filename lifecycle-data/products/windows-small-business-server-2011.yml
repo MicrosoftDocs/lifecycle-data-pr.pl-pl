@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859977"
@@ -14,12 +14,12 @@ summary: >
   System Windows Small Business Server 2011 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Essentials, Premium Add-On, Standard
+  Dotyczy to następujących edycji: Essentials, Premium Add-On, Standard
 
 
   > [!IMPORTANT]
 
-  > Data wsparcia dla tego pakietu produktu zależy od poszczególnych cyklu życia produktu. Przejrzyj cykl życia poszczególnych komponentów, aby określić jego długość wsparcia.
+  > Data wsparcia dla tego pakietu produktu zależy od poszczególnych cykli życia składników produktu. Przejrzyj cykl życia poszczególnych składników, aby określić ich długość wsparcia.
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/09/2011
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://aka.ms/AA1ovn4)\n* [Migrowanie systemu Windows Small Business Server 2011 Standard do systemu Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Wersje \n* Podstawy\n* Dodatek Premium\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://aka.ms/AA1ovn4)\n* [Migrowanie systemu Windows Small Business Server 2011 Standard do systemu Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>Edycje \n* Essentials\n* Premium Add-On\n* Standard"
