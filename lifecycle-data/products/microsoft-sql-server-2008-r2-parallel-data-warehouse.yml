@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Równoległy magazyn danych programu Microsoft SQL Server 2008 R2
-  description: Równoległy magazyn danych programu Microsoft SQL Server 2008 R2 jest zgodny z zasadami stałego cyklu życia.
+  title: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
+  description: Microsoft SQL Server 2008 R2 Parallel Data Warehouse jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831793"
-name: Równoległy magazyn danych programu Microsoft SQL Server 2008 R2
+name: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
 summary: >+
-  Równoległy magazyn danych programu Microsoft SQL Server 2008 R2 jest zgodny z [zasadami stałego](/lifecycle/policies/fixed) cyklu życia.
+  Microsoft SQL Server 2008 R2 Parallel Data Warehouse jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:

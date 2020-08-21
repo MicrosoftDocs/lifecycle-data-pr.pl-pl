@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rozwiązania dla systemu Windows Essential Server dla systemu Windows Server server 2008
-  description: Rozwiązania dla systemu Windows Essential Server w systemie Windows Server są zgodne z zasadami stałego cyklu życia.
+  title: Rozwiązania dla systemu Windows Server 2008 for Windows Essential Server
+  description: Rozwiązania dla systemu Windows Server 2008 for Windows Essential Server są zgodne z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: a0f008702c636963333da20217a32768124fe020
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832022"
-name: Rozwiązania dla systemu Windows Essential Server dla systemu Windows Server server 2008
+name: Rozwiązania dla systemu Windows Server 2008 for Windows Essential Server
 summary: >
-  Rozwiązania dla systemu Windows Essential Server w systemie Windows Server są zgodne z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Rozwiązania dla systemu Windows Server 2008 for Windows Essential Server są zgodne z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Standard, bez funkcji Hyper-V
+  Dotyczy to następujących edycji: Standard, bez funkcji Hyper-V
 
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
+  > Wsparcie dla tego produktu dobiegło końca. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/18/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://aka.ms/AA1ovn4)\n* [Informacje o produkcie](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Wersje \n* Standardowych\n* bez funkcji Hyper-V"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://aka.ms/AA1ovn4)\n* [Informacje o produkcie](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Edycje \n* Standard\n* bez funkcji Hyper-V"

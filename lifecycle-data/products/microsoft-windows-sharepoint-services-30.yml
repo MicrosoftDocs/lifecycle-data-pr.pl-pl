@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Microsoft Windows SharePoint Services 3.0
+  title: Microsoft Windows SharePoint Services 3.0
   description: Program Microsoft Windows SharePoint Services 3.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: cdc4d8caef3f00f070c4d3ce32c2eea2f6ecbf24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831548"
-name: Program Microsoft Windows SharePoint Services 3.0
+name: Microsoft Windows SharePoint Services 3.0
 summary: "Program Microsoft Windows SharePoint Services 3.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\n\n> [!IMPORTANT]\n> Wsparcie zostało zakończone. \n"
 products:
 - office
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linki \n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Wskazówki dotyczące migracji](/office365/enterprise/sharepoint-2007-end-of-support)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Wskazówki dotyczące migracji](/office365/enterprise/sharepoint-2007-end-of-support)"

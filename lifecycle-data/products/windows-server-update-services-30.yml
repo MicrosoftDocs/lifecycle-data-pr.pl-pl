@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Usługi Windows Server Update Services 3.0
-  description: System Windows Server Update Services 3.0 jest zgodny z zasadami stałego cyklu życia.
+  title: Windows Server Update Services 3.0
+  description: Program Windows Server Update Services 3.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832391"
-name: Usługi Windows Server Update Services 3.0
+name: Windows Server Update Services 3.0
 summary: >
-  System Windows Server Update Services 3.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Windows Server Update Services 3.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Wsparcie zostało przedłużone z 11.07.2017 r. do 1/14/2020."
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Wsparcie zostało przedłużone z 11.07.2017 r. do 14.01.2020 r."

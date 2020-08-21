@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831527"
 name: Windows 7
-summary: "System Windows 7 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących wersji: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Obsługa tego produktu została zakończona. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej. \n"
+summary: "System Windows 7 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących edycji: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej. \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> \"* Rozszerzone aktualizacje zabezpieczeń (ESU) są dostępne za pośrednictwem określonych programów licencjonowania zbiorowego dla wersji tego produktu Windows 7 Professional, Enterprise i Professional for Embedded Systems przez okres do dodatkowych trzech lat po zakończeniu pomocy technicznej. Aby dowiedzieć się więcej, skontaktuj się z partnerem lub zespołem kont firmy Microsoft. \n\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://support.microsoft.com/help/4057281)\n* [Uaktualnianie z systemu Windows 7 do systemu Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Rozszerzony program aktualizacji zabezpieczeń (ESU)](/lifecycle/faq/extended-security-updates)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Wersje \n* Przedsiębiorstwo\n* Przedsiębiorstwo N\n* Strona główna Podstawowa\n* Strona główna Premium\n* Strona główna Premium N\n* Professional\n* Specjalista w zakresie systemów wbudowanych\n* Profesjonalny N\n* Starter\n* Rozrusznik N\n* Ostateczny\n* Najlepszy dla systemów wbudowanych\n* Ostateczny N"
+content: "> [!TIP]\n> '* Rozszerzone aktualizacje zabezpieczeń (ESU) są dostępne dla systemu Windows 7 w wersji Professional, Enterprise i Professional for Embedded Systems przez dodatkowy okres maksymalnie trzech lat liczony od zakończenia wsparcia technicznego. Skontaktuj się z partnerem firmy Microsoft lub zespołem kont, aby dowiedzieć się więcej. \n\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://support.microsoft.com/help/4057281)\n* [Uaktualnienie systemu Windows 7 do systemu Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Program rozszerzonej aktualizacji zabezpieczeń (ESU)](/lifecycle/faq/extended-security-updates)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional for Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate for Embedded Systems\n* Ultimate N"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: FAST Search Server 2010 (dla witryn internetowych, dla aplikacji wewnętrznych)
-  description: Fast Search Server 2010 (dla witryn internetowych, dla aplikacji wewnętrznych) jest zgodna z zasadami stałego cyklu życia.
+  description: Program FAST Search Server 2010 (dla witryn internetowych, dla aplikacji wewnętrznych) jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832282"
 name: FAST Search Server 2010 (dla witryn internetowych, dla aplikacji wewnętrznych)
 summary: >+
-  Fast Search Server 2010 (dla witryn internetowych, dla aplikacji wewnętrznych) jest zgodna [z zasadami stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program FAST Search Server 2010 (dla witryn internetowych, dla aplikacji wewnętrznych) jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Aplikacje wewnętrzne, Strony internetowe
+  Dotyczy to następujących edycji: Aplikacje wewnętrzne, witryny internetowe
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Często zadawane pytania dotyczące cyklu życia — ogólne](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Nie obejmuje wersji wcześniej nieserwowanych. Wsparcie dla tego produktu podlega warunkom jego nabycia.\n\n## <a name=\"editions\"></a>Wersje \n* Aplikacje wewnętrzne\n* Strony internetowe"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Często zadawane pytania dotyczące cyklu życia — Ogólne](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Nie obejmuje wersji, które utraciły wsparcie wcześniej. Pomoc techniczna dotycząca tego produktu podlega warunkom jego nabycia.\n\n## <a name=\"editions\"></a>Edycje \n* Aplikacje wewnętrzne\n* Witryny internetowe"

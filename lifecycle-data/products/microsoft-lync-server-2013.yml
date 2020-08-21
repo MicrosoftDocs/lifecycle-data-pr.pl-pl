@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Microsoft Lync Server 2013
+  title: Microsoft Lync Server 2013
   description: Program Microsoft Lync Server 2013 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831832"
-name: Program Microsoft Lync Server 2013
+name: Microsoft Lync Server 2013
 summary: >+
   Program Microsoft Lync Server 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard
+  Dotyczy to następujących edycji: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Program Lync Phone Edition jest obsługiwany w programach Lync Server 2010 i Lync Server 2013. Data pomocy technicznej dla programu Lync Phone Edition została przedłużona o 2 lata, aby dostosować ją do cyklu życia programu Lync Server 2013.\n\n## <a name=\"editions\"></a>Wersje \n* Przedsiębiorstwo\n* Zestaw do tworzenia oprogramowania do czatu trwałego\n* Telefon\n* Sdk\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Program Lync Phone Edition jest obsługiwany w systemami Lync Server 2010 i Lync Server 2013. Data zakończenia wsparcia dla programu Lync Phone Edition została przedłużona o 2 lata, aby dostosować ją do cyklu życia systemu Lync Server 2013.\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise\n* Persistent Chat Software Development Kit\n* Phone\n* SDK\n* Standard"

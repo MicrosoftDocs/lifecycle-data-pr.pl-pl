@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serwer BizTalk 2009
+  title: BizTalk Server 2009
   description: Program BizTalk Server 2009 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832439"
-name: Serwer BizTalk 2009
+name: BizTalk Server 2009
 summary: >
   Program BizTalk Server 2009 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Oddział, Deweloper, Przedsiębiorstwo, Standard
+  Dotyczy to następujących edycji: Branch, Developer, Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
+  > Wsparcie dla tego produktu dobiegło końca. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Informacje o wersji](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Wersje \n* Oddział\n* Deweloper\n* Przedsiębiorstwo\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Wersja](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Branch\n* Developer\n* Enterprise\n* Standard"

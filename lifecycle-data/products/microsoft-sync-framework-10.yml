@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Microsoft Sync Framework 1.0
+  title: Microsoft Sync Framework 1.0
   description: Program Microsoft Sync Framework 1.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: c57a9049aa6c69c1a71aaa99f5a8184b78d1e144
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832126"
-name: Program Microsoft Sync Framework 1.0
+name: Microsoft Sync Framework 1.0
 summary: >
   Program Microsoft Sync Framework 1.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona.
+  > Wsparcie dla tego produktu dobiegło końca.
 products:
 - vs
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Obsługa dodatku SP1 w programie Sync Framework 1.0 kończy się w wskazanym dniu, chyba że jest dystrybuowana jako składnik programu SharePoint Server 2010, 2013, 2016 lub 2019. Składniki otrzymują taką samą pomoc techniczną jak ich produkt nadrzędny lub platforma."
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Wsparcie dla dodatku SP1 w programie Sync Framework 1.0 kończy się w wskazanym dniu, chyba że jest dystrybuowany jako składnik programu SharePoint Server 2010, 2013, 2016 lub 2019. Składniki objęte są takim samym wsparciem jak produkt lub platforma nadrzędna."

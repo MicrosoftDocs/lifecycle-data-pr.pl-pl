@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Microsoft SharePoint Server 2010
+  title: Microsoft SharePoint Server 2010
   description: Program Microsoft SharePoint Server 2010 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831564"
-name: Program Microsoft SharePoint Server 2010
+name: Microsoft SharePoint Server 2010
 summary: >+
   Program Microsoft SharePoint Server 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Usługi dostępu, Wszystkie obowiązujące, Usługi programu Excel, Usługi punktów wydajności
+  Dotyczy to następujących edycji: Usługi programu Access, wszystkie stosowne, Usługi programu Excel, Usługi programu Performance Point
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Linki \n* [Rozszerzenie pomocy technicznej](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Wskazówki dotyczące migracji](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Data zakończenia pomocy technicznej produktu została przedłużona z 13 października 2020 r. do 13 kwietnia 2021 r.\n\n## <a name=\"editions\"></a>Wersje \n* Usługi dostępu\n* Wszystkie obowiązujące\n* Usługi programu Excel\n* Usługi punktów wydajności"
+content: "\n## <a name=\"links\"></a>Linki \n* [Rozszerzenie pomocy technicznej](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Wskazówki dotyczące migracji](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Termin końca wsparcia technicznego tego produktu został przełożony z 13 października 2020 roku na 13 kwietnia 2021 roku.\n\n## <a name=\"editions\"></a>Edycje \n* Usługi programu Access\n* Wszystkie stosowne\n* Usługi programu Excel\n* Usługi programu Performance Point"

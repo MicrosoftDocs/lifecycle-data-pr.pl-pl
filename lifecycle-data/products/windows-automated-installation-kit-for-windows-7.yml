@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zestaw do zautomatyzowanej instalacji systemu Windows dla systemu Windows 7
+  title: Zestaw zautomatyzowanej instalacji systemu Windows dla systemu Windows 7
   description: Zestaw zautomatyzowanej instalacji systemu Windows dla systemu Windows 7 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831524"
-name: Zestaw do zautomatyzowanej instalacji systemu Windows dla systemu Windows 7
+name: Zestaw zautomatyzowanej instalacji systemu Windows dla systemu Windows 7
 summary: >
   Zestaw zautomatyzowanej instalacji systemu Windows dla systemu Windows 7 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona.
+  > Wsparcie dla tego produktu dobiegło końca.
 products:
 - windows
 policyType: fixed-mainstream-only
