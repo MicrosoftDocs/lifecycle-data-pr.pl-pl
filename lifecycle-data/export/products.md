@@ -1,27 +1,27 @@
 ---
 title: Eksportowanie danych cyklu życia
 description: Eksportowanie informacji o cyklu życia produktu
-ms.date: 08/20/2020
-ms.openlocfilehash: c0a2c57e9fa1ee15ab6a05e56affe6a27d5ed163
-ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
+ms.date: 08/21/2020
+ms.openlocfilehash: 0be7bc850f64e829e30a48e25bf6d9af21dd9099
+ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
 ms.translationtype: MT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "905222"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "906333"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="85ca1-103">Eksportowanie danych cyklu życia</span><span class="sxs-lookup"><span data-stu-id="85ca1-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="613bc-103">Eksportowanie danych cyklu życia</span><span class="sxs-lookup"><span data-stu-id="613bc-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="85ca1-104">Ta strona jest w fazie projektowania.</span><span class="sxs-lookup"><span data-stu-id="85ca1-104">This page is under development.</span></span>
+> <span data-ttu-id="613bc-104">Ta strona jest w fazie projektowania.</span><span class="sxs-lookup"><span data-stu-id="613bc-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="85ca1-105">Eksportowanie wszystkich produktów</span><span class="sxs-lookup"><span data-stu-id="85ca1-105">Export all products</span></span>
-<span data-ttu-id="85ca1-106">Eksportuj dane cyklu życia dla wszystkich produktów, klikając poniżej:</span><span class="sxs-lookup"><span data-stu-id="85ca1-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="613bc-105">Eksportowanie wszystkich produktów</span><span class="sxs-lookup"><span data-stu-id="613bc-105">Export all products</span></span>
+<span data-ttu-id="613bc-106">Eksportuj dane cyklu życia dla wszystkich produktów, klikając poniżej:</span><span class="sxs-lookup"><span data-stu-id="613bc-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="85ca1-107">Eksportowanie wszystkich produktów</span><span class="sxs-lookup"><span data-stu-id="85ca1-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="613bc-107">Eksportowanie wszystkich produktów</span><span class="sxs-lookup"><span data-stu-id="613bc-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="85ca1-108">Eksportowanie produktów według rodziny i grupy</span><span class="sxs-lookup"><span data-stu-id="85ca1-108">Export products by Family and Group</span></span>
-<span data-ttu-id="85ca1-109">Wybierz rodzinę, a następnie grupę do wyeksportowania.</span><span class="sxs-lookup"><span data-stu-id="85ca1-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="85ca1-110">Uwaga: po wybraniu wartości grupy eksportowanie rozpocznie się.</span><span class="sxs-lookup"><span data-stu-id="85ca1-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="613bc-108">Eksportowanie produktów według rodziny i grupy</span><span class="sxs-lookup"><span data-stu-id="613bc-108">Export products by Family and Group</span></span>
+<span data-ttu-id="613bc-109">Wybierz rodzinę, a następnie grupę do wyeksportowania.</span><span class="sxs-lookup"><span data-stu-id="613bc-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="613bc-110">Uwaga: po wybraniu wartości grupy eksportowanie rozpocznie się.</span><span class="sxs-lookup"><span data-stu-id="613bc-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Systemów" title2="Grupa"]
 > - [(.NET | Cały](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -52,6 +52,8 @@ ms.locfileid: "905222"
 > - [(Struktura usług połączona z firmą Microsoft | Struktura usług połączonych)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework'%20and%20parent/parent/name%20eq%20'Connected%20Services%20Framework')
 > - [(Struktura opieki nad klientami firmy Microsoft | Cały](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Customer%20Care%20Framework')
 > - [(Struktura opieki nad klientami firmy Microsoft | Struktura opieki nad klientami)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Customer%20Care%20Framework'%20and%20parent/parent/name%20eq%20'Customer%20Care%20Framework')
+> - [(Microsoft Edge | Cały](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Edge')
+> - [(Microsoft Edge | Sunięt](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Edge'%20and%20parent/parent/name%20eq%20'Edge')
 > - [(Microsoft Internet Explorer | Cały](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Internet%20Explorer')
 > - [(Microsoft Internet Explorer | Internet Explorer)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Internet%20Explorer'%20and%20parent/parent/name%20eq%20'Internet%20Explorer')
 > - [(Microsoft Office | Cały](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Office')
@@ -81,8 +83,8 @@ ms.locfileid: "905222"
 > - [(Windows | Zabezpieczeń](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="85ca1-169">Eksportowanie produktów według daty zakończenia pomocy technicznej</span><span class="sxs-lookup"><span data-stu-id="85ca1-169">Export products by end of support date</span></span>
-<span data-ttu-id="85ca1-170">Wybierz rok, aby zobaczyć produkty, które docierają do końca pomocy technicznej.</span><span class="sxs-lookup"><span data-stu-id="85ca1-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="85ca1-171">Uwaga: eksport rozpocznie się po wybraniu wartości rok.</span><span class="sxs-lookup"><span data-stu-id="85ca1-171">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="613bc-171">Eksportowanie produktów według daty zakończenia pomocy technicznej</span><span class="sxs-lookup"><span data-stu-id="613bc-171">Export products by end of support date</span></span>
+<span data-ttu-id="613bc-172">Wybierz rok, aby zobaczyć produkty, które docierają do końca pomocy technicznej.</span><span class="sxs-lookup"><span data-stu-id="613bc-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="613bc-173">Uwaga: eksport rozpocznie się po wybraniu wartości rok.</span><span class="sxs-lookup"><span data-stu-id="613bc-173">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
