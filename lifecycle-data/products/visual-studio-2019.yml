@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2019
-  description: Visual Studio 2019 jest zgodny z zasadami stałego cyklu życia.
+  description: Program Visual Studio 2019 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871299"
 name: Visual Studio 2019
 summary: >+
-  Visual Studio 2019 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Visual Studio 2019 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Agenci, Narzędzia kompilacji, Społeczność, Przedsiębiorstwo, Dla komputerów Mac, IntelliTrace Standalone Collector, Narzędzia wydajności, Profesjonalne, Narzędzia zdalne, Eksplorator zespołu, Visual C++ Redystrybucyjny
+  Dotyczy to następujących edycji: Agents, Build Tools, Community, Enterprise, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, Remote Tools, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Linki \n* [Ogłoszenie](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informacje serwisowe](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Wersje \n* Agentów\n* Narzędzia do budowania\n* Społeczność\n* Przedsiębiorstwo\n* dla komputerów Mac\n* Samodzielny moduł zbierający IntelliTrace\n* Narzędzia wydajności\n* Professional\n* Narzędzia zdalne\n* Eksplorator zespołu\n* Visual C++ redystrybucyjny"
+content: "\n## <a name=\"links\"></a>Linki \n* [Ogłoszenie](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informacje serwisowe](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Edycje \n* Agenty\n* Build Tools\n* Community\n* Enterprise\n* dla komputerów Mac\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* Remote Tools\n* Team Explorer\n* Visual C++ Redistributable"

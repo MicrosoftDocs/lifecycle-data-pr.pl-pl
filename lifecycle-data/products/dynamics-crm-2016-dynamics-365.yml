@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 8beedf478a2c2a00e1ade51fabd10be809909489
   ms.sourcegitcommit: e1941880c1a05c5950b0aa216448eba49d88be22
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "878792"
@@ -31,4 +31,4 @@ releases:
 - version: Original Release (ver 8.0)
   startDate: 11/30/2015
   endDate: 07/10/2018
-content: "\n## <a name=\"links\"></a>Linki \n* [Program migracji Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Informacje o pomocy technicznej](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Program migracji Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Informacje o pomocy technicznej](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"

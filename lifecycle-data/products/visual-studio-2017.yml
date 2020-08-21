@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2017
-  description: Visual Studio 2017 jest zgodny z zasadami stałego cyklu życia.
+  description: Program Visual Studio 2017 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871301"
 name: Visual Studio 2017
 summary: >+
-  Visual Studio 2017 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Visual Studio 2017 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Agenci, Narzędzia kompilacji, Społeczność, Przedsiębiorstwo, Klient opinii, dla komputerów Mac, IntelliTrace Standalone Collector, Narzędzia wydajności, Profesjonalne, Narzędzia zdalne, Eksplorator zespołu, Test Professional, Visual C++ Redystrybucyjny
+  Dotyczy to następujących edycji: Agents, Build Tools, Community, Enterprise, Feedback Client, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, Remote Tools, Team Explorer, Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Linki \n* [Ogłoszenie](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Informacje serwisowe](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Wersje \n* Agentów\n* Narzędzia do budowania\n* Społeczność\n* Przedsiębiorstwo\n* Klient opinii\n* dla komputerów Mac\n* Samodzielny moduł zbierający IntelliTrace\n* Narzędzia wydajności\n* Professional\n* Narzędzia zdalne\n* Eksplorator zespołu\n* Specjalista testowy\n* Visual C++ redystrybucyjny"
+content: "\n## <a name=\"links\"></a>Linki \n* [Ogłoszenie](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Informacje serwisowe](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Edycje \n* Agenty\n* Build Tools\n* Community\n* Enterprise\n* Feedback Client\n* dla komputerów Mac\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* Remote Tools\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"

@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871383"
 name: Windows Server
 summary: >+
-  System Windows Server jest zgodny z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  System Windows Server jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Datacenter, Standard
+  Dotyczy to następujących edycji: Datacenter, Standard
 
 products:
 - windows
@@ -40,4 +40,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Linki \n* [Kanały obsługi systemu Windows Server: LTSC i SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Cykliczne — często zadawane pytania - Produkty z systemem Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows 10 October Update (wersja 1809) został ponownie wydany 13 listopada 2018. Daty wsparcia zostały odpowiednio skorygowane.\n\n## <a name=\"editions\"></a>Wersje \n* Datacenter\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Kanały obsługi systemu Windows Server: LTSC i SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Często zadawane pytania dotyczące zasad cyklu życia — Produkty z systemem Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Październikowa aktualizacja systemu Windows 10 (wersja 1809) została wydana ponownie 13 listopada 2018 r. Terminy końca wsparcia technicznego zostały odpowiednio zmienione.\n\n## <a name=\"editions\"></a>Edycje \n* Datacenter\n* Standard"
