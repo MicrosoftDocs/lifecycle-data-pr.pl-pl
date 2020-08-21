@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Configuration Manager 2007 R3
+  title: Program Microsoft Center Configuration Manager 2007 R3
   description: Program Microsoft System Center Configuration Manager 2007 R3 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: cffcc1c2bb51fc5023fe6ad29d62132141ffedb2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860209"
-name: Microsoft System Center Configuration Manager 2007 R3
+name: Program Microsoft Center Configuration Manager 2007 R3
 summary: >
   Program Microsoft System Center Configuration Manager 2007 R3 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
+  > Wsparcie dla tego produktu dobiegło końca. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
 products:
 - msc
 policyType: fixed

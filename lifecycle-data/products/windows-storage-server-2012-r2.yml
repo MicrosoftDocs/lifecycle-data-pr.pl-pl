@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860183"
@@ -14,7 +14,7 @@ summary: >+
   System Windows Storage Server 2012 R2 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Essentials, Standard, Workgroup
+  Dotyczy to następujących edycji: Essentials, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Podstawowa i rozszerzona pomoc techniczna dla tego produktu została rozszerzona, aby zapewnić klientom standardową oś czasu przejścia cyklu życia.\n> [!NOTE]\n> Data rozpoczęcia edycji Essentials to 25 września 2014 r. \n\n## <a name=\"editions\"></a>Wersje \n* Podstawy\n* Standardowych\n* Grupy roboczej"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Podstawowe i dodatkowe wsparcie dla tego produktu zostało rozszerzone, aby zapewnić klientom przejście na standardowy czas trwania cyklu życia.\n> [!NOTE]\n> Data początkowa edycji Essentials to 25 września 2014 r. \n\n## <a name=\"editions\"></a>Edycje \n* Essentials\n* Standard\n* Workgroup"

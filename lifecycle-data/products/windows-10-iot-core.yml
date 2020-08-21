@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860072"
 name: Windows 10 IoT Core
 summary: >
-  System Windows 10 IoT Core jest zgodny z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  System Windows 10 IoT Core jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 
@@ -40,4 +40,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/windows/iot-core/windows-iot-core)\n* [Arkusz informacyjny cyklu życia systemu Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows jako usługa (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Cykliczne — często zadawane pytania - Produkty z systemem Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> O ile nie zostaną odroczone, kolejne aktualizacje funkcji kanału półrocznego systemu Windows 10 mogą zostać zainstalowane przed podanym końcem daty podstawowej pomocy technicznej."
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/windows/iot-core/windows-iot-core)\n* [Arkusz informacyjny cyklu życia systemu Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows jako usługa (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Często zadawane pytania dotyczące zasad cyklu życia — Produkty z systemem Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Kolejne aktualizacje funkcji w ramach półrocznego kanału obsługi systemu Windows 10 można instalować przed wskazanym dniem zakończenia wsparcia podstawowego, jeśli ich nie odroczono."

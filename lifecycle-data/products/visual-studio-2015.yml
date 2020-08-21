@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2015
-  description: Visual Studio 2015 jest zgodny z zasadami stałego cyklu życia.
+  description: Program Visual Studio 2015 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860029"
 name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Visual Studio 2015 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Agenci, Społeczność, Przedsiębiorstwo, Express for Web, Express dla Windows 10, Express dla Windows Desktop, Modelowanie SDK, Professional, Zarządzanie wydaniami, Narzędzia zdalne, SDK, Shell (Zintegrowany), Shell (Izolowane), Test Professional, Visual C++ Redystrybucyjny
+  Dotyczy to następujących edycji: Agents, Community, Enterprise, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (zintegrowane), Shell (izolowane), Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Wersje \n* Agentów\n* Społeczność\n* Przedsiębiorstwo\n* Express for Web\n* Express dla systemu Windows 10\n* Express dla pulpitu systemu Windows\n* Modelowanie SDK\n* Professional\n* Zarządzanie wersjami\n* Narzędzia zdalne\n* Sdk\n* Powłoka (zintegrowana)\n* Powłoka (izolowana)\n* Specjalista testowy\n* Visual C++ redystrybucyjny"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Agenty\n* Community\n* Enterprise\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* Modeling SDK\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (zintegrowany)\n* Shell (izolowany)\n* Test Professional\n* Visual C++ Redistributable"

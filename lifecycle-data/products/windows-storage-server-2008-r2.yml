@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860146"
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
+  > Wsparcie dla tego produktu dobiegło końca. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o końcu pomocy technicznej](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Wskazówki dotyczące migracji](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Rozszerzona aktualizacja zabezpieczeń – często zadawane pytania](/lifecycle/faq/extended-security-updates)\n* [Informacje o uaktualnieniu serwera](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Wydanie Essentials wydane 28 czerwca 2011.\n\n## <a name=\"editions\"></a>Wersje \n* Podstawy\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o zakończeniu wsparcia](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Wskazówki dotyczące migracji](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Najczęściej zadawane pytania dotyczące rozszerzonych aktualizacji zabezpieczeń](/lifecycle/faq/extended-security-updates)\n* [Informacje o uaktualnieniu serwera](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Edycja Essentials wydana 28 czerwca 2011 r.\n\n## <a name=\"editions\"></a>Edycje \n* Essentials\n* Standard"
