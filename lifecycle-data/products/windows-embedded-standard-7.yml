@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Windows Embedded Standard 7
+  title: Windows Embedded Standard 7
   description: System Windows Embedded Standard 7 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832038"
-name: System Windows Embedded Standard 7
+name: Windows Embedded Standard 7
 summary: >+
   System Windows Embedded Standard 7 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Standard
+  Dotyczy to następujących edycji: Standard
 
 products:
 - windows
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Linki \n* [* Rozszerzony program aktualizacji zabezpieczeń (ESU) - rozszerzone aktualizacje zabezpieczeń dla wybranych produktów wbudowanych są dostępne za pośrednictwem OEM](/lifecycle/faq/extended-security-updates)\n* [Wskazówki dotyczące migracji](https://support.microsoft.com/help/4057281)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> \"*Rozszerzone aktualizacje zabezpieczeń (ESU) są dostępne dla systemu Windows Embedded Standard 7 przez okres do trzech lat po zakończeniu pomocy technicznej za pośrednictwem usług OEM. Aby dowiedzieć się więcej, skontaktuj się z partnerem lub zespołem kont firmy Microsoft.\n\n## <a name=\"editions\"></a>Wersje \n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [* Program rozszerzonych aktualizacji zabezpieczeń (ESU) – rozszerzone aktualizacje zabezpieczeń dla wybranych produktów osadzonych są dostępne za pośrednictwem OEM](/lifecycle/faq/extended-security-updates)\n* [Wskazówki dotyczące migracji](https://support.microsoft.com/help/4057281)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*Rozszerzone aktualizacje zabezpieczeń (ESU) są dostępne dla systemu Windows Embedded Standard 7 przez dodatkowy okres maksymalnie trzech lat liczony od zakończenia wsparcia technicznego za pośrednictwem OEM. Skontaktuj się z partnerem firmy Microsoft lub zespołem kont, aby dowiedzieć się więcej.\n\n## <a name=\"editions\"></a>Edycje \n* Standard"

@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Menedżer ochrony danych w programie Microsoft System Center 2007
+  title: Microsoft System Center Data Protection Manager 2007
   description: Program Microsoft System Center Data Protection Manager 2007 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: ca60c8ab7630e2ee264017a572243b9f68643607
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832112"
-name: Menedżer ochrony danych w programie Microsoft System Center 2007
+name: Microsoft System Center Data Protection Manager 2007
 summary: >
   Program Microsoft System Center Data Protection Manager 2007 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
+  > Wsparcie dla tego produktu dobiegło końca. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
 products:
 - msc
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 12/15/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"

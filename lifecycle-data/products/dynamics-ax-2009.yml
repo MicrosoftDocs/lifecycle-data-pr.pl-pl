@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamika AX 2009
-  description: Dynamics AX 2009 jest zgodna z zasadami stałego cyklu życia.
+  title: Dynamics AX 2009
+  description: Program Dynamics AX 2009 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 20756fcbadc2386830d4eecb9129443bef1a2bc2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831614"
-name: Dynamika AX 2009
+name: Dynamics AX 2009
 summary: >+
-  Dynamics AX 2009 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Dynamics AX 2009 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/14/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Program migracji Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Dodatkowe informacje o cyklu życia](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Wsparcie głównego nurtu zostało rozszerzone, jak pokazano na rysunku."
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Program migracji Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Dodatkowe informacje na temat cyklu życia](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Wsparcie podstawowe zostało rozszerzone zgodnie z przedstawionymi informacjami."

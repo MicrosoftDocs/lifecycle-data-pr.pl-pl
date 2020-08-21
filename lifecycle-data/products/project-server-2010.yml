@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serwer Project Server 2010
+  title: Project Server 2010
   description: Program Project Server 2010 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6c04194a3d405101429475ce7fd4561743790151
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831552"
-name: Serwer Project Server 2010
+name: Project Server 2010
 summary: >+
   Program Project Server 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Rozszerzenie pomocy technicznej](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Plan działania serwera project server](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> Data zakończenia pomocy technicznej produktu została przedłużona z 13 października 2020 r. do 13 kwietnia 2021 r."
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Rozszerzenie pomocy technicznej](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Plan programu Project Server](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> Termin końca wsparcia technicznego tego produktu został przełożony z 13 października 2020 roku na 13 kwietnia 2021 roku."

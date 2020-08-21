@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831505"
@@ -14,12 +14,12 @@ summary: >
   System Windows Storage Server 2008 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Podstawowe, Podstawowe 32-bitowe, Podstawowe 64-bitowe, Podstawowe Osadzone, Podstawowe Osadzone 32-bitowe, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Grupa robocza
+  Dotyczy to następujących edycji: Basic, Basic 32-Bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
 
-  > Ten produkt osiągnął koniec wsparcia. Poniżej znajdują się wskazówki dotyczące migracji.
+  > Okres wsparcia tego produktu zakończył się. Poniżej znajdują się wskazówki dotyczące migracji.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informacje o uaktualnieniu serwera](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Wersje \n* Podstawowe\n* Podstawowy 32-bitowy\n* Podstawowy 64-bitowy\n* Podstawowe wbudowane\n* Podstawowy wbudowany 32-bitowy\n* Przedsiębiorstwo\n* Osadzone w przedsiębiorstwie\n* Standardowych\n* Standardowy wbudowany\n* Grupy roboczej"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informacje o uaktualnieniu serwera](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Edycje \n* Basic\n* Basic 32-Bit\n* Basic 64-bit\n* Basic Embedded\n* Basic Embedded 32-bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Brama zarządzania zagrożeniami w programie Microsoft Forefront 2010
-  description: Usługa Microsoft Forefront Threat Management Gateway 2010 jest zgodna z zasadami stałego cyklu życia.
+  title: Microsoft Forefront Threat Management Gateway 2010
+  description: Program Microsoft Forefront Threat Management Gateway 2010 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: c28f728f916bfa317c1c81b4807c7aac16dd42bb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832165"
-name: Brama zarządzania zagrożeniami w programie Microsoft Forefront 2010
+name: Microsoft Forefront Threat Management Gateway 2010
 summary: >
-  Usługa Microsoft Forefront Threat Management Gateway 2010 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Microsoft Forefront Threat Management Gateway 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Enterprise, Standard
+  Dotyczy to następujących edycji: Enterprise, Standard
 
 
   > [!IMPORTANT]
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Wersje \n* Przedsiębiorstwo\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise\n* Standard"

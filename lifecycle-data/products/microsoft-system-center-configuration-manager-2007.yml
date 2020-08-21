@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Microsoft System Center Configuration Manager 2007
+  title: Microsoft System Center Configuration Manager 2007
   description: Program Microsoft System Center Configuration Manager 2007 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832117"
-name: Program Microsoft System Center Configuration Manager 2007
+name: Microsoft System Center Configuration Manager 2007
 summary: >
   Program Microsoft System Center Configuration Manager 2007 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
+  > Wsparcie dla tego produktu dobiegło końca. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
 products:
 - msc
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Informacje o produkcie](/mem/configmgr/core/understand/introduction)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Informacje o produkcie](/mem/configmgr/core/understand/introduction)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"

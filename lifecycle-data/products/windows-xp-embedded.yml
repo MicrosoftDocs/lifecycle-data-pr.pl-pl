@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows XP Osadzone
+  title: Windows XP Embedded
   description: System Windows XP Embedded jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831669"
-name: Windows XP Osadzone
+name: Windows XP Embedded
 summary: >
   System Windows XP Embedded jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Embedded
+  Dotyczy to następujących edycji: Embedded
 
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona.
+  > Wsparcie dla tego produktu dobiegło końca.
 products:
 - windows
 policyType: fixed
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Linki \n* [Obsługa osadzonego systemu Windows XP](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Wersje \n* Osadzone"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wsparcie dla systemu Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Edycje \n* Embedded"

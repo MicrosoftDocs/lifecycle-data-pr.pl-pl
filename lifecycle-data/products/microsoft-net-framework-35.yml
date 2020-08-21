@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832531"
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2007
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące cyklu życia — .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informacje o produkcie](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Obsługa wersji programu .NET Framework 3.x przed 3.5 SP1 zakończyła się 12 lipca 2011 r. \n> [!NOTE]\n> Daty cyklu życia mają zastosowanie do dodatku SP1 dla platformy .NET 3.5 w systemie Windows 10 w wersji 1809, Windows Server 2019 lub nowszej. W starszych wersjach systemu Windows dodatek SP1 dla platformy .NET 3.5 przyjmuje cykl życia bazowego systemu operacyjnego Windows."
+content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące cyklu życia — .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informacje o produkcie](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Obsługa środowiska .NET Framework 3.x w wersjach starszych niż 3.5 SP1 zakończyła się 12 lipca 2011 r. \n> [!NOTE]\n> Daty cyklu życia produktu odnoszą się do środowiska .NET 3.5 SP1 w systemie Windows 10 w wersji 1809 albo w systemie Windows Server 2019 lub nowszym. W starszych wersjach systemu Windows środowisko .NET 3.5 SP1 przyjmuje cykl życia produktu bazowego systemu operacyjnego Windows."
