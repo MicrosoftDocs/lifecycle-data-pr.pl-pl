@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual FoxPro 8,0 Professional Edition
+  description: Program Microsoft Visual FoxPro 8,0 Professional Edition jest zgodny z ustalonymi zasadami cyklu życia.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 4552c757cfb8eddcd64d909a1f9cb556f2255de2
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "908106"
+name: Microsoft Visual FoxPro 8,0 Professional Edition
+summary: >+
+  Program Microsoft Visual FoxPro 8,0 Professional Edition jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+
+
+  Dotyczy to następujących wersji: profesjonalny
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 03/12/2003
+  end: 04/08/2008
+  extendedEnd: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 03/12/2003
+  endDate: 04/09/2013
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Professional"
