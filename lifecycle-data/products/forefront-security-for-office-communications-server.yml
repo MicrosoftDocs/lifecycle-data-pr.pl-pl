@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Program Forefront Security for Office Communications Server
+  description: Program Forefront Security for Office Communications Server jest zgodny ze stałymi zasadami cyklu życia.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 5f0144e2e7f36644a959dccab8e1da4696e8c230
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908847"
+name: Program Forefront Security for Office Communications Server
+summary: >+
+  Program Forefront Security for Office Communications Server jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 06/09/2009
+  extendedEnd: 12/31/2015
+releases:
+- version: RTM
+  startDate: 06/09/2009
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Plan dla produktów zabezpieczających w ramach marki Forefront zmienił się. Ten produkt jest wycofany z 31 grudnia 2015 r."

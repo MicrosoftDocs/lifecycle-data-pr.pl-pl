@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Program Microsoft Lync 2010
-  description: Program Microsoft Lync 2010 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2a5d4651d05052e79c1c28309fc8ad530e584aec
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Program Microsoft Lync 2010 jest zgodny z ustalonymi zasadami cyklu życia.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 815ef4b3c8026b5d508d221acfc67cae25770bcd
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "859900"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907958"
 name: Program Microsoft Lync 2010
 summary: >+
-  Program Microsoft Lync 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Microsoft Lync 2010 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: Attendant, Attendee, Group Chat, Standard
+  Dotyczy to następujących wersji: Attendant, uczestnik, czat grupowy, standardowy
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Attendant\n* Uczestnika\n* Czat grupowy\n* Standardowych"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Opiekun\n* Wykonania\n* Czat grupowy\n* Standard"
