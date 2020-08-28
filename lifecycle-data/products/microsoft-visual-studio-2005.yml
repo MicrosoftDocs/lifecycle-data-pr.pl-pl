@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft Visual Studio 2005
   description: Program Microsoft Visual Studio 2005 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 3d7b18b9c262c1ac5f159250ef8a1746f79221eb
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "831553"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893176"
 name: Microsoft Visual Studio 2005
 summary: >+
   Program Microsoft Visual Studio 2005 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje na temat wsparcia dla języka Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Wskazówki dotyczące migracji](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informacje o produkcie programu Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Wsparcie dla tego produktu dobiegło końca. Poniżej znajdują się wskazówki dotyczące migracji.\n> [!NOTE]\n> Program Microsoft Visual Studio 2005 Team Edition for Database Professionals wydany 2 marca 2007 r.\n\n## <a name=\"editions\"></a>Edycje \n* Professional\n* Standard\n* Licencja akademicka Standard Edition\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Narzędzia dla pakietu Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informacje na temat wsparcia dla języka Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Informacje o produkcie programu Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Wsparcie dla tego produktu dobiegło końca. Poniżej znajdują się wskazówki dotyczące migracji.\n> [!NOTE]\n> Program Microsoft Visual Studio 2005 Team Edition for Database Professionals wydany 2 marca 2007 r.\n\n## <a name=\"editions\"></a>Edycje \n* Professional\n* Standard\n* Licencja akademicka Standard Edition\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Narzędzia dla pakietu Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

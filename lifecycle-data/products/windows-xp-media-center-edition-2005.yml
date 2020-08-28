@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows XP Media Center Edition 2005
+  description: System Windows XP Media Center Edition 2005 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 51d0bb29320a507fba4ea0c18e11bfa85f92dccf
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "892073"
+name: Windows XP Media Center Edition 2005
+summary: >+
+  System Windows XP Media Center Edition 2005 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących edycji: Extender
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2004
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 12/30/2004
+  endDate: 04/08/2014
+content: "\n\n> [!NOTE]\n> Urządzenie Media Center Extender oferowało tylko wsparcie podstawowe, kończące się 12 stycznia 2010 roku. \n\n## <a name=\"editions\"></a>Edycje \n* Extender"

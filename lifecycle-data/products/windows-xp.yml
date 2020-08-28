@@ -2,19 +2,19 @@
 metadata:
   title: Windows XP
   description: System Windows XP jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: b87864c5f60526582efd3d8d986ce63c0d203e39
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "831668"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893768"
 name: Windows XP
 summary: >
   System Windows XP jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących edycji: Home, Professional, Professional for Embedded Systems, Starter
+  Dotyczy to następujących edycji: Home, Professional, Professional for Embedded Systems, Professional x64, Starter
 
 
   > [!IMPORTANT]
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Home\n* Professional\n* Professional for Embedded Systems\n* Starter"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Data początkowa dla systemu Microsoft Windows XP Professional x64 Edition to 24 kwietnia 2005 r.\n\n## <a name=\"editions\"></a>Edycje \n* Home\n* Professional\n* Professional for Embedded Systems\n* Professional x64\n* Starter"
