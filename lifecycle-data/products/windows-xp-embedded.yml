@@ -2,13 +2,14 @@
 metadata:
   title: Windows XP Embedded
   description: System Windows XP Embedded jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Embedded
+  ms.openlocfilehash: 7f65f5c146bb41fda3529b2ad4457a7e77e0024a
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "831669"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938864"
 name: Windows XP Embedded
 summary: >
   System Windows XP Embedded jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.

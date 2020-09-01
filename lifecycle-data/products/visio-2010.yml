@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Visio 2010
-  description: Program Visio 2010 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: bf96814151cea0f8a6d28a13d6b30e3de6c379a0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Visio 2010
+  description: Program Visio 2010 jest zgodny ze stałymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: Premium,Professional,Standard
+  ms.openlocfilehash: c716322b214c44ce9cfe9f102d9260a24f2d0877
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "831689"
-name: Program Visio 2010
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937865"
+name: Visio 2010
 summary: >+
-  Program Visio 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Visio 2010 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: Premium, Professional, Standard
+  Dotyczy to następujących wersji: Premium, Professional, standard
 
 products:
 - office
@@ -33,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/DeployOffice/office-2010-end-support-roadmap)\n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Wersje \n* Premium\n* Professional\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/DeployOffice/office-2010-end-support-roadmap)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Premium\n* Professional\n* Standard"

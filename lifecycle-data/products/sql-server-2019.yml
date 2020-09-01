@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Program SQL Server 2019
-  description: Program SQL Server 2019 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d2a4363c26eb63e860cd117cb7fc0333370033cc
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Program SQL Server 2019 jest zgodny ze stałymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: on Linux (all editions),on Windows (all editions)
+  ms.openlocfilehash: e80b4d51844a591f9c912932761d121d9c0d6d37
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "871372"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937976"
 name: Program SQL Server 2019
 summary: >+
-  Program SQL Server 2019 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program SQL Server 2019 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: w systemie Linux (wszystkie wersje), w systemie Windows (wszystkie wersje)
+  Dotyczy to następujących wersji: w systemie Linux (wszystkie wersje), Windows (wszystkie wersje)
 
 products:
 - sql-server
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2019
   endDate: 01/08/2030
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>Wersje \n* na Linuksie (wszystkie wersje)\n* w systemie Windows (wszystkie wersje)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>Edycje \n* w systemie Linux (wszystkie wersje)\n* w systemie Windows (wszystkie wersje)"
