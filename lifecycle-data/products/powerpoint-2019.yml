@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Program PowerPoint 2019
-  description: Program PowerPoint 2019 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5a45e21c4eba85eb24eaca956c444dc6f9300ca6
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Program PowerPoint 2019 jest zgodny z ustalonymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: f28e4fd798e20b6f170da86bfa12a50e59865c29
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "871343"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926876"
 name: Program PowerPoint 2019
 summary: >+
-  Program PowerPoint 2019 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program PowerPoint 2019 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: Standard
+  Dotyczy to następujących edycji: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Standardowych"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Standard"
