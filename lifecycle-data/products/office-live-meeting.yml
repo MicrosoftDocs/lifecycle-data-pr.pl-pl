@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Spotkanie pakietu Office na żywo
-  description: Spotkanie usługi Office Live następuje zgodnie z zasadami nowoczesnego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c4b0ff8ddce1b4b699aae7631879845eed849bf4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Spotkanie w usłudze Office Live
+  description: W ramach programu Office Live Meeting obowiązują nowoczesne zasady cyklu życia.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832076"
-name: Spotkanie pakietu Office na żywo
-summary: "Spotkanie usługi Office Live następuje zgodnie z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.\n\nDotyczy to następujących wersji: Standard\n\n> [!IMPORTANT]\n> Obsługa tej usługi została zakończona. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej. \n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "928911"
+name: Spotkanie w usłudze Office Live
+summary: "W ramach programu Office Live Meeting obowiązują [nowoczesne](/lifecycle/policies/modern) zasady cyklu życia.\n\nDotyczy to następujących edycji: Standard\n\n> [!IMPORTANT]\n> Pomoc techniczna dla tej usługi została zakończona. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej. \n"
 products:
 - office
 policyType: modern-online
@@ -21,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 04/10/2009
   endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Wersje \n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Edycje \n* Standard"
