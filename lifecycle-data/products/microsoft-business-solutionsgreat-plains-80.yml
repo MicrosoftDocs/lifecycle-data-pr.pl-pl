@@ -1,25 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rozwiązania biznesowe firmy Microsoft — świetne równiny 8.0
-  description: Rozwiązania biznesowe firmy Microsoft — wiele innych ładek jest zgodne z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Business Solutions--noplains 8,0
+  description: Microsoft Business Solutions--noplains 8,0 jest zgodna ze stałymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832209"
-name: Rozwiązania biznesowe firmy Microsoft — świetne równiny 8.0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934683"
+name: Microsoft Business Solutions--noplains 8,0
 summary: >
-  Rozwiązania biznesowe firmy Microsoft — wiele innych ładek jest zgodne z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Microsoft Business Solutions--noplains 8,0 jest zgodna ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: Standard
+  Dotyczy to następujących edycji: Standard
 
 
   > [!IMPORTANT]
 
-  > Wsparcie dla tego produktu zostało zakończone 13 października 2009 r.
+  > Pomoc techniczna dotycząca tego produktu zakończyła się 13 października 2009 r.
 products:
 - dynamics
 policyType: fixed-mainstream-only
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2004
   endDate: 10/13/2009
-content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Standardowych"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Standard"

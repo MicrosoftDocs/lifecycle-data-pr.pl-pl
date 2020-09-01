@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Enterprise Desktop Virtualization 1.0
   description: Program Microsoft Enterprise Desktop Virtualization 1.0 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: 2e3879b453726a643faf1a53bfb51628d44ddd02
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832173"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933980"
 name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
   Program Microsoft Enterprise Desktop Virtualization 1.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.

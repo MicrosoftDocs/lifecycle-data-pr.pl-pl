@@ -2,13 +2,14 @@
 metadata:
   title: Menedżer konfiguracji programu Microsoft Endpoint
   description: Program Microsoft Endpoint Configuration Manager jest zgodny z nowoczesnymi zasadami cyklu życia.
-  ms.date: 08/20/2020
-  ms.openlocfilehash: 0543b1273fc60ca7a23a5ce6455cf027737021c7
-  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.date: 09/01/2020
+  keywords: SCCM,System Center Configuration Manager
+  ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905935"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934054"
 name: Menedżer konfiguracji programu Microsoft Endpoint
 summary: >
   Program Microsoft Endpoint Configuration Manager jest zgodny z [nowoczesnymi](/lifecycle/policies/modern) zasadami cyklu życia.
@@ -69,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Umieszczon \n* [Informacje o obsłudze](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Szczegóły wersji](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Program System Center Configuration Manager jest teraz Menedżerem konfiguracji programu Microsoft Endpoint Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Wersje historyczne](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Co to jest Menedżer konfiguracji](/mem/configmgr/core/understand/introduction)\n\n\n\nSłowa kluczowe: SCCM, System Center Configuration Manager"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Szczegóły wersji](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Program System Center Configuration Manager jest teraz Menedżerem konfiguracji programu Microsoft Endpoint Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Wersje historyczne](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Co to jest Menedżer konfiguracji](/mem/configmgr/core/understand/introduction)"
