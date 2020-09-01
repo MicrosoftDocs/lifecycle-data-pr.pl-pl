@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Pakiet Microsoft Office 2004 dla komputerów Mac
-  description: Pakiet Microsoft Office 2004 dla komputerów Mac jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14513bc7089568baf86dfe8f775cc25658cda7f4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Office 2004 dla komputerów Mac
+  description: Pakiet Microsoft Office 2004 dla komputerów Mac jest zgodny ze stałymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: Professional,Standard,Student and Teacher
+  ms.openlocfilehash: 12b63fa73b4b6a4bfc393cc62234147382a6d46a
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "831585"
-name: Pakiet Microsoft Office 2004 dla komputerów Mac
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936860"
+name: Microsoft Office 2004 dla komputerów Mac
 summary: >+
-  Pakiet Microsoft Office 2004 dla komputerów Mac jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Pakiet Microsoft Office 2004 dla komputerów Mac jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wydań: Professional, Standard, Student i Teacher
+  Dotyczy to następujących wersji: profesjonalny, standardowy, student i nauczyciel
 
 products:
 - office
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/13/2004
   endDate: 01/10/2012
-content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Professional\n* Standardowych\n* Uczeń i nauczyciel"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Professional\n* Standard\n* Student and Teacher"

@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft 365
-  description: Usługa Microsoft 365 jest zgodna z zasadami nowoczesnego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 305fc57c897c1f8b2eb95b170d5b8403e1ea35ee
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Program Microsoft 365 postępuje zgodnie z nowoczesnymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: Business,Education,Enterprise,Government
+  ms.openlocfilehash: 49d1c65ad462a3ce987df621004cf7341ac4aa23
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860181"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935978"
 name: Microsoft 365
 summary: >+
-  Usługa Microsoft 365 jest zgodna z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  Program Microsoft 365 postępuje zgodnie z [nowoczesnymi](/lifecycle/policies/modern) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: Biznes, Edukacja, Przedsiębiorstwa,
+  Dotyczy to następujących wersji: Business, Education, Enterprise, dla instytucji rządowych
 
 products:
 - office
@@ -24,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Linki \n* [Plan działania usługi Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Wymagania systemowe](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Wersje \n* Biznesowych\n* Edukacji\n* Przedsiębiorstwo\n* Rząd"
+content: "\n## <a name=\"links\"></a>Linki \n* [Plan Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [Wymagania systemowe](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>Edycje \n* Business\n* Education\n* Enterprise\n* Spraw"
