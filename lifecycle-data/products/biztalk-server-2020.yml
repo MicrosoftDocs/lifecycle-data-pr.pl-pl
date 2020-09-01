@@ -2,19 +2,20 @@
 metadata:
   title: Program BizTalk Server 2020
   description: Program BizTalk Server 2020 jest zgodny ze stałymi zasadami cyklu życia.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 8fd9d3d641c7f964463ccf25efc3b451879c86bf
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Branch,Developer,Enterprise,Standard
+  ms.openlocfilehash: 029f4f55b44e8b40b27261ba44bdd3cef775e6d0
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891927"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932130"
 name: Program BizTalk Server 2020
 summary: >+
   Program BizTalk Server 2020 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: oddział, deweloper, Enterprise, standard
+  Dotyczy to następujących edycji: Branch, Developer, Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/01/2020
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Umieszczon \n* [Informacje o produkcie](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Wydań \n* Branch\n* Deweloper\n* —\n* Standard"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Edycje \n* Branch\n* Developer\n* Enterprise\n* Standard"
