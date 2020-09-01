@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Wydawca 2013
-  description: Program Publisher 2013 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 706d07656f1c22220f7f96382c5aff14ac9d9d91
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Program Publisher 2013
+  description: Program Publisher 2013 jest zgodny z ustalonymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 351331904acc01202c407f88c65b40ec18af6907
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860264"
-name: Wydawca 2013
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926173"
+name: Program Publisher 2013
 summary: >+
-  Program Publisher 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Publisher 2013 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: Standard
+  Dotyczy to następujących edycji: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Standardowych"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Standard"
