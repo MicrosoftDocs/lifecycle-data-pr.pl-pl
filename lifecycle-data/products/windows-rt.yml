@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows RT
-  description: System Windows RT jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: daac7a0fd8d0dcca56b367088a8313e315fc1125
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: System Windows RT jest zgodny ze stałymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: 8.0999999999999996
+  ms.openlocfilehash: 0bdab4b7a511cb789fae28d77b4846464ab5e763
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860185"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939715"
 name: Windows RT
 summary: >+
-  System Windows RT jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  System Windows RT jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: 8.1
+  Dotyczy to następujących wersji: 8,1
 
 products:
 - windows
@@ -30,4 +31,4 @@ releases:
 - version: Windows RT
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące systemu Windows](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Wersje \n* 8.1"
+content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące systemu Windows](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Edycje \n* 8,1"

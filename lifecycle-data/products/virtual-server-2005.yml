@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Serwer wirtualny 2005
-  description: Serwer wirtualny 2005 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 23b86f98da1cbf486ae6b21eefca8d06eaf1361c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Serwer wirtualny 2005 jest zgodny z ustalonymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Management Pack,Standard
+  ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "831693"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937902"
 name: Serwer wirtualny 2005
 summary: >+
-  Serwer wirtualny 2005 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Serwer wirtualny 2005 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: Enterprise, Management Pack, Standard
+  Dotyczy to następujących wersji: Enterprise, pakiet administracyjny, standard
 
 products:
 - windows
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Przedsiębiorstwo\n* Pakiet administracyjny\n* Standardowych"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise\n* Pakiet administracyjny\n* Standard"
