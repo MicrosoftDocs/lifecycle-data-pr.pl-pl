@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Microsoft Office Publisher 2003
-  description: Program Microsoft Office Publisher 2003 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dc74fbb4c7ad1e9d6e27b507d00c15aadd1665dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Office Publisher 2003
+  description: Program Microsoft Office Publisher 2003 jest zgodny z ustalonymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: Standard,with Digital Imaging
+  ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832144"
-name: Program Microsoft Office Publisher 2003
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930354"
+name: Microsoft Office Publisher 2003
 summary: >+
-  Program Microsoft Office Publisher 2003 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Microsoft Office Publisher 2003 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: Standard, z digital imaging
+  Dotyczy to następujących wersji: standardowy, z funkcją cyfrowego przetwarzania obrazów
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Standardowych\n* z obrazowaniem cyfrowym"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Standard\n* za pomocą cyfrowego przetwarzania obrazów"

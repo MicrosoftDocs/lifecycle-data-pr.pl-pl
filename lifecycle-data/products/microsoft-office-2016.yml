@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Pakiet Microsoft Office 2016
-  description: Pakiet Microsoft Office 2016 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0862856c981f0887a99cd499275edcda6f18533b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Pakiet Microsoft Office 2016 jest zgodny ze stałymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
+  ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860222"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930502"
 name: Pakiet Microsoft Office 2016
 summary: >+
-  Pakiet Microsoft Office 2016 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Pakiet Microsoft Office 2016 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: Dom i firma, Dom i Student, Osobisty, Profesjonalny, Professional Plus, Standard
+  Dotyczy to następujących wersji: dla użytkowników domowych i małych firm, dla użytkowników domowych i uczniów, Personal, Professional, Professional Plus, standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Dom i biznes\n* Dom i student\n* Osobiste\n* Professional\n* Profesjonalny Plus\n* Standardowych"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Plus\n* Standard"

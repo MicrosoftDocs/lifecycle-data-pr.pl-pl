@@ -2,15 +2,16 @@
 metadata:
   title: Wyrażenie 2
   description: Wyrażenie 2 jest zgodne z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "831604"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930835"
 name: Wyrażenie 2
-summary: "Wyrażenie 2 jest zgodne z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących wersji: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Pomoc techniczna została zakończona dla tego produktu. \n"
+summary: "Wyrażenie 2 jest zgodne z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących wersji: mieszanie, projektowanie, koder, Studio, Sieć Web\n\n> [!IMPORTANT]\n> Zakończono świadczenie pomocy technicznej dla tego produktu. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Mieszanka\n* Projektowania\n* Kodera\n* Studio\n* Sieci web"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Mieszać\n* Projektowanie\n* Czyta\n* Studio\n* Web"

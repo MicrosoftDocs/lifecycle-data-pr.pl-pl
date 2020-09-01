@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Pakiet Microsoft Office 2019
-  description: Pakiet Microsoft Office 2019 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 76252d1d17d478ee3ac5717a68cc8887de606d69
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Pakiet Microsoft Office 2019 jest zgodny ze stałymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
+  ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "871351"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930391"
 name: Pakiet Microsoft Office 2019
 summary: >+
-  Pakiet Microsoft Office 2019 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Pakiet Microsoft Office 2019 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: Dom i firma, Dom i Student, Osobisty, Profesjonalny, Profesjonalny Akademicki, Professional Plus, Standard
+  Dotyczy to następujących wersji: dla użytkowników domowych i małych firm, dla użytkowników domowych i uczniów, Personal, Professional, Professional — Professional Plus, standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Dom i biznes\n* Dom i student\n* Osobiste\n* Professional\n* Profesjonalny nauczyciel akademicki\n* Profesjonalny Plus\n* Standardowych"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Standard"
