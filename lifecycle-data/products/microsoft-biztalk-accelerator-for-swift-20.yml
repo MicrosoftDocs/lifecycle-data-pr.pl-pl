@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Akcelerator Microsoft BizTalk dla SWIFT 2.0
-  description: Akcelerator BizTalk firmy Microsoft dla technologii SWIFT 2.0 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 430961859e38f41832f860e11b1ed4a870f63869
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Akcelerator Microsoft BizTalk dla SWIFT 2,0
+  description: Program Microsoft BizTalk Accelerator dla SWIFT 2,0 postępuje zgodnie z ustalonymi zasadami cyklu życia.
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: f2d3f0b8991cf28223d4ba5110c0686facccf8f2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832229"
-name: Akcelerator Microsoft BizTalk dla SWIFT 2.0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934868"
+name: Akcelerator Microsoft BizTalk dla SWIFT 2,0
 summary: >+
-  Akcelerator BizTalk firmy Microsoft dla technologii SWIFT 2.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Microsoft BizTalk Accelerator dla SWIFT 2,0 postępuje zgodnie z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
 
 
-  Dotyczy to następujących wersji: Enterprise
+  Dotyczy to następujących edycji: Enterprise
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/25/2004
   endDate: 10/14/2014
-content: "\n\n\n## <a name=\"editions\"></a>Wersje \n* Przedsiębiorstwo"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise"
