@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamika AX 2012 R3
-  description: Dynamics AX 2012 R3 jest zgodna z zasadami stałego cyklu życia.
+  title: Dynamics AX 2012 R3
+  description: Program Dynamics AX 2012 R3 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: d321f6b8d10b4c1acf17eb7645030cca46f4f611
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860050"
-name: Dynamika AX 2012 R3
+name: Dynamics AX 2012 R3
 summary: >+
-  Dynamics AX 2012 R3 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Dynamics AX 2012 R3 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 08/01/2014
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Program migracji Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Dodatkowe informacje o cyklu życia](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> Obsługa głównego nurtu i rozszerzona została rozszerzona, jak pokazano na rysunku."
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Program migracji Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Dodatkowe informacje na temat cyklu życia](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> Wsparcie podstawowe i dodatkowe zostało rozszerzone zgodnie z przedstawionymi informacjami."

@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 1505b81ae5333b02ddda8778583baea94b516a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859890"
 name: Microsoft .NET Framework 4.6
 summary: >+
-  Program Microsoft .NET Framework 4.6 jest zgodny z zasadami cyklu życia [składnika.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Program Microsoft .NET Framework 4.6 jest zgodny z zasadami cyklu życia [składnika](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 07/29/2015
-content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące cyklu życia programu .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informacje o produkcie](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-46)\n\n> [!NOTE]\n> Program .NET Framework jest składnikiem systemu operacyjnego Windows. Składniki otrzymują taką samą pomoc techniczną jak ich produkt nadrzędny lub platforma."
+content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące cyklu życia programu .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informacje o produkcie](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-46)\n\n> [!NOTE]\n> Program .NET Framework jest składnikiem systemu operacyjnego Windows. Składniki objęte są takim samym wsparciem jak produkt lub platforma nadrzędna."

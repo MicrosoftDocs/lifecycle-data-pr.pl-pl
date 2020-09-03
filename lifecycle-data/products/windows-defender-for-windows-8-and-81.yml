@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Defender Dla Windows 8 i 8.1
-  description: Usługa Windows Defender dla systemów Windows 8 i 8.1 jest zgodna z zasadami cyklu życia składnika.
+  title: Windows Defender dla systemu Windows 8 i 8.1
+  description: Usługa Windows Defender dla systemu Windows 8 i 8.1 jest zgodna z zasadami cyklu życia składnika.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4024d32c3d61568ee01854acd1422ef614fedfb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859809"
-name: Windows Defender Dla Windows 8 i 8.1
+name: Windows Defender dla systemu Windows 8 i 8.1
 summary: >+
-  Usługa Windows Defender dla systemów Windows 8 i 8.1 jest zgodna z zasadami cyklu życia [składnika.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Usługa Windows Defender dla systemu Windows 8 i 8.1 jest zgodna z zasadami cyklu [życia składnika](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

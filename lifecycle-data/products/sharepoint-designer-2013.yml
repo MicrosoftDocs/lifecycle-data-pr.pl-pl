@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Projektant programu SharePoint 2013
+  title: SharePoint Designer 2013
   description: Program SharePoint Designer 2013 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: ae676f0f1f60e3b034244349d273a177cf65662c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860083"
-name: Projektant programu SharePoint 2013
+name: SharePoint Designer 2013
 summary: >+
   Program SharePoint Designer 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Designer
+  Dotyczy to następujących edycji: Designer
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Linki \n* [Szczegóły pomocy technicznej](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Obsługa programu Microsoft SharePoint Designer 2013 została rozszerzona, jak pokazano w celu zapewnienia zgodności z programem SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Wersje \n* Projektant"
+content: "\n## <a name=\"links\"></a>Linki \n* [Szczegóły pomocy technicznej](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Obsługa programu Microsoft SharePoint Designer 2013 została rozszerzona w pokazany sposób w celu zapewnienia zgodności z programem SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Edycje \n* Designer"
