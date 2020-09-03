@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: fc9de7b0c021adafe412b797fc40b821dd5d7a4f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831821"
@@ -14,7 +14,7 @@ summary: >+
   Program Microsoft Office Excel 2007 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Home and Student, Standard
+  Dotyczy to następujących edycji: Home and Student, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Wersje \n* Dom i student\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Edycje \n* Home and Student\n* Standard"

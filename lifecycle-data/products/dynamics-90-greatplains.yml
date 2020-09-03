@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamika 9.0 GreatPlains
-  description: Dynamics 9.0 GreatPlains jest zgodne z zasadami stałego cyklu życia.
+  title: Dynamics 9.0 GreatPlains
+  description: Program Dynamics 9.0 GreatPlains jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831617"
-name: Dynamika 9.0 GreatPlains
+name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9.0 GreatPlains jest zgodne [z zasadami stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Dynamics 9.0 GreatPlains jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona.
+  > Wsparcie dla tego produktu dobiegło końca.
 products:
 - dynamics
 policyType: fixed

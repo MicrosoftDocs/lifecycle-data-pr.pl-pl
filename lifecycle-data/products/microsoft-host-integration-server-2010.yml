@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serwer integracji hostów firmy Microsoft 2010
+  title: Microsoft Host Integration Server 2010
   description: Program Microsoft Host Integration Server 2010 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a46293719b430954ce5a27c1cea86948dfd35cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831843"
-name: Serwer integracji hostów firmy Microsoft 2010
+name: Microsoft Host Integration Server 2010
 summary: >
   Program Microsoft Host Integration Server 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Pomoc techniczna dla tego produktu kończy się 12 stycznia 2021 r. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
+  > Świadczenie pomocy technicznej dla tego produktu zostanie zakończone 12 stycznia 2021 r. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
 products:
 - microsoft-servers
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Dodatkowe informacje o migracji](/host-integration-server/install-and-config-guides/his-migration-tool-2020)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Dodatkowe informacje dotyczące migracji](/host-integration-server/install-and-config-guides/his-migration-tool-2020)"

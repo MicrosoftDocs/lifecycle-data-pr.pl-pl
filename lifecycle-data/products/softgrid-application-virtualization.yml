@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Wirtualizacja aplikacji SoftGrid
-  description: Wirtualizacja aplikacji SoftGrid jest zgodna z zasadami stałego cyklu życia.
+  title: SoftGrid Application Virtualization
+  description: Program SoftGrid Application Virtualization jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831538"
-name: Wirtualizacja aplikacji SoftGrid
+name: SoftGrid Application Virtualization
 summary: >
-  Wirtualizacja aplikacji SoftGrid jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program SoftGrid Application Virtualization jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: 4.1 dla komputerów stacjonarnych, 4.2 dla komputerów stacjonarnych, dla usług terminalowych 4.1
+  Dotyczy to następujących edycji: 4.1 for Desktops, 4.2 for Desktops, for Terminal Services 4.1
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Wersje \n* 4.1 dla komputerów stacjonarnych\n* 4.2 dla komputerów stacjonarnych\n* dla usług terminalowych 4.1"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Edycje \n* 4.1 for Desktops\n* 4.2 for Desktops\n* for Terminal Services 4.1"
