@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Seria Azure StorSimple 8000
-  description: Usługa Azure StorSimple serii 8000 jest zgodna z zasadami stałego cyklu życia.
+  title: Seria 8000 Azure StorSimple
+  description: Usługa Azure StorSimple 8000 Series jest zgodna z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859788"
-name: Seria Azure StorSimple 8000
+name: Seria 8000 Azure StorSimple
 summary: >+
-  Usługa Azure StorSimple serii 8000 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Usługa Azure StorSimple 8000 Series jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>Linki \n* [Obsługa rozwiązań StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Wskazówki dotyczące migracji](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Obsługa usługi Azure StorSimple serii 8000 została rozszerzona, jak pokazano, aby zapewnić klientom standardową oś czasu cyklu życia. Rozszerzona pomoc techniczna obejmuje tylko wymianę sprzętu i aktualizacje zabezpieczeń."
+content: "\n## <a name=\"links\"></a>Linki \n* [Wsparcie dla rozwiązań StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Wskazówki dotyczące migracji](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Wsparcie rozwiązania serii Azure StorSimple 8000 zostaje wydłużone zgodnie z opisem w celu zapewnienia klientom standardowej osi czasu cyklu życia. Wydłużone wsparcie obejmuje wyłącznie wymianę sprzętu oraz aktualizacje zabezpieczeń."

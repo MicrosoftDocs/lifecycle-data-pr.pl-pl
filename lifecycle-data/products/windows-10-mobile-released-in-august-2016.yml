@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 Mobile, wydany w sierpniu 2016
-  description: System Windows 10 Mobile wydany w sierpniu 2016 r. jest zgodny z zasadami stałego cyklu życia.
+  description: System Windows 10 Mobile, wydany w sierpniu 2016 r., jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: b9e0a074c7472ba059b79bac77a05a001e76d8c3
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859867"
 name: Windows 10 Mobile, wydany w sierpniu 2016
 summary: >
-  System Windows 10 Mobile wydany w sierpniu 2016 r. jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  System Windows 10 Mobile, wydany w sierpniu 2016 r., jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona.
+  > Wsparcie dla tego produktu dobiegło końca.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/16/2016
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Linki \n* [Cykl życia systemu operacyjnego urządzenia – często zadawane pytania](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile zakończył wsparcie 10 grudnia 2019 r.](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Cykl życia systemu operacyjnego urządzenia – często zadawane pytania](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile — koniec wsparcia w dniu 10 grudnia 2019 r.](/lifecycle/announcements/windows-10-mobile-end-of-support)"

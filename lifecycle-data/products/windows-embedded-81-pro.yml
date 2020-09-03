@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d9ada5810dc20ee1491b24af7ee1e214dcf8678
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860246"
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Linki \n* [Cykliczne — często zadawane pytania - Produkty z systemem Windows](/lifecycle/faq/windows)\n* [Często zadawane pytania dotyczące osadzonego systemu Windows 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące zasad cyklu życia — Produkty z systemem Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1 — często zadawane pytania](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)"

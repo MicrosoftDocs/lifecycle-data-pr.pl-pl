@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8.1 Ręczny
-  description: Funkcja podręczna Windows Embedded 8.1 jest zgodna z zasadami stałego cyklu życia.
+  title: Windows Embedded 8.1 Handheld
+  description: System Windows Embedded 8.1 Handheld jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860248"
-name: Windows Embedded 8.1 Ręczny
+name: Windows Embedded 8.1 Handheld
 summary: >
-  Funkcja podręczna Windows Embedded 8.1 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  System Windows Embedded 8.1 Handheld jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona. Jeśli Twoja organizacja nadal utrzymuje te platformy i ma dodatkowe pytania, skontaktuj się z zespołem kont.
+  > Wsparcie dla tego produktu dobiegło końca. Jeśli Twoja organizacja nadal utrzymuje te platformy i ma dodatkowe pytania, skontaktuj się z zespołem kont.
 products:
 - windows
 policyType: fixed-mainstream-only
