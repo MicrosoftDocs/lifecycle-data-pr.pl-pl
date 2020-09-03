@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program SQL Server 2017
+  title: SQL Server 2017
   description: Program SQL Server 2017 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8eb60aa5e94d8c064f0bb06f4bfb11782141d320
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871375"
-name: Program SQL Server 2017
+name: SQL Server 2017
 summary: >+
   Program SQL Server 2017 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: w systemie Linux (wszystkie wersje), w systemie Windows (wszystkie wersje)
+  Dotyczy to następujących edycji: dla systemu Linux (wszystkie edycje), dla systemu Windows (wszystkie edycje)
 
 products:
 - sql-server
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2017
   endDate: 10/12/2027
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> Począwszy od programu SQL Server 2017, nie zostaną wydane żadne dodatki Service Pack.\n\n## <a name=\"editions\"></a>Wersje \n* na Linuksie (wszystkie wersje)\n* w systemie Windows (wszystkie wersje)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> Począwszy od programu SQL Server 2017, nie zostaną wydane żadne dodatki Service Pack.\n\n## <a name=\"editions\"></a>Edycje \n* dla systemu Linux (wszystkie edycje)\n* dla systemu Windows (wszystkie edycje)"

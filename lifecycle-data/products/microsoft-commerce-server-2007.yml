@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Commerce Server 2007
-  description: Program Microsoft Commerce Server 2007 jest zgodny z ustalonymi zasadami cyklu życia.
+  description: Program Microsoft Commerce Server 2007 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/12/2020
   ms.openlocfilehash: 428d4ea2be6f7edfd13e14a297a4795d02575ed7
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893472"
 name: Microsoft Commerce Server 2007
 summary: >
-  Program Microsoft Commerce Server 2007 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Microsoft Commerce Server 2007 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: developer, Enterprise, standard
+  Dotyczy to następujących edycji: Developer, Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > Zakończono świadczenie pomocy technicznej dla tego produktu.
+  > Wsparcie dla tego produktu dobiegło końca.
 products:
 - microsoft-servers
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Umieszczon \n* [Zasady dotyczące dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Wydań \n* Deweloper\n* —\n* Standard"
+content: "\n## <a name=\"links\"></a>Linki \n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Developer\n* Enterprise\n* Standard"

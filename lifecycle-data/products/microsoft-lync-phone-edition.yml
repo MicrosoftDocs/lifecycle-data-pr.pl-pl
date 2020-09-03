@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879523"
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje dodatkowe](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Program Lync Phone Edition jest obsługiwany w programach Lync Server 2010 i Lync Server 2013. Data pomocy technicznej dla programu Lync Phone Edition została przedłużona o 2 lata, aby dostosować ją do cyklu życia programu Lync Server 2013."
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje dodatkowe](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Program Lync Phone Edition jest obsługiwany w systemami Lync Server 2010 i Lync Server 2013. Data zakończenia wsparcia dla programu Lync Phone Edition została przedłużona o 2 lata, aby dostosować ją do cyklu życia systemu Lync Server 2013."

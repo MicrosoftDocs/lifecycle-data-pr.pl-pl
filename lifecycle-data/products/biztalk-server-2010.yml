@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program BizTalk Server 2010
-  description: Program BizTalk Server 2010 jest zgodny ze stałymi zasadami cyklu życia.
+  title: BizTalk Server 2010
+  description: Program BizTalk Server 2010 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/19/2020
   ms.openlocfilehash: cf79175dea88682f0ace56ab69a2dc9e933ccc58
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903701"
-name: Program BizTalk Server 2010
+name: BizTalk Server 2010
 summary: >+
-  Program BizTalk Server 2010 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program BizTalk Server 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: oddział, deweloper, Enterprise, RFID Enterprise
+  Dotyczy to następujących edycji: Branch, Developer, Enterprise, Enterprise RFID, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Umieszczon \n* [Wskazówki dotyczące migracji](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Informacje o wersji](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Wydań \n* Branch\n* Deweloper\n* —\n* RFID dla przedsiębiorstw\n* Standard"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Wersja](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Edycje \n* Branch\n* Developer\n* Enterprise\n* Enterprise RFID\n* Standard"

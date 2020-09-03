@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center Virtual Machine Manager Półroczny kanał
-  description: System Center Virtual Machine Manager Półroczny kanał zgodnie z nowoczesną zasadą cyklu życia.
+  title: System Center Virtual Machine Manager półroczny kanał
+  description: Program System Center Virtual Machine Manager półroczny kanał jest zgodny z zasadami nowoczesnego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8972aa6593d08e6325e8ff4d71d5fb04609caa92
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871358"
-name: System Center Virtual Machine Manager Półroczny kanał
+name: System Center Virtual Machine Manager półroczny kanał
 summary: >
-  System Center Virtual Machine Manager Półroczny kanał zgodnie z [nowoczesną](/lifecycle/policies/modern) zasadą cyklu życia.
+  Program System Center Virtual Machine Manager półroczny kanał jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 
