@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Microsoft Office Live Communications Server 2005
+  title: Microsoft Office Live Communications Server 2005
   description: Program Microsoft Office Live Communications Server 2005 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 709969b9c25ec55bfe3538a49076f6d640003cba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831804"
-name: Program Microsoft Office Live Communications Server 2005
-summary: "Program Microsoft Office Live Communications Server 2005 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących wersji: Enterprise, Standard\n\n> [!IMPORTANT]\n> Obsługa tego produktu została zakończona. \n"
+name: Microsoft Office Live Communications Server 2005
+summary: "Program Microsoft Office Live Communications Server 2005 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących edycji: Enterprise, Standard\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
 products:
 - office
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/22/2005
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Linki \n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Wersje \n* Przedsiębiorstwo\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise\n* Standard"

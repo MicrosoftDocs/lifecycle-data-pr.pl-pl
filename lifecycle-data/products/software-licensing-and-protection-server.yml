@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serwer licencjonowania i ochrony oprogramowania
-  description: Serwer licencjonowania i ochrony oprogramowania jest zgodny z zasadami stałego cyklu życia.
+  title: Software Licensing and Protection Server
+  description: Program Software Licensing and Protection Server jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831554"
-name: Serwer licencjonowania i ochrony oprogramowania
+name: Software Licensing and Protection Server
 summary: >
-  Serwer licencjonowania i ochrony oprogramowania jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Software Licensing and Protection Server jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Enterprise, Standard
+  Dotyczy to następujących edycji: Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > Ze względu na zbycie software licensing and protection server (SLPS), firma Microsoft obsługiwała slps do 24 września 2009 r.
+  > Ze względu na zbycie programu Software Licensing and Protection Server (SLPS), firma Microsoft zachowywała wsparcie dla programu SLPS do 24 września 2009 r.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Linki \n* [Serwer licencjonowania i ochrony oprogramowania (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Wersje \n* Przedsiębiorstwo\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise\n* Standard"

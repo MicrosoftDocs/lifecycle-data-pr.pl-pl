@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Menedżer kart wyników pakietu Microsoft Office Business 2005
+  title: Microsoft Office Business Scorecard Manager 2005
   description: Program Microsoft Office Business Scorecard Manager 2005 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: bc345248ceba7c8f2cac730bc1141a0dae32d398
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832524"
-name: Menedżer kart wyników pakietu Microsoft Office Business 2005
+name: Microsoft Office Business Scorecard Manager 2005
 summary: >+
   Program Microsoft Office Business Scorecard Manager 2005 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/27/2005
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> Obsługa business scorecard manager 2005 zakończyła się w dniu 1/12/2016."
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> Świadczenie pomocy technicznej dla programu Microsoft Office Business Scorecard Manager 2005 zostało zakończone 12 stycznia 2016 r."

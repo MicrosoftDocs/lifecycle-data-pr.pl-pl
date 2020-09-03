@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serwer wyszukiwania firmy Microsoft 2008
+  title: Microsoft Search Server 2008
   description: Program Microsoft Search Server 2008 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8cc4d7be772a82fb4a16297daa58a2cc779aa3ab
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831566"
-name: Serwer wyszukiwania firmy Microsoft 2008
-summary: "Program Microsoft Search Server 2008 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących wersji: Express, Standard\n\n> [!IMPORTANT]\n> Obsługa tego produktu została zakończona. \n"
+name: Microsoft Search Server 2008
+summary: "Program Microsoft Search Server 2008 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących edycji: Express, Standard\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/03/2008
   endDate: 07/10/2018
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Wersje \n* Express\n* Standardowych"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Edycje \n* Express\n* Standard"

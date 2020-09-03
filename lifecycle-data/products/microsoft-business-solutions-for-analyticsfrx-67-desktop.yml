@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Rozwiązania biznesowe firmy Microsoft dla analiz — komputery stacjonarne FRx 6.7
-  description: Microsoft Business Solutions for Analytics — FRx 6.7 Desktop jest zgodny z zasadami stałego cyklu życia.
+  title: Microsoft Business Solutions for Analytics — program FRx 6.7 Desktop
+  description: Microsoft Business Solutions for Analytics — program FRx 6.7 Desktop jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832208"
-name: Rozwiązania biznesowe firmy Microsoft dla analiz — komputery stacjonarne FRx 6.7
+name: Microsoft Business Solutions for Analytics — program FRx 6.7 Desktop
 summary: >+
-  Microsoft Business Solutions for Analytics — FRx 6.7 Desktop jest zgodny z [zasadami stałego](/lifecycle/policies/fixed) cyklu życia.
+  Microsoft Business Solutions for Analytics — program FRx 6.7 Desktop jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2004
   endDate: 07/08/2014
-content: "\n\n> [!NOTE]\n> Obsługa FRx kończy się w wskazanym dniu, chyba że jest dystrybuowana jako składnik produktu Dynamics. Daty cyklu życia Dynamics, gdy są dystrybuowane z produktem Dynamics, zastępują daty FRx."
+content: "\n\n> [!NOTE]\n> Obsługa FRx kończy się w wskazanym dniu, chyba że jest dystrybuowana jako składnik produktu Dynamics. W przypadku dystrybucji z produktem Dynamics daty cyklu życia Dynamics zastępują datę programu FRx."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Internet Explorer 7
+  title: Internet Explorer 7
   description: Program Internet Explorer 7 jest zgodny z zasadami cyklu życia składnika.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832258"
-name: Program Internet Explorer 7
+name: Internet Explorer 7
 summary: >+
-  Program Internet Explorer 7 jest zgodny z zasadami cyklu życia [składnika.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Program Internet Explorer 7 jest zgodny z zasadami cyklu życia [składnika](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://www.microsoft.com/itpro/microsoft-edge)\n* [Często zadawane pytania dotyczące zasad cyklu życia programu Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Od 12 stycznia 2016 r. tylko najnowsza wersja programu Internet Explorer dostępna dla obsługiwanego systemu operacyjnego otrzyma pomoc techniczną i aktualizacje zabezpieczeń."
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://www.microsoft.com/itpro/microsoft-edge)\n* [Często zadawane pytania dotyczące zasad cyklu życia — program Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Po 12 stycznia 2016 r. pomoc techniczną i aktualizacje zabezpieczeń będą otrzymywać tylko najnowsze wersje programu Internet Explorer dostępne dla obsługiwanych systemów operacyjnych."

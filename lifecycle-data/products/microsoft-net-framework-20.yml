@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Framework 2.0
+  title: Platforma Microsoft .NET Framework 2.0
   description: Program Microsoft .NET Framework 2.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6d186410b904b018d0d12029387bf88ac0784fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832157"
-name: Microsoft .NET Framework 2.0
+name: Platforma Microsoft .NET Framework 2.0
 summary: >+
-  Program Microsoft .NET Framework 2.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Microsoft jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/17/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące cyklu życia — .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informacje o produkcie](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> Obsługa programu .NET Framework 2.0 zakończyła się 12 lipca 2011 r."
+content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące cyklu życia — .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informacje o produkcie](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> Świadczenie pomocy technicznej dla programu .NET Framework 2.0 zostało zakończone 12 lipca 2011 r."
