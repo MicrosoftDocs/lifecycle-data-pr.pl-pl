@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Karty Microsoft BizTalk dla systemów hosta 2,0
-  description: Karty Microsoft BizTalk dla systemów hosta 2,0 są zgodne ze stałymi zasadami cyklu życia.
+  title: Microsoft BizTalk Adapters for Host Systems 2.0
+  description: Program Microsoft BizTalk Adapters for Host Systems 2.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893509"
-name: Karty Microsoft BizTalk dla systemów hosta 2,0
+name: Microsoft BizTalk Adapters for Host Systems 2.0
 summary: >+
-  Karty Microsoft BizTalk dla systemów hosta 2,0 są zgodne ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Microsoft BizTalk Adapters for Host Systems 2.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Deweloper, standard
+  Dotyczy to następujących edycji: Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Umieszczon \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Wydań \n* Deweloper\n* Standard"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Edycje \n* Developer\n* Standard"

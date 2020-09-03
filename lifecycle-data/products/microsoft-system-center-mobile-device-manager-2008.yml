@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Mobile Device Manager 2008
-  description: Program Microsoft System Center Mobile Device Manager 2008 jest zgodny z ustalonymi zasadami cyklu życia.
+  description: Program Microsoft System Center Mobile Device Manager 2008 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906295"
 name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Program Microsoft System Center Mobile Device Manager 2008 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Microsoft System Center Mobile Device Manager 2008 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: wszystkie stosowne, wSQL
+  Dotyczy to następujących edycji: wszystkie, które mają zastosowanie, wSQL
 
 products:
 - msc
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Umieszczon \n* [Wskazówki dotyczące migracji](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Zasady dotyczące dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Wydań \n* Wszystkie odpowiednie\n* wSQL"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Wszystkie stosowne\n* wSQL"

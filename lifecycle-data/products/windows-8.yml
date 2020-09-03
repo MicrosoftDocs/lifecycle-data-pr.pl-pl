@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8
-  description: System Windows 8 jest zgodny z ustalonymi zasadami cyklu życia.
+  description: System Windows 8 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/21/2020
   ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906704"
 name: Windows 8
 summary: >
-  System Windows 8 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  System Windows 8 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Enterprise, Enterprise N, N, Pro z Media Center, Professional, Professional N, SL
+  Dotyczy to następujących edycji: Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N, SL
 
 
   > [!IMPORTANT]
 
-  > Zakończono świadczenie pomocy technicznej dla tego produktu. Aby zachować możliwość obsługi, klienci muszą zaktualizować system do wersji Windows 8,1.
+  > Wsparcie dla tego produktu dobiegło końca. Klienci mają 24 miesiące na przejście do systemu Windows 8.1, aby zachować wsparcie.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Umieszczon \n* [Często zadawane pytania dotyczące cyklu życia — Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Wydań \n* —\n* Enterprise N\n* 'N\n* Pakiet Pro z programem Media Center\n* Specjalistyczn\n* Profesjonalny N\n* AMORTYZACJ"
+content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące zasad cyklu życia — system Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise\n* Enterprise N\n* N\n* Pro with Media Center\n* Professional\n* Professional N\n* SL"
