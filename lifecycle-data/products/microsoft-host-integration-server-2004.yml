@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Host Integration Server 2004
   description: Program Microsoft Host Integration Server 2004 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 25028677f10f76293af0536c479e50a6996dfaf0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Developer,Enterprise,Standard
+  ms.openlocfilehash: f25ad096e73a81539c8d2c5ae6f9512c7a8dcf40
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "831846"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001881"
 name: Microsoft Host Integration Server 2004
 summary: "Program Microsoft Host Integration Server 2004 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących edycji: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
 products:
