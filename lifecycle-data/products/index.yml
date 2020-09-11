@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Wyszukaj informacje o cyklu życia produktów i usług (wersja zapoznawcza)
+title: Wyszukaj informacje o cyklu życia produktów i usług
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Ta strona jest w fazie rozwoju i zostanie ukończona 2 września. W międzyczasie możesz wyświetlić pełną listę produktów firmy Microsoft z osiami czasu ich wsparcia oraz innymi szczegółami na stronie [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Eksportowanie informacji o cyklu życia ze strony [Eksportowanie cyklu życia](/lifecycle/export/products).\n\n\nCykl życia firmy Microsoft zapewnia spójne i przewidywalne wytyczne dotyczące wsparcia przez cały okres użytkowania produktu, pomagając klientom zarządzać inwestycjami i środowiskami IT, jednocześnie strategicznie planując przyszłość.\n\n\nPoniżej możesz wyszukać listę komercyjnych produktów i usług firmy Microsoft, a następnie wybrać wynik, aby znaleźć osi czasu wsparcia i pomocy technicznej, wymagane aktualizacje, informacje o migracji i wymagania systemowe."
+summary: "\n> [!NOTE]\n> Eksportowanie informacji o cyklu życia ze strony [Eksportowanie cyklu życia](/lifecycle/products/export).\n\n\nCykl życia firmy Microsoft zapewnia spójne i przewidywalne wytyczne dotyczące wsparcia przez cały okres użytkowania produktu, pomagając klientom zarządzać inwestycjami i środowiskami IT, jednocześnie strategicznie planując przyszłość.\n\n\nPoniżej możesz wyszukać listę komercyjnych produktów i usług firmy Microsoft, a następnie wybrać wynik, aby znaleźć osi czasu wsparcia i pomocy technicznej, wymagane aktualizacje, informacje o migracji i wymagania systemowe."
 metadata:
-  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
-  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
+  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "899850"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "943044"
