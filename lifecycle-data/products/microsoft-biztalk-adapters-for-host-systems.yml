@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Karty Microsoft BizTalk dla systemów hosta
-  description: Karty microsoft biztalk dla systemów hosta są zgodne z zasadami stałego cyklu życia.
+  title: Microsoft BizTalk Adapters for Host Systems
+  description: Program Microsoft BizTalk Adapters for Host Systems jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832220"
-name: Karty Microsoft BizTalk dla systemów hosta
+name: Microsoft BizTalk Adapters for Host Systems
 summary: >+
-  Karty microsoft biztalk dla systemów hosta są zgodne z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Microsoft BizTalk Adapters for Host Systems jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Karty Microsoft BizTalk FileAct i InterAct dla SWIFT
-  description: Karty Microsoft BizTalk FileAct i InterAct dla SWIFT są zgodne z zasadami stałego cyklu życia.
+  title: Microsoft BizTalk FileAct i InterAct Adapters for SWIFT
+  description: Program Microsoft BizTalk FileAct and InterAct Adapters for SWIFT jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832217"
-name: Karty Microsoft BizTalk FileAct i InterAct dla SWIFT
+name: Microsoft BizTalk FileAct i InterAct Adapters for SWIFT
 summary: >+
-  Karty Microsoft BizTalk FileAct i InterAct dla SWIFT są zgodne z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Microsoft BizTalk FileAct and InterAct Adapters for SWIFT jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
