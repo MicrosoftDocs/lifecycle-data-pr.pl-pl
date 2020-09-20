@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office 365 (przedsiębiorstwo, rząd, edukacja)
-  description: Usługa Office 365 (enterprise, government, education) jest zgodna z zasadami nowoczesnego cyklu życia.
+  title: Office 365 (Enterprise, Government, Education)
+  description: Pakiet Office 365 (Enterprise, Government, Education) jest zgodny z zasadami nowoczesnego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81c940fa031fd8eea9e3895d72c1a046af048638
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859989"
-name: Office 365 (przedsiębiorstwo, rząd, edukacja)
+name: Office 365 (Enterprise, Government, Education)
 summary: >+
-  Usługa Office 365 (enterprise, government, education) jest zgodna z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  Pakiet Office 365 (Enterprise, Government, Education) jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 Handel
-  description: Dynamics 365 Commerce jest zgodna z nowoczesnymi zasadami cyklu życia.
+  title: Dynamics 365 Commerce
+  description: Usługa Dynamics 365 Commerce jest zgodna z zasadami nowoczesnego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: caa3896b6ce5390654a79c694a018b6e5471d0ec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871267"
-name: Dynamics 365 Handel
+name: Dynamics 365 Commerce
 summary: >+
-  Dynamics 365 Commerce jest zgodna z [nowoczesnymi](/lifecycle/policies/modern) zasadami cyklu życia.
+  Usługa Dynamics 365 Commerce jest zgodna z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 07/01/2017
-content: "\n## <a name=\"links\"></a>Linki \n* [Plan działania systemu Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Aby uzyskać więcej informacji na temat zmiany nazwy](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 Retail jest teraz Dynamics 365 Commerce"
+content: "\n## <a name=\"links\"></a>Linki \n* [Plan działania usługi Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Aby uzyskać więcej informacji na temat zmiany nazwy](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 Retail nazywa się teraz Dynamics 365 Commerce"

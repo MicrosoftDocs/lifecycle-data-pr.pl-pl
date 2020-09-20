@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Menedżer ochrony danych programu Microsoft System Center 2012 R2
+  title: Microsoft System Center 2012 R2 Data Protection Manager
   description: Program Microsoft System Center 2012 R2 Data Protection Manager jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: ed0d5ccd32c082afb84d8310d7497d11ffdfe0b0
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860086"
-name: Menedżer ochrony danych programu Microsoft System Center 2012 R2
+name: Microsoft System Center 2012 R2 Data Protection Manager
 summary: >+
-  Program Microsoft System Center 2012 R2 Data Protection Manager jest zgodny [z zasadami stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Microsoft System Center 2012 R2 Data Protection Manager jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Linki \n* [Dokumentacja centrum systemowego](/system-center/#pivot=components&panel=components-all)\n* [Zasoby centrum systemowego](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Dokumentacja System Center](/system-center/#pivot=components&panel=components-all)\n* [System Center Resources](https://www.microsoft.com/system-center/resources)"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Docelowy program iSCSI firmy Microsoft 3.3
-  description: Obiekt docelowy oprogramowania iSCSI firmy Microsoft 3.3 jest zgodny z zasadami cyklu życia składnika.
+  title: Microsoft iSCSI Software Target 3.3
+  description: Program Microsoft iSCSI Software Target 3.3 jest zgodny z zasadami cyklu życia składników.
   ms.date: 07/28/2020
   ms.openlocfilehash: c8ae05506cdc5e83920e82e4cc6bcfef3c03863e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859907"
-name: Docelowy program iSCSI firmy Microsoft 3.3
+name: Microsoft iSCSI Software Target 3.3
 summary: >
-  Obiekt docelowy oprogramowania iSCSI firmy Microsoft 3.3 jest zgodny z zasadami cyklu życia [składnika.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Program Microsoft iSCSI Software Target 3.3 jest zgodny z zasadami cyklu życia [składników](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 
   > [!IMPORTANT]
 
-  > Obsługa tego składnika została zakończona.
+  > Wsparcie dla tego składnika dobiegło końca.
 products:
 - windows
 policyType: component
