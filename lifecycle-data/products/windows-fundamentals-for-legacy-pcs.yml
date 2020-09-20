@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Podstawy systemu Windows dla starszych komputerów
-  description: Podstawy systemu Windows dla starszych komputerów są zgodne z zasadami stałego cyklu życia.
+  title: Program Windows Fundamentals dla starszych komputerów
+  description: Program Windows Fundamentals dla starszych komputerów jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831516"
-name: Podstawy systemu Windows dla starszych komputerów
+name: Program Windows Fundamentals dla starszych komputerów
 summary: >+
-  Podstawy systemu Windows dla starszych komputerów są zgodne z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Windows Fundamentals dla starszych komputerów jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2006
   endDate: 10/12/2010
-content: "\n## <a name=\"links\"></a>Linki \n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ten produkt jest zgodny z tymi samymi zasadami cyklu pomocy technicznej co system Windows XP."
+content: "\n## <a name=\"links\"></a>Linki \n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ten produkt jest zgodny z tymi samymi zasadami cyklu wsparcia co system Windows XP."
