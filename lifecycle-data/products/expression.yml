@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ekspresj
-  description: Wyrażenie jest zgodne z zasadami dotyczącymi ustalonego cyklu życia.
+  title: Expression
+  description: Program Expression jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio
   ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936237"
-name: Ekspresj
-summary: "Wyrażenie jest zgodne z zasadami dotyczącymi [ustalonego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących wersji: mieszanie, projektowanie, koder, Studio\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
+name: Expression
+summary: "Program Expression jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących edycji: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Data rozpoczęcia mieszania Expression to 13 lipca 2007 r. \n\n## <a name=\"editions\"></a>Edycje \n* Mieszać\n* Projektowanie\n* Czyta\n* Studio"
+content: "\n\n> [!NOTE]\n> Data początkowa programu Expression Blend to 13 lipca 2007 r. \n\n## <a name=\"editions\"></a>Edycje \n* Blend\n* Design\n* Encoder\n* Studio"

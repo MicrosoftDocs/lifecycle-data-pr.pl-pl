@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program InfoPath 2010
-  description: Program InfoPath 2010 jest zgodny z ustalonymi zasadami cyklu życia.
+  title: InfoPath 2010
+  description: Program Infopath 2010 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: b70d3170dfa8f1a3c2c08ae73564470d3d956b90
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936089"
-name: Program InfoPath 2010
+name: InfoPath 2010
 summary: >+
-  Program InfoPath 2010 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Infopath 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
   Dotyczy to następujących edycji: Standard

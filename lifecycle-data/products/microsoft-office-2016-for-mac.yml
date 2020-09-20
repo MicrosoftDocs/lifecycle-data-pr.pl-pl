@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2016 dla komputerów Mac
-  description: Pakiet Microsoft Office 2016 dla komputerów Mac jest zgodny ze stałymi zasadami cyklu życia.
+  title: Pakiet Microsoft Office 2016 dla komputerów Mac
+  description: Pakiet Microsoft Office 2016 dla komputerów Mac jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Standard
   ms.openlocfilehash: b92cf0db708d566826b8d260ef9026bc308c41ce
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936311"
-name: Microsoft Office 2016 dla komputerów Mac
+name: Pakiet Microsoft Office 2016 dla komputerów Mac
 summary: >+
-  Pakiet Microsoft Office 2016 dla komputerów Mac jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Pakiet Microsoft Office 2016 dla komputerów Mac jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: Dom i firma, wersja dla użytkowników domowych i uczniów Standard
+  Dotyczy to następujących edycji: Home and Business, Home and Student, Standard
 
 products:
 - office

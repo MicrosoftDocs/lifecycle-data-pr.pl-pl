@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Windows Embedded Device Manager 2011
-  description: System Windows Embedded Device Manager 2011 jest zgodny z ustalonymi zasadami cyklu życia.
+  title: Windows Embedded Device Manager 2011
+  description: Program Windows Embedded Device Manager 2011 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Client,SDK,Server
   ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939937"
-name: System Windows Embedded Device Manager 2011
+name: Windows Embedded Device Manager 2011
 summary: >
-  System Windows Embedded Device Manager 2011 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Windows Embedded Device Manager 2011 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: klient, SDK, serwer
+  Dotyczy to następujących edycji: Client, SDK, Server
 
 
   > [!IMPORTANT]
