@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel 2010
-  description: Program Excel 2010 jest zgodny z ustalonymi zasadami cyklu życia.
+  description: Program Excel 2010 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Home and Student,Mobile,Standard
   ms.openlocfilehash: 1ba0a62a05a1e3fd9d8a0833957ca33f3ba8b4fb
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931612"
 name: Excel 2010
 summary: >+
-  Program Excel 2010 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Excel 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: wersje dla użytkowników domowych i uczniów, telefony komórkowe, standardowe
+  Dotyczy to następujących edycji: Home and Student, Mobile, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/DeployOffice/office-2010-end-support-roadmap)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Home and Student\n* Szerokopasmowe\n* Standard"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/DeployOffice/office-2010-end-support-roadmap)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Home and Student\n* Mobile\n* Standard"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zestaw narzędzi narzędzi do diagnostyki i odzyskiwania firmy Microsoft 8.0
-  description: Zestaw narzędzi diagnostycznych i odzyskiwania firmy Microsoft 8.0 jest zgodny z zasadami stałego cyklu życia.
+  title: Microsoft Diagnostics and Recovery Toolset 8.0 — zestaw narzędzi do diagnostyki i odzyskiwania
+  description: Program Microsoft Diagnostics and Recovery Toolset 8.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38a98f28c3d9ef2fd1844a3083b3a6fcb52e1b5b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859912"
-name: Zestaw narzędzi narzędzi do diagnostyki i odzyskiwania firmy Microsoft 8.0
+name: Microsoft Diagnostics and Recovery Toolset 8.0 — zestaw narzędzi do diagnostyki i odzyskiwania
 summary: >+
-  Zestaw narzędzi diagnostycznych i odzyskiwania firmy Microsoft 8.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Microsoft Diagnostics and Recovery Toolset 8.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Linki \n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"

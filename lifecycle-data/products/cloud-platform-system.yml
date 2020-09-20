@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System platformy chmury
-  description: Usługa Cloud Platform System jest zgodna ze stałymi zasadami cyklu życia.
+  title: Cloud Platform System
+  description: Program Cloud Platform System jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932056"
-name: System platformy chmury
+name: Cloud Platform System
 summary: >+
-  Usługa Cloud Platform System jest zgodna ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Cloud Platform System jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
   Dotyczy to następujących edycji: Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Obsługa systemu platformy Cloud Platform jest rozszerzana tak, jak pokazano, aby udostępnić wszystkim klientom za pomocą standardowej osi czasu przejścia.\n> [!NOTE]\n> Wersja Standard system platform w chmurze: 18 września 2017 r.\n\n## <a name=\"editions\"></a>Edycje \n* Standard"
+content: "\n\n> [!NOTE]\n> Podstawowe wsparcie programu Cloud Platform System zostało rozszerzone, aby zapewnić klientom przejście na standardowy czas trwania cyklu życia.\n> [!NOTE]\n> Program Cloud Platform System Standard został wprowadzony na rynek 18 września 2017 r.\n\n## <a name=\"editions\"></a>Edycje \n* Standard"

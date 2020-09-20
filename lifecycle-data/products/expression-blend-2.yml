@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Wyrażenie 2
-  description: Wyrażenie 2 jest zgodne z zasadami stałego cyklu życia.
+  title: Expression 2
+  description: Program Expression 2 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio,Web
   ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930835"
-name: Wyrażenie 2
-summary: "Wyrażenie 2 jest zgodne z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących wersji: mieszanie, projektowanie, koder, Studio, Sieć Web\n\n> [!IMPORTANT]\n> Zakończono świadczenie pomocy technicznej dla tego produktu. \n"
+name: Expression 2
+summary: "Program Expression 2 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących edycji: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Mieszać\n* Projektowanie\n* Czyta\n* Studio\n* Web"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Blend\n* Design\n* Encoder\n* Studio\n* Web"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Skype dla firm 2015
-  description: Program Skype dla firm 2015 jest zgodny z zasadami stałego cyklu życia.
+  description: Program Skype for Business 2015 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: bd853629ca9a63be5ed31cb94084c5b161cb82cc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860169"
 name: Skype dla firm 2015
 summary: >+
-  Program Skype dla firm 2015 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Skype for Business 2015 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Klient: Wersja klienta programu Skype dla firm 2015 jest aktualizacją klienta programu Lync 2013 i będzie zgodna z tym samym cyklem życia produktu."
+content: "\n\n> [!NOTE]\n> Klient: Wersja klienta programu Skype for Business 2015 jest aktualizacją klienta programu Lync 2013 i będzie zgodna z cyklem życia tego produktu."

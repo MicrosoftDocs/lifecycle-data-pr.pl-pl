@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Administrowanie i monitorowanie funkcji BitLocker firmy Microsoft 2.0
-  description: Zarządzanie i monitorowanie w usłudze Microsoft BitLocker 2.0 są zgodne z zasadami stałego cyklu życia.
+  title: Microsoft BitLocker Administration and Monitoring 2.0
+  description: Program Microsoft BitLocker Administration and Monitoring 2.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5070cc5571cf5859fb0184860a7094fc4abc69eb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860103"
-name: Administrowanie i monitorowanie funkcji BitLocker firmy Microsoft 2.0
+name: Microsoft BitLocker Administration and Monitoring 2.0
 summary: >+
-  Zarządzanie i monitorowanie w usłudze Microsoft BitLocker 2.0 są zgodne z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Microsoft BitLocker Administration and Monitoring 2.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/16/2013
   endDate: 01/13/2015
-content: "\n## <a name=\"links\"></a>Linki \n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"

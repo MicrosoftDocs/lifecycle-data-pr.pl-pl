@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics SL 6,5
-  description: Składnik Dynamics SL 6,5 jest zgodny ze stałymi zasadami cyklu życia.
+  description: Program Dynamics SL 6.5 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/13/2020
   ms.openlocfilehash: ced885d31eb8f3ebdd2f44741ccfdd8678329f09
   ms.sourcegitcommit: a0028eb69fe2a3bae073d91a3634475608d48de1
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "894844"
 name: Dynamics SL 6,5
 summary: >+
-  Składnik Dynamics SL 6,5 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Dynamics SL 6.5 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -33,4 +33,4 @@ releases:
 - version: Original Relase
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Umieszczon \n* [Zasady dotyczące dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"

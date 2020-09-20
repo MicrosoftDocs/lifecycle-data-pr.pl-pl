@@ -1,11 +1,11 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Identity Manager 2010 R2
-  description: Program Microsoft Forefront Identity Manager 2010 R2 jest zgodny z zasadami stałego cyklu życia.
+  description: Program Microsoft Identity Manager 2010 R2 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 73bd6dedc5fd3618801bd75b09eda9c7bbfaf460
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860090"
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2012
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Linki \n* [Zasady dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)"

@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serwer integracji hostów firmy Microsoft 2013
+  title: Microsoft Host Integration Server 2013
   description: Program Microsoft Host Integration Server 2013 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d95fbc816dadeaac7c7ccb3d1780e299f8a124e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859911"
-name: Serwer integracji hostów firmy Microsoft 2013
+name: Microsoft Host Integration Server 2013
 summary: >+
   Program Microsoft Host Integration Server 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 

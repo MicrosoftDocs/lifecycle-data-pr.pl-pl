@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Program Exchange Server 2013
-  description: Program Exchange Server 2013 jest zgodny ze stałymi zasadami cyklu życia.
+  description: Program Exchange Server 2013 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 4362a67d623b5d2b1c99600a31880e0a584137a5
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931316"
 name: Program Exchange Server 2013
 summary: >+
-  Program Exchange Server 2013 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Exchange Server 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
   Dotyczy to następujących edycji: Enterprise, Standard
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące obsługi](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Linki \n* [Wytyczne dotyczące serwisowania](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise\n* Standard"

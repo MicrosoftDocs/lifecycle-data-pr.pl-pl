@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Pakiet Microsoft Office 2016
-  description: Pakiet Microsoft Office 2016 jest zgodny ze stałymi zasadami cyklu życia.
+  description: Pakiet Microsoft Office 2016 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
   ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930502"
 name: Pakiet Microsoft Office 2016
 summary: >+
-  Pakiet Microsoft Office 2016 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Pakiet Microsoft Office 2016 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: dla użytkowników domowych i małych firm, dla użytkowników domowych i uczniów, Personal, Professional, Professional Plus, standard
+  Dotyczy to następujących edycji: Home and Business, Home and Student, Personal, Professional, Professional Plus, Standard
 
 products:
 - office
