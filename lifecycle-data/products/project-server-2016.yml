@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Project Server 2016
-  description: Program Project Server 2016 jest zgodny ze stałymi zasadami cyklu życia.
+  title: Project Server 2016
+  description: Program Project Server 2016 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: a9dc96cf8e5a99917a0a31ccc23a413d9ff61ccc
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941459"
-name: Program Project Server 2016
+name: Project Server 2016
 summary: >+
-  Program Project Server 2016 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Project Server 2016 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n\n> [!NOTE]\n> Zobacz dokumentację [produktu](https://docs.microsoft.com/project/project-server-2013-and-2016) i [projektanta](https://developer.microsoft.com/project/docs) ."
+content: "\n\n> [!NOTE]\n> Zapoznaj się z dokumentacją [produktu](https://docs.microsoft.com/project/project-server-2013-and-2016) i dokumentacją [dewelopera](https://developer.microsoft.com/project/docs)."

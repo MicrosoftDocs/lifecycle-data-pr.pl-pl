@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Word 2016
-  description: Program Word 2016 jest zgodny ze stałymi zasadami cyklu życia.
+  title: Program Word 2016
+  description: Program Word 2016 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 65d33fb18d97798011013ff25eedc82583075734
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938642"
-name: Word 2016
+name: Program Word 2016
 summary: >+
-  Program Word 2016 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Word 2016 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
   Dotyczy to następujących edycji: Standard

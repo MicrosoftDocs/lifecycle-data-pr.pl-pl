@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Web Server 2008
-  description: Serwer Windows Web Server 2008 jest zgodny z ustalonymi zasadami cyklu życia.
+  description: System Windows Web Server 2008 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938901"
 name: Windows Web Server 2008
 summary: >+
-  Serwer Windows Web Server 2008 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  System Windows Web Server 2008 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
   Dotyczy to następujących edycji: Standard
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> Dla systemu Windows Server 2008 z dodatkiem Service Pack 2 ten produkt osiągnął koniec pomocy technicznej 14 stycznia 2020.\n\n## <a name=\"editions\"></a>Edycje \n* Standard"
+content: "\n\n> [!NOTE]\n> Zgodnie z systemem Windows Server 2008 z dodatkiem Service Pack 2 ten produkt utracił wsparcie 14 stycznia 2020 r.\n\n## <a name=\"editions\"></a>Edycje \n* Standard"

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Word 2013
-  description: Program Word 2013 jest zgodny ze stałymi zasadami cyklu życia.
+  description: Program Word 2013 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: b08705b30333f7f619339b95da3aafc1d047f7de
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938679"
 name: Word 2013
 summary: >+
-  Program Word 2013 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Word 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
   Dotyczy to następujących edycji: Standard
