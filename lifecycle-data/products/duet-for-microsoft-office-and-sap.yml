@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Duet dla pakietu Microsoft Office i SAP
-  description: W programie Duet for Microsoft Office i SAP owajka jest zgodna z zasadami stałego cyklu życia.
+  title: Duet for Microsoft Office and SAP
+  description: Program Duet for Microsoft Office and SAP jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7eb8ccf553c6adb14f39a87a103274110b34c656
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832433"
-name: Duet dla pakietu Microsoft Office i SAP
+name: Duet for Microsoft Office and SAP
 summary: >+
-  W programie Duet for Microsoft Office i SAP owajka jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Duet for Microsoft Office and SAP jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/28/2006
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Linki \n* [Sap](https://support.sap.com/index.html)\n\n> [!NOTE]\n> Ten produkt jest sprzedawany i obsługiwany przez SAP."
+content: "\n## <a name=\"links\"></a>Linki \n* [SAP](https://support.sap.com/index.html)\n\n> [!NOTE]\n> Ten produkt jest sprzedawany i obsługiwany przez SAP."

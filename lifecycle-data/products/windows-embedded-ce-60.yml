@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Osadzony w systemie Windows CE 6.0
+  title: Windows Embedded CE 6.0
   description: System Windows Embedded CE 6.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: a4dcc45afc796f07ef8606d1130588a449bd0e8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832044"
-name: Osadzony w systemie Windows CE 6.0
+name: Windows Embedded CE 6.0
 summary: >
   System Windows Embedded CE 6.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
@@ -17,7 +17,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Obsługa tego produktu została zakończona.
+  > Wsparcie dla tego produktu dobiegło końca.
 products:
 - windows
 policyType: fixed

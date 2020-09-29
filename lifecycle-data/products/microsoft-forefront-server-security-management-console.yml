@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Konsola zarządzania zabezpieczeniami programu Microsoft Forefront Server
-  description: Konsola zarządzania zabezpieczeniami programu Microsoft Forefront Server jest zgodna z zasadami stałego cyklu życia.
+  title: Microsoft Forefront Server Security Management Console — Konsola zarządzania zabezpieczeniami programu Microsoft Forefront Server
+  description: Program Microsoft Forefront Server Security Management Console jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832166"
-name: Konsola zarządzania zabezpieczeniami programu Microsoft Forefront Server
+name: Microsoft Forefront Server Security Management Console — Konsola zarządzania zabezpieczeniami programu Microsoft Forefront Server
 summary: >+
-  Konsola zarządzania zabezpieczeniami programu Microsoft Forefront Server jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Microsoft Forefront Server Security Management Console jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
