@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Usługa kontenera platformy Azure
-  description: Usługa kontenera platformy Azure jest zgodna z zasadami nowoczesnego cyklu życia.
+  title: Azure Container Service
+  description: Usługa Azure Container Service jest zgodna z zasadami nowoczesnego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859779"
-name: Usługa kontenera platformy Azure
+name: Azure Container Service
 summary: >+
-  Usługa kontenera platformy Azure jest zgodna z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  Usługa Azure Container Service jest zgodna z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:

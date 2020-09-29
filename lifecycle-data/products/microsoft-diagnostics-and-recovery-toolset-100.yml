@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zestaw narzędzi narzędzi do diagnostyki i odzyskiwania firmy Microsoft 10.0
-  description: Zestaw narzędzi diagnostycznych i odzyskiwania firmy Microsoft 10.0 jest zgodny z zasadami stałego cyklu życia.
+  title: Zestaw narzędzi do diagnostyki i odzyskiwania firmy Microsoft w wersji 10.0
+  description: Zestaw narzędzi do diagnostyki i odzyskiwania firmy Microsoft w wersji 10.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 46c297ae7fa494c3a70d86bf5ce3f8ec62e906f4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859913"
-name: Zestaw narzędzi narzędzi do diagnostyki i odzyskiwania firmy Microsoft 10.0
+name: Zestaw narzędzi do diagnostyki i odzyskiwania firmy Microsoft w wersji 10.0
 summary: >+
-  Zestaw narzędzi diagnostycznych i odzyskiwania firmy Microsoft 10.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Zestaw narzędzi do diagnostyki i odzyskiwania firmy Microsoft w wersji 10.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:

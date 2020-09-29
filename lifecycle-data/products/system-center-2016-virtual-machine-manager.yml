@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Menedżer maszyn wirtualnych programu System Center 2016
-  description: Menedżer maszyn wirtualnych programu System Center 2016 jest zgodny z zasadami stałego cyklu życia.
+  title: System Center 2016 Virtual Machine Manager
+  description: Program System Center 2016 Virtual Machine Manager jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 43bd64cf4f3bcde6c41718f57bddd96ccd63a8a6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860082"
-name: Menedżer maszyn wirtualnych programu System Center 2016
+name: System Center 2016 Virtual Machine Manager
 summary: >+
-  Menedżer maszyn wirtualnych programu System Center 2016 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program System Center 2016 Virtual Machine Manager jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:

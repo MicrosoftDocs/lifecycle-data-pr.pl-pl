@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zaangażowanie na urządzenia mobilne platformy Azure
-  description: Usługa Azure Mobile Engagement jest zgodna z zasadami nowoczesnego cyklu życia.
+  title: Azure Mobile Engagement
+  description: Platforma Azure Mobile Engagement jest zgodna z zasadami nowoczesnego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5b91321c749556c0bd13b700b1c8a1806e2a9bb5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859825"
-name: Zaangażowanie na urządzenia mobilne platformy Azure
+name: Azure Mobile Engagement
 summary: >+
-  Usługa Azure Mobile Engagement jest zgodna z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  Platforma Azure Mobile Engagement jest zgodna z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:

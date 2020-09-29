@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Klient pulpitu usługi Project Online
-  description: Project Online Desktop Client jest zgodny z zasadami nowoczesnego cyklu życia.
+  title: Project Online Desktop Client
+  description: Program Project Online Desktop Client jest zgodny z zasadami nowoczesnego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d87e5120f17d4b087c13f5947f9c099d4ed52a5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859870"
-name: Klient pulpitu usługi Project Online
+name: Project Online Desktop Client
 summary: >+
-  Project Online Desktop Client jest zgodny z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  Program Project Online Desktop Client jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:
