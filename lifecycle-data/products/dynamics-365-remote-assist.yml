@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Asystent zdalny Dynamics 365
-  description: Funkcja pomocy zdalnej Dynamics 365 jest zgodna z nowoczesnymi zasadami cyklu życia.
+  title: Dynamics 365 Remote Assist
+  description: Rozwiązanie Dynamics 365 Remote Assist jest zgodne z zasadami nowoczesnego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: f515184c8d286e79842892235e7e48414438d758
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871250"
-name: Asystent zdalny Dynamics 365
+name: Dynamics 365 Remote Assist
 summary: >+
-  Funkcja pomocy zdalnej Dynamics 365 jest zgodna z [nowoczesnymi](/lifecycle/policies/modern) zasadami cyklu życia.
+  Rozwiązanie Dynamics 365 Remote Assist jest zgodne z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/30/2018
-content: "\n## <a name=\"links\"></a>Linki \n* [Układ i asystent zdalny](/dynamics365/mixed-reality/layout/faq)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Layout and Remote Assist](/dynamics365/mixed-reality/layout/faq)"

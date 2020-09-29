@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Układ Dynamics 365
-  description: Układ Dynamics 365 jest zgodny ze nowoczesnymi zasadami cyklu życia.
+  title: Dynamics 365 Layout
+  description: Usługa Dynamics 365 Layout jest zgodna z zasadami nowoczesnego cyklu życia.
   ms.date: 08/12/2020
   ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891853"
-name: Układ Dynamics 365
+name: Dynamics 365 Layout
 summary: >+
-  Układ Dynamics 365 jest zgodny ze [nowoczesnymi](/lifecycle/policies/modern) zasadami cyklu życia.
+  Usługa Dynamics 365 Layout jest zgodna z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Umieszczon \n* [Układ i pomoc zdalna](/dynamics365/mixed-reality/layout/faq)\n* [Ogłaszanie przejścia do układu Dynamics 365](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Layout and Remote Assist](/dynamics365/mixed-reality/layout/faq)\n* [Zapowiedź przejścia usługi Dynamics 365 Layout](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"

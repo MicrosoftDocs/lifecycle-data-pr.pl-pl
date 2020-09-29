@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows MovieMaker 2,0
-  description: System Windows MovieMaker 2,0 jest zgodny ze stałymi zasadami cyklu życia.
+  title: Windows MovieMaker 2.0
+  description: Program Windows MovieMaker 2.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/18/2020
   ms.openlocfilehash: dc2c02cb856f1d4cd277b6db2d9a8610b5a3163d
   ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "902853"
-name: Windows MovieMaker 2,0
+name: Windows MovieMaker 2.0
 summary: >+
-  System Windows MovieMaker 2,0 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Windows MovieMaker 2.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
