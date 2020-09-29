@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Menedżer konfiguracji programu Microsoft Endpoint
-  description: Program Microsoft Endpoint Configuration Manager jest zgodny z nowoczesnymi zasadami cyklu życia.
+  title: Microsoft Endpoint Configuration Manager
+  description: Program Microsoft Endpoint Configuration Manager jest zgodny z zasadami nowoczesnego cyklu życia.
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934054"
-name: Menedżer konfiguracji programu Microsoft Endpoint
+name: Microsoft Endpoint Configuration Manager
 summary: >
-  Program Microsoft Endpoint Configuration Manager jest zgodny z [nowoczesnymi](/lifecycle/policies/modern) zasadami cyklu życia.
+  Program Microsoft Endpoint Configuration Manager jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Szczegóły wersji](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Program System Center Configuration Manager jest teraz Menedżerem konfiguracji programu Microsoft Endpoint Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Wersje historyczne](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Co to jest Menedżer konfiguracji](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Szczegóły dotyczące wersji](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Program System Center Configuration Manager jest teraz programem Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Wersje historyczne](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Czym jest Configuration Manager](/mem/configmgr/core/understand/introduction)"

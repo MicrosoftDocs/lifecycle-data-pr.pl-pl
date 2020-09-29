@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Speech Server 2004
-  description: Program Microsoft Speech Server 2004 jest zgodny z ustalonymi zasadami cyklu życia.
+  description: Program Microsoft Search Server 2004 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 2fb4a48b2caffce89e54dac838ff7f1149886d48
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937088"
 name: Microsoft Speech Server 2004
 summary: >+
-  Program Microsoft Speech Server 2004 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Microsoft Speech Server 2004 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
   Dotyczy to następujących edycji: Enterprise, Standard

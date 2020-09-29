@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Publisher 2019
-  description: Program Publisher 2019 jest zgodny z ustalonymi zasadami cyklu życia.
+  title: Publisher 2019
+  description: Program Publisher 2019 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: d5b325ec4e796963976fe8fe923ba6c5ce81b1bf
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926432"
-name: Program Publisher 2019
+name: Publisher 2019
 summary: >+
-  Program Publisher 2019 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Publisher 2019 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
   Dotyczy to następujących edycji: Standard

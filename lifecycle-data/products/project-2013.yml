@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Project 2013
-  description: Program Project 2013 jest zgodny ze stałymi zasadami cyklu życia.
+  title: Program Project 2013
+  description: Program Project 2013 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: a0c7b1031c25aa1c64ea6ba3c0176ec83e4071b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926469"
-name: Project 2013
+name: Program Project 2013
 summary: >+
-  Program Project 2013 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Project 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
   Dotyczy to następujących edycji: Professional, Standard

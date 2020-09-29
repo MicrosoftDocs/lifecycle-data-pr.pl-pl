@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Microsoft Internet Security and Acceleration Server 2004
-  description: Program Microsoft Internet Security and Acceleration Server 2004 jest zgodny z ustalonymi zasadami cyklu życia.
+  title: Microsoft Internet Security and Acceleration Server 2004
+  description: Program Microsoft Internet Security and Acceleration Server 2004 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933499"
-name: Program Microsoft Internet Security and Acceleration Server 2004
-summary: "Program Microsoft Internet Security and Acceleration Server 2004 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.\n\nDotyczy to następujących edycji: Enterprise, Standard\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
+name: Microsoft Internet Security and Acceleration Server 2004
+summary: "Program Microsoft Internet Security and Acceleration Server 2004 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących edycji: Enterprise, Standard\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
 products:
 - microsoft-servers
 policyType: fixed
