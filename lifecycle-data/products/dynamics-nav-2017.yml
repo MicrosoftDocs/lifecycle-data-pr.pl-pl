@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics NAV 2017
-  description: Dynamics NAV 2017 jest zgodna z zasadami stałego cyklu życia.
+  description: Program Dynamics NAV 2017 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b936cca350da64d99a63eb15f0571e477cdb3ea
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860120"
 name: Dynamics NAV 2017
 summary: >+
-  Dynamics NAV 2017 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Dynamics NAV 2017 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:

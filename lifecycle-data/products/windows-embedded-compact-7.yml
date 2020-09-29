@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Kompaktowy system Windows Embedded 7
+  title: Windows Embedded Compact 7
   description: System Windows Embedded Compact 7 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6a72f68217243c9b2160dca4aa9136ae5d21f16b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860186"
-name: Kompaktowy system Windows Embedded 7
+name: Windows Embedded Compact 7
 summary: >+
   System Windows Embedded Compact 7 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 

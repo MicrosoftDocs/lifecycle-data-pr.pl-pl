@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Studio zarządzania programem SQL Server
-  description: Sql Server Management Studio jest zgodna z zasadami nowoczesnego cyklu życia.
+  title: SQL Server Management Studio
+  description: Program SQL Server Management Studio jest zgodny z zasadami nowoczesnego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: f75480af28215773c8d23bc06a30408940015a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860202"
-name: Studio zarządzania programem SQL Server
+name: SQL Server Management Studio
 summary: >+
-  Sql Server Management Studio jest zgodna z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  Program SQL Server Management Studio jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:

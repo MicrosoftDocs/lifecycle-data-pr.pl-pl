@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860208"
 name: Microsoft Teams
 summary: >+
-  Usługa Microsoft Teams jest zgodna z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  Usługa Microsoft Teams jest zgodna z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:

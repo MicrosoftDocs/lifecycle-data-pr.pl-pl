@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Pakiet HPC 2016
+  title: HPC Pack 2016
   description: Pakiet HPC Pack 2016 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 45a14db596d5a620bd4dc9ef761aa811de45e59b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859946"
-name: Pakiet HPC 2016
+name: HPC Pack 2016
 summary: >+
   Pakiet HPC Pack 2016 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 

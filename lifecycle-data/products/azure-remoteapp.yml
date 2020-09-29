@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: c03f6f9d17b84e2f2e947f465e828af941f968e9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859769"
 name: Azure RemoteApp
 summary: >+
-  Usługa Azure RemoteApp jest zgodna z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  Usługa Azure RemoteApp jest zgodna z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:

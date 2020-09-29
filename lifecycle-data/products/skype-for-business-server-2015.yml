@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serwer Skype dla firm 2015
-  description: Program Skype dla firm Server 2015 jest zgodny z zasadami stałego cyklu życia.
+  title: Skype for Business Server 2015
+  description: Program Skype dla firm 2015 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b1c68ef26edf881dfbdf73321010694f372dc10
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860166"
-name: Serwer Skype dla firm 2015
+name: Skype for Business Server 2015
 summary: >+
-  Program Skype dla firm Server 2015 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program Skype dla firm 2015 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:

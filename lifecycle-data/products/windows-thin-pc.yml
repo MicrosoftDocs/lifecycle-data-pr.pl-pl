@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Cienki komputer z systemem Windows
-  description: Komputer cienki w systemie Windows jest zgodny z zasadami stałego cyklu życia.
+  title: Windows Thin PC
+  description: System Windows Thin PC jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 69f6537ffd5ab3d93b955bcaf9801eb52d241415
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860015"
-name: Cienki komputer z systemem Windows
+name: Windows Thin PC
 summary: >+
-  Komputer cienki w systemie Windows jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  System Windows Thin PC jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
