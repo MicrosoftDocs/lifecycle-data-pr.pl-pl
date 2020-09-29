@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Usługi w chmurze platformy Azure
-  description: Usługi w chmurze platformy Azure są zgodne z zasadami nowoczesnego cyklu życia.
+  title: Azure Cloud Services
+  description: Platforma Azure Cloud Services jest zgodna z zasadami nowoczesnego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832445"
-name: Usługi w chmurze platformy Azure
+name: Azure Cloud Services
 summary: >+
-  Usługi w chmurze platformy Azure są zgodne z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  Platforma Azure Cloud Services jest zgodna z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/27/2008
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o zasadach obsługi systemu gościa platformy Azure i przejścia na emeryturę](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Obsługa systemu operacyjnego Azure Guest i zasady jego wycofania](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

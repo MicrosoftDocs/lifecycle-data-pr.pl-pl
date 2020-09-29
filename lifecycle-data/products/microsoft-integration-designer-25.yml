@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Projektant integracji firmy Microsoft 2.5
+  title: Microsoft Integration Designer 2.5
   description: Program Microsoft Integration Designer 2.5 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: a68b7d5749ce3c0bb47c949a59c52aff5a844dff
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831834"
-name: Projektant integracji firmy Microsoft 2.5
+name: Microsoft Integration Designer 2.5
 summary: >+
   Program Microsoft Integration Designer 2.5 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 

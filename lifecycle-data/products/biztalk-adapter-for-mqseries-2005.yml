@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Adapter BizTalk do MQSeries 2005
-  description: Karta BizTalk dla MQSeries 2005 jest zgodna z zasadami stałego cyklu życia.
+  description: Adapter BizTalk do MQSeries 2005 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: b38f030ecd18a0709313dc96f4237852115cc896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832444"
 name: Adapter BizTalk do MQSeries 2005
 summary: >+
-  Karta BizTalk dla MQSeries 2005 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Adapter BizTalk do MQSeries 2005 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
