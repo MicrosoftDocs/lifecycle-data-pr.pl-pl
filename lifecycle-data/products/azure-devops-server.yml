@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serwer Azure DevOps
-  description: Usługa Azure DevOps Server jest zgodna ze stałymi zasadami cyklu życia.
+  title: Azure DevOps Server
+  description: Program Azure DevOps Server jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/27/2020
   ms.openlocfilehash: 8b92f5abaadb0973aa3b220683011ec4a9b03fb2
   ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/27/2020
   ms.locfileid: "922986"
-name: Serwer Azure DevOps
+name: Azure DevOps Server
 summary: >+
-  Usługa Azure DevOps Server jest zgodna ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Azure DevOps Server jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:

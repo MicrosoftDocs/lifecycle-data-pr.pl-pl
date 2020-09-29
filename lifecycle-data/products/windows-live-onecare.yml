@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Live OneCare
-  description: Usługa Windows Live OneCare jest zgodna z nowoczesnymi zasadami cyklu życia.
+  description: Program Windows Live OneCare jest zgodny z zasadami nowoczesnego cyklu życia.
   ms.date: 08/19/2020
   ms.openlocfilehash: f37abdbbca933797a22116b3c1aaf794ac0cd1a2
   ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "902854"
 name: Windows Live OneCare
 summary: >+
-  Usługa Windows Live OneCare jest zgodna z [nowoczesnymi](/lifecycle/policies/modern) zasadami cyklu życia.
+  Program Windows Live OneCare jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:

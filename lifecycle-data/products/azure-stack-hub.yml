@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure Stack Hub
-  description: Usługa Azure Stack Hub jest zgodna z zasadami nowoczesnego cyklu życia.
+  description: Program Azure Stack Hub jest zgodny z zasadami nowoczesnego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: d538d37b723536a3602535e952e1a9f3398e6ae4
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871272"
 name: Azure Stack Hub
 summary: >+
-  Usługa Azure Stack Hub jest zgodna z [zasadami nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+  Program Azure Stack Hub jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/31/2017
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe i terminy](/azure/azure-stack/azure-stack-servicing-policy)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje i zakresy czasowe dotyczące obsługi produktu](/azure/azure-stack/azure-stack-servicing-policy)."

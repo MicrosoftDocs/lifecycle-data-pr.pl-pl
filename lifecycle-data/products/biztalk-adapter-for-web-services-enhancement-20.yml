@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Karta BizTalk dla rozszerzeń usług sieci Web 2,0
-  description: Karta BizTalk dla usług sieci Web 2,0 jest zgodna ze stałymi zasadami cyklu życia.
+  title: BizTalk Adapter for Web Services Enhancement 2.0
+  description: Program BizTalk Adapter for Web Services Enhancement 2.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/19/2020
   ms.openlocfilehash: 4b442c30ed4d826959b43220b1b964c1c7d3419a
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904370"
-name: Karta BizTalk dla rozszerzeń usług sieci Web 2,0
+name: BizTalk Adapter for Web Services Enhancement 2.0
 summary: >+
-  Karta BizTalk dla usług sieci Web 2,0 jest zgodna ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program BizTalk Adapter for Web Services Enhancement 2.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:

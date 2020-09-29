@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Client Security
-  description: Program Microsoft Forefront Client Security jest zgodny ze stałymi zasadami cyklu życia.
+  description: Program Microsoft Forefront Client Security jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/28/2020
   ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924266"
 name: Microsoft Forefront Client Security
 summary: >+
-  Program Microsoft Forefront Client Security jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Microsoft Forefront Client Security jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Linki \n* [Program System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Program Forefront Client Security został wycofany z 14 lipca 2015 r. Aktualizacje definicji przed złośliwym oprogramowaniem i programem Antyszpiegowskim nie będą już dostępne po zakończeniu obsługi wersji produktu. Wypróbuj program System Center Endpoint Protection jako zamiennik."
+content: "\n## <a name=\"links\"></a>Linki \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Program Forefront Client Security został wycofany 14 lipca 2015 r. Aktualizacje definicji ochrony przed złośliwym oprogramowaniem i szpiegowskim nie będą już dostępne po zakończeniu obsługi danej wersji tego produktu. Należy rozważyć program System Center Endpoint Protection jako jego zamiennik."

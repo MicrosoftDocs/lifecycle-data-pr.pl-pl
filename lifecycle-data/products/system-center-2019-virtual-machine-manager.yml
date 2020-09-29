@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Menedżer maszyn wirtualnych w usłudze System Center 2019
-  description: Menedżer maszyn wirtualnych programu System Center 2019 jest zgodny z zasadami stałego cyklu życia.
+  title: System Center 2019 Virtual Machine Manager
+  description: Program System Center 2019 Virtual Machine Manager jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
   ms.openlocfilehash: 875ab9d5c18f9945a0b32539e1ae75401ebbd978
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871366"
-name: Menedżer maszyn wirtualnych w usłudze System Center 2019
+name: System Center 2019 Virtual Machine Manager
 summary: >+
-  Menedżer maszyn wirtualnych programu System Center 2019 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+  Program System Center 2019 Virtual Machine Manager jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
