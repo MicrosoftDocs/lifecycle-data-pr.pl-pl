@@ -1,20 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Zaawansowana analiza zagrożeń 1. X
-  description: Zaawansowana analiza zagrożeń 1. X jest zgodna ze stałymi zasadami cyklu życia.
+  title: Advanced Threat Analytics 1.X
+  description: Narzędzie Advanced Threat Analytics 1.X jest zgodne z zasadami stałego cyklu życia.
   ms.date: 09/10/2020
   keywords: 
   ms.openlocfilehash: 63d72a1510958edf2f7800c4a102fb587cbb8750
   ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1002757"
-name: Zaawansowana analiza zagrożeń 1. X
-summary: >+
-  Zaawansowana analiza zagrożeń 1. X jest zgodna ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
-
-
+name: Advanced Threat Analytics 1.X
+summary: "Narzędzie Advanced Threat Analytics 1.X jest zgodne z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia. \n\n\n"
 products:
 - m365
 policyType: fixed
@@ -26,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2015
   endDate: 01/13/2026
-content: "\n## <a name=\"links\"></a>Linki \n* [Zaawansowane wskazówki dotyczące obsługi analizy zagrożeń](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Aktualizacje są skumulowane, a każda aktualizacja jest budowana na wszystkich tych, które zostały przez nią poprzedzone. Urządzenie musi zainstalować najnowszą aktualizację, aby pozostały obsługiwane."
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące obsługi narzędzia Advanced Threat Analytics](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Aktualizacje są zbiorcze, każda z nich jest tworzona na podstawie wszystkich aktualizacji, które ją poprzedzały. Urządzenie musi mieć zainstalowaną najnowszą aktualizację, aby zachować możliwość uzyskania pomocy technicznej."

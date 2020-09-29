@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Program Workflow Manager 1.0
+  description: Usługa Menedżer przepływów pracy 1.0 jest zgodna z zasadami stałego cyklu życia.
+  ms.date: 09/10/2020
+  keywords: 
+  ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
+  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002758"
+name: Program Workflow Manager 1.0
+summary: >+
+  Usługa Menedżer przepływów pracy 1.0 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących wersji: Client, Standard
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/18/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje dotyczące obsługi programu SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Informacje dotyczące obsługi programu SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Gdy usługa Menedżer przepływów pracy jest składnikiem programu SharePoint Server 2016 lub SharePoint Server 2013, będzie ona obsługiwana zgodnie z datami zakończenia wsparcia w danej wersji programu SharePoint Server.\n\n## <a name=\"editions\"></a>Edycje \n* Klient\n* Standard"

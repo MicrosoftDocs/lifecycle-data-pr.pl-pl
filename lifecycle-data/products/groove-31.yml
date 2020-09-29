@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Program Groove 3,1
-  description: Program Groove 3,1 jest zgodny z ustalonymi zasadami cyklu życia.
+  title: Groove 3.1
+  description: Program Groove 3.1 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
   ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
   ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "950859"
-name: Program Groove 3,1
+name: Groove 3.1
 summary: >+
-  Program Groove 3,1 jest zgodny z [ustalonymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Groove 3.1 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących wersji: usługa tworzenia kopii zapasowych w przedsiębiorstwie, mostek danych przedsiębiorstwa, Enterprise Relay Server, hostowane usługi zarządzania, hostowane usługi przekazywania, program Office Project, udostępnianie plików wirtualnych pakietu Office, wirtualny pakiet Office Professional, zestaw projektantów usług sieci Web
+  Dotyczy to następujących edycji: Enterprise Backup Service, Enterprise Data Bridge, Enterprise Relay Server, Hosted Management Services, Hosted Relay Services, Office Project, Virtual Office File Sharing, Virtual Office Professional, Web Services Development Kit
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2004
   endDate: 04/16/2010
-content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Usługa tworzenia kopii zapasowych w przedsiębiorstwie\n* Mostek danych przedsiębiorstwa\n* Serwer Enterprise Relay\n* Hostowane usługi zarządzania\n* Hostowane usługi przekazywania\n* Program Office Project\n* Udostępnianie plików w wirtualnym pakiecie Office\n* Wirtualny pakiet Office Professional\n* Zestaw projektantów usług sieci Web"
+content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise Backup Service\n* Enterprise Data Bridge\n* Enterprise Relay Server\n* Hosted Management Services\n* Hosted Relay Services\n* Office Project\n* Virtual Office File Sharing\n* Virtual Office Professional\n* Web Services Development Kit"
