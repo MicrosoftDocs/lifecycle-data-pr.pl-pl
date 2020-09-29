@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2016
-  description: Program Visio 2016 jest zgodny ze stałymi zasadami cyklu życia.
+  description: Program Visio 2016 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: ad39988786cefb44a3e6ff8aa66363673d590a7e
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pl-PL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937791"
 name: Visio 2016
 summary: >+
-  Program Visio 2016 jest zgodny ze [stałymi](/lifecycle/policies/fixed) zasadami cyklu życia.
+  Program Visio 2016 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
   Dotyczy to następujących edycji: Professional, Standard
