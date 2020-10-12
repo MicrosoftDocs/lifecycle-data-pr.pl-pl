@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: BizTalk Server 2009
+  description: Program BizTalk Server 2009 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 09/23/2020
+  keywords: 
+  ms.openlocfilehash: 86a9c06d67bfc00f383e9726ddbda1e56470365a
+  ms.sourcegitcommit: 57ac90606bc363bb65db21fb2e722cb506542608
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 09/23/2020
+  ms.locfileid: "1028439"
+name: BizTalk Server 2009
+summary: >
+  Program BizTalk Server 2009 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących edycji: Branch, Developer, Enterprise, Enterprise RFID, Standard
+
+
+  > [!IMPORTANT]
+
+  > Wsparcie dla tego produktu dobiegło końca. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej.
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/21/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Wersja](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Branch\n* Developer\n* Enterprise\n* Enterprise RFID\n* Standard"
