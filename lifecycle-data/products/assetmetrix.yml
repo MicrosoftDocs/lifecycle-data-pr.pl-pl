@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: AssetMetrix
+  description: Program AssetMetrix jest zgodny z zasadami nowoczesnego cyklu życia.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: db5a90d3b938f0b8b7a8311d5b0092e445818ae8
+  ms.sourcegitcommit: 36daddf71b03a8e6938fa973778bf6c67b1bd663
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 10/14/2020
+  ms.locfileid: "1154198"
+name: AssetMetrix
+summary: >+
+  Program AssetMetrix jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+
+
+products:
+- msc
+policyType: modern-online
+supportDates:
+  start: 12/01/2007
+  end: 07/08/2008
+releases:
+- version: Original Release
+  startDate: 12/01/2007
+  endDate: 07/08/2008
+content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące cyklu życia — Ogólne](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Pomoc techniczna dotycząca tego produktu podlega warunkom jego nabycia."
