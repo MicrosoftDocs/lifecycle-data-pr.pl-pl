@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Secured Dimensions SecureLM
+  description: Program Secured Dimensions SecureLM jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 10/20/2020
+  keywords: 
+  ms.openlocfilehash: fe3181990300a2a8981f3923880bcc299c47cf93
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162886"
+name: Secured Dimensions SecureLM
+summary: >+
+  Program Secured Dimensions SecureLM jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  Dotyczy to następujących edycji: .NET, Code Protector, Server
+
+products:
+- dotnet
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/30/2007
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 03/30/2007
+  endDate: 01/10/2012
+content: "\n\n> [!NOTE]\n> Pomoc techniczna dotycząca tego produktu podlega warunkom jego nabycia.\n\n## <a name=\"editions\"></a>Edycje \n* .NET\n* Code Protector\n* Serwer"

@@ -2,13 +2,14 @@
 metadata:
   title: SharePoint Foundation 2010
   description: Program SharePoint Foundation 2010 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4e1bc498432d215ea8f84140c068054cf6c9c5cc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: ''
+  ms.openlocfilehash: 280f3157ee4cf5b5e9d0a3b2f3a597c3b4c6afbc
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "831541"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162751"
 name: SharePoint Foundation 2010
 summary: >+
   Program SharePoint Foundation 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Rozszerzenie pomocy technicznej](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> Termin końca wsparcia technicznego tego produktu został przełożony z 13 października 2020 roku na 13 kwietnia 2021 roku."
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Rozszerzenie pomocy technicznej](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Dokumentacja dewelopera programu Microsoft SharePoint Foundation 2010](/previous-versions/office/ee535067(v=office.14))\n* [Dokumentacja produktu Microsoft SharePoint Foundation 2010](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))\n\n> [!NOTE]\n> Termin końca wsparcia technicznego tego produktu został przełożony z 13 października 2020 roku na 13 kwietnia 2021 roku."
