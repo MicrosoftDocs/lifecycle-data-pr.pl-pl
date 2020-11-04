@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Cloud dla służby zdrowia
+  description: Usługa Microsoft Cloud dla służby zdrowia jest zgodna z zasadami nowoczesnego cyklu życia.
+  ms.date: 10/28/2020
+  keywords: 
+  ms.openlocfilehash: 6c983fc065824794748a01a129446703df3ec1d5
+  ms.sourcegitcommit: 2056a8a3f9a36793142bc03850e39d5751d9dad3
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 10/29/2020
+  ms.locfileid: "1193490"
+name: Microsoft Cloud dla służby zdrowia
+summary: >+
+  Usługa Microsoft Cloud dla służby zdrowia jest zgodna z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 10/28/2020
+releases:
+- version: Original Release
+  startDate: 10/28/2020
+content: "\n## <a name=\"links\"></a>Linki \n* [Dowiedz się więcej o usłudze Microsoft Cloud dla służby zdrowia](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)\n* [Wprowadzenie do usługi Microsoft Cloud dla służby zdrowia](/dynamics365/industry/healthcare/overview)"
