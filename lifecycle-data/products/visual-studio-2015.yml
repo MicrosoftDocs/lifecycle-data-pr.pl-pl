@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Agenty\n* Community\n* Enterprise\n* ESM\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* Modeling SDK\n* Professional\n* PSM\n* Release Management\n* Remote Tools\n* SDK\n* Shell (zintegrowany)\n* Shell (izolowany)\n* Test Professional\n* TPS\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Agents\n* Community\n* Enterprise\n* ESM\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* Modeling SDK\n* Professional\n* PSM\n* Release Management\n* Remote Tools\n* SDK\n* Shell (zintegrowany)\n* Shell (izolowany)\n* Test Professional\n* TPS\n* Visual C++ Redistributable"

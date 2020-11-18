@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Linki \n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Podstawowe wsparcie pakietu Microsoft Office 2011 dla komputerów Mac zostało rozszerzone, aby zapewnić klientom przejście na standardowy czas trwania cyklu życia.\n\n## <a name=\"editions\"></a>Edycje \n* Szkolny\n* Home and Business\n* Program użytkowania domu i biurze domowym\n* Home and Student\n* Standard"
+content: "\n## <a name=\"links\"></a>Linki \n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Podstawowe wsparcie pakietu Microsoft Office 2011 dla komputerów Mac zostało rozszerzone, aby zapewnić klientom przejście na standardowy czas trwania cyklu życia.\n\n## <a name=\"editions\"></a>Edycje \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Standard"
