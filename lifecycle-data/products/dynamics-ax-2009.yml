@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics AX 2009
   description: Program Dynamics AX 2009 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 20756fcbadc2386830d4eecb9129443bef1a2bc2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 12/17/2020
+  keywords: 
+  ms.openlocfilehash: 45d386654df8e87dc58f4445cecb94e3e5de2353
+  ms.sourcegitcommit: 4e42a9063f11353b16a25fce40ad96cc6146dd96
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "831614"
+  ms.lasthandoff: 12/18/2020
+  ms.locfileid: "1348187"
 name: Dynamics AX 2009
 summary: >+
   Program Dynamics AX 2009 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
@@ -20,12 +21,12 @@ policyType: fixed
 supportDates:
   start: 08/14/2008
   end: 10/09/2018
-  extendedEnd: 10/12/2021
+  extendedEnd: 04/12/2022
 releases:
 - version: Service Pack 1
   startDate: 11/03/2008
-  endDate: 10/12/2021
+  endDate: 04/12/2022
 - version: Original Release
   startDate: 08/14/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Program migracji Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Dodatkowe informacje na temat cyklu życia](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Wsparcie podstawowe zostało rozszerzone zgodnie z przedstawionymi informacjami."
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Program migracji Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Dodatkowe informacje na temat cyklu życia](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Termin zakończenia wsparcia dla programu Dynamics AX 2009 (z dodatkiem Service Pack 1) został przedłużony z 12 października 2021 r. do 12 kwietnia 2022 r."
