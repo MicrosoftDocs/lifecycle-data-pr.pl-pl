@@ -2,13 +2,14 @@
 metadata:
   title: Aplikacje usługi Dynamics 365 for Customer Engagement, wersja 9.0.2 z aktualizacją środowiska lokalnego
   description: Aplikacje usługi Dynamics 365 for Customer Engagement, wersja 9.0.2 z aktualizacją środowiska lokalnego są zgodne ze zasadami stałego cyklu życia
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 11e70e4e8ef3fb18ab06a385fbe4d9a434121ac6
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 01/21/2021
+  keywords: 
+  ms.openlocfilehash: e89ed4224700026d03dba122ac44ace44f5f4441
+  ms.sourcegitcommit: 5707a8309a8cbe7f55300f1ef24481ab34c1f3e8
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "871254"
+  ms.lasthandoff: 01/21/2021
+  ms.locfileid: "1416404"
 name: Aplikacje usługi Dynamics 365 for Customer Engagement, wersja 9.0.2 z aktualizacją środowiska lokalnego
 summary: >+
   Aplikacje usługi Dynamics 365 for Customer Engagement, wersja 9.0.2 z aktualizacją środowiska lokalnego są zgodne ze zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
@@ -25,4 +26,4 @@ releases:
 - version: Original Release (ver 9.0)
   startDate: 10/31/2018
   endDate: 01/13/2026
-content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o pomocy technicznej](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)"
+content: "\n## <a name=\"links\"></a>Linki \n* [Informacje o pomocy technicznej](https://support.microsoft.com/topic/microsoft-dynamics-365-on-premises-cumulative-updates-ed51f905-cf4e-3641-dc7c-afe2b868eeb9)"
