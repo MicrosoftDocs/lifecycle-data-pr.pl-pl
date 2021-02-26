@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 Enterprise and Education
   description: System Windows 10 Enterprise and Education jest zgodny z zasadami nowoczesnego cyklu życia.
-  ms.date: 10/09/2020
+  ms.date: 02/12/2021
   keywords: 
-  ms.openlocfilehash: aafaec4e3b02f433224ea51446b8c18f4bd0c031
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 84edf77fb54cb13cb21b8a8ef6643267a3872af2
+  ms.sourcegitcommit: b85a6ac35e0af0e17a9ae767927273508a4f31f6
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162529"
+  ms.lasthandoff: 02/14/2021
+  ms.locfileid: "1449230"
 name: Windows 10 Enterprise and Education
 summary: >
   System Windows 10 Enterprise and Education jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
@@ -21,6 +21,8 @@ summary: >
   > [!IMPORTANT]
 
   > Do 14 października 2025 r. firma Microsoft będzie nadal obsługiwać co najmniej jeden półroczny kanał systemu Windows 10.
+
+  Poniższa tabela odzwierciedla wersje wydane do tej pory.
 products:
 - windows
 policyType: modern-on-prem
@@ -61,4 +63,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Linki \n* [Windows jako usługa (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informacje o produkcie](/windows/windows-10/)\n* [Często zadawane pytania dotyczące zasad cyklu życia — Produkty z systemem Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Kolejne aktualizacje funkcji w ramach półrocznego kanału obsługi systemu Windows 10 można instalować przed wskazanym dniem zakończenia wsparcia podstawowego, jeśli ich nie odroczono.\n\n## <a name=\"editions\"></a>Edycje \n* Education\n* Enterprise"
+content: "\n## <a name=\"links\"></a>Linki \n* [Windows jako usługa (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home i Pro](/lifecycle/products/windows-10-home-and-pro)\n* [Informacje o produkcie](/windows/windows-10/)\n* [Często zadawane pytania dotyczące zasad cyklu życia — Produkty z systemem Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Kolejne aktualizacje funkcji w ramach półrocznego kanału obsługi systemu Windows 10 można instalować przed wskazanym dniem zakończenia wsparcia podstawowego, jeśli ich nie odroczono.\n\n## <a name=\"editions\"></a>Edycje \n* Education\n* Enterprise"
