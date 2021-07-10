@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Aplikacje Microsoft 365
+  description: Aplikacje Microsoft 365 są zgodne z zasadami nowoczesnego cyklu życia.
+  ms.date: 04/07/2021
+  keywords: Office 365 Business,Office 365 ProPlus,for business,for enterprise
+  ms.openlocfilehash: 2b9518ad9cd88732e614b70b4feb24fec6ceaff3
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2030216"
+name: Aplikacje Microsoft 365
+summary: >+
+  Aplikacje Microsoft 365 są zgodne z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+
+
+  Dotyczy to następujących edycji: dla firm, dla przedsiębiorstw
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>Linki \n* [Obsługiwane wersje](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)\n* [Wymagania systemowe](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Macierz obsługi konfiguracji pakietu Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Przewodnik wdrażania aplikacji Microsoft 365](/DeployOffice/deployment-guide-microsoft-365-apps)\n\n> [!NOTE]\n> Aplikacje Microsoft 365 dla przedsiębiorstw (poprzednio określane mianem usługi Office 365 ProPlus) Aplikacje Microsoft 365 dla przedsiębiorstw (poprzednio określane mianem usługi Office 365 Business)\n\n## <a name=\"editions\"></a>Edycje \n* dla firm\n* dla przedsiębiorstw"
