@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server
   description: System Windows Server jest zgodny z zasadami nowoczesnego cyklu życia.
-  ms.date: 10/19/2020
+  ms.date: 07/12/2021
   keywords: 
-  ms.openlocfilehash: cc8dd57a0773e9b67fd312e52d7f25bbb96ce10e
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 79c81dbee5c7ce3220e5cba21c2f116a65eaf0bf
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162344"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255180"
 name: Windows Server
 summary: >+
   System Windows Server jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
+
   Dotyczy to następujących edycji: Datacenter, Standard
+
+
 
 products:
 - windows
@@ -23,6 +26,9 @@ policyType: modern-on-prem
 supportDates:
   start: 10/17/2017
 releases:
+- version: Version 21H1
+  startDate: 05/18/2021
+  endDate: 12/13/2022
 - version: Version 20H2
   startDate: 10/20/2020
   endDate: 05/10/2022
@@ -44,4 +50,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Linki \n* [Kanały obsługi systemu Windows Server: LTSC i SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Często zadawane pytania dotyczące zasad cyklu życia — Produkty z systemem Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> System Windows Server, wersja 1809 został ponownie wydany 13 listopada 2018 r. Terminy końca wsparcia technicznego zostały odpowiednio zmienione.\n\n## <a name=\"editions\"></a>Edycje \n* Datacenter\n* Standard"
+content: "\n\n## <a name=\"links\"></a>Linki \n* [Cykle obsługi obrazów bazowych kontenera systemu Windows](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n* [Kanały obsługi systemu Windows Server: LTSC i SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Często zadawane pytania dotyczące zasad cyklu życia — Produkty z systemem Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n\n> [!NOTE]\n> Kontenery wydane z wersjami systemu Windows Server wymienionymi powyżej mają te same daty dla cyklu ich życia. Przejdź do strony obsługi obrazu podstawowego pod adresem [Cykle obsługi obrazów bazowych kontenera systemu Windows](https://docs.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle), aby poznać więcej szczegółów.\n> [!NOTE]\n> System Windows Server, wersja 1809 został ponownie wydany 13 listopada 2018 r. Terminy końca wsparcia technicznego zostały odpowiednio zmienione.\n\n\n## <a name=\"editions\"></a>Edycje \n* Datacenter\n* Standard"
