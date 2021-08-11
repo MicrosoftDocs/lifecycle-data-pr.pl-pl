@@ -4,18 +4,18 @@ metadata:
   description: Program Microsoft Visual Studio 2005 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Professional,Standard,Standard Edition academic license,Team Edition for Database Professionals,Team Edition for Software Architects,Team Edition for Software Developers,Team Edition for Software Testers,Team Suite,Team Test Load Agent,Tools for the Microsoft Office System,VB Express,Visual C# Express,Visual C++ Express,Visual J# Express,Visual Web Developer Express
-  ms.openlocfilehash: 40a88454af5c829ab424be8f9ea26f8866af6013
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 2b5560fa619516cdf2603d970e8eeb7e86b38ca9c6663d2092ad6ad04256a4fb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937606"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497894"
 name: Microsoft Visual Studio 2005
 summary: >+
   Program Microsoft Visual Studio 2005 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-  Dotyczy to następujących edycji: Professional, Standard, Licencja akademicka Standard Edition, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Narzędzia dla pakietu Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+  Dotyczy to następujących edycji: Professional, Standard, Standard Edition academic license, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Narzędzia dla pakietu Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
