@@ -3,12 +3,12 @@ metadata:
   title: StorSimple seria 5000/7000
   description: Usługa StorSimple 5000/7000 Series jest zgodna z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9f41ce486a68b9b0e08999801f781e9f1b37330a
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: dc5e08aff9ae928dd92a4d54067135bb727c9b803c7eb3217246bbc28d414d32
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860262"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2506848"
 name: StorSimple seria 5000/7000
 summary: "Usługa StorSimple 5000/7000 Series jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej. \n"
 products:
