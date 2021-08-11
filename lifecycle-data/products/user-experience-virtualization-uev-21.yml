@@ -3,12 +3,12 @@ metadata:
   title: User Experience Virtualization (UE-V) 2.1
   description: Program User Experience Virtualization (UE-V) 2.1 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 728fb01eddd4b9436e2b907665d75a7cf1256887
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 24f7bc5cd2d2aa2076902cc0040d5e8bc2ceff8b83beaf12c5496ece9bf41611
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "859868"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2489347"
 name: User Experience Virtualization (UE-V) 2.1
 summary: >+
   Program User Experience Virtualization (UE-V) 2.1 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
