@@ -3,12 +3,12 @@ metadata:
   title: Hyper-V Server 2008
   description: Program Hyper-V Server 2008 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
-  ms.openlocfilehash: bd8d2e95bcfd7b35689eea4aab205a9e22550440
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 7d5d219298185839cc75406dd34622cf303a93a66019362d41136174988783d6
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832268"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498819"
 name: Hyper-V Server 2008
 summary: "Program Hyper-V Server 2008 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. Zapoznaj się ze wskazówkami dotyczącymi migracji poniżej. \n"
 products:
