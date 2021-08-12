@@ -3,22 +3,25 @@ metadata:
   title: Program Microsoft Word 2011 dla komputerów Mac
   description: Program Microsoft Word 2011 dla komputerów Mac jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a33ce7f2ee56098ccc8b316733d42042b842a84d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860034"
 name: Program Microsoft Word 2011 dla komputerów Mac
-summary: "Program Microsoft Word 2011 dla komputerów Mac jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
+summary: |
+  Program Microsoft Word 2011 dla komputerów Mac jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+  > [!IMPORTANT]
+  > Wsparcie dla tego produktu dobiegło końca. 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/09/2010
   end: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 12/09/2010
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Podstawowe wsparcie pakietu Microsoft Office 2011 dla komputerów Mac zostało rozszerzone, aby zapewnić klientom przejście na standardowy czas trwania cyklu życia."
+  - version: Original Release
+    startDate: 12/09/2010
+    endDate: 10/10/2017
+content: |+
+
+
+  > [!NOTE]
+  > Podstawowe wsparcie pakietu Microsoft Office 2011 dla komputerów Mac zostało rozszerzone, aby zapewnić klientom przejście na standardowy czas trwania cyklu życia.

@@ -3,35 +3,43 @@ metadata:
   title: Microsoft SharePoint Server 2010
   description: Program Microsoft SharePoint Server 2010 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
-  keywords: Access Services,All applicable,Excel Services,Performance Point Services
-  ms.openlocfilehash: 02a1a5085dbd39b7379b0e71f69300095cfa54da
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941570"
+  keywords: 'Access Services,All applicable,Excel Services,Performance Point Services'
 name: Microsoft SharePoint Server 2010
-summary: >+
+summary: |+
   Program Microsoft SharePoint Server 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
   Dotyczy to następujących edycji: Usługi programu Access, wszystkie stosowne, Usługi programu Excel, Usługi programu Performance Point
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/28/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Linki \n* [Rozszerzenie pomocy technicznej](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Wskazówki dotyczące migracji](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Dokumentacja deweloperska programu Microsoft SharePoint Server 2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentacja produktu Microsoft SharePoint Server 2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))\n\n> [!NOTE]\n> Termin końca wsparcia technicznego tego produktu został przełożony z 13 października 2020 roku na 13 kwietnia 2021 roku.\n\n## <a name=\"editions\"></a>Edycje \n* Usługi programu Access\n* Wszystkie stosowne\n* Usługi programu Excel\n* Usługi programu Performance Point"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/28/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>Linki 
+  * [Rozszerzenie pomocy technicznej](https://aka.ms/SharePoint/server/2010/supportextension)
+  * [Wskazówki dotyczące migracji](/office365/enterprise/upgrade-from-sharepoint-2010)
+  * [Dokumentacja deweloperska programu Microsoft SharePoint Server 2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))
+  * [Dokumentacja produktu Microsoft SharePoint Server 2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))
+
+  > [!NOTE]
+  > Termin końca wsparcia technicznego tego produktu został przełożony z 13 października 2020 roku na 13 kwietnia 2021 roku.
+
+  ## <a name="editions"></a>Edycje 
+  * Usługi programu Access
+  * Wszystkie stosowne
+  * Usługi programu Excel
+  * Usługi programu Performance Point
