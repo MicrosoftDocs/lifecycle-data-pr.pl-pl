@@ -3,12 +3,12 @@ metadata:
   title: Narzędzie EMET (Enhanced Mitigation Experience Toolkit)
   description: Zestaw narzędzi rozszerzonego środowiska ograniczającego ryzyko (EMET) jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/20/2020
-  ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
-  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
+  ms.openlocfilehash: b9a07fcc58b48802de5d8492d7ff7d827c83631d3de618b24b5bdbfef415cfb8
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905319"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495230"
 name: Narzędzie EMET (Enhanced Mitigation Experience Toolkit)
 summary: >+
   Zestaw narzędzi rozszerzonego środowiska ograniczającego ryzyko (EMET) jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.

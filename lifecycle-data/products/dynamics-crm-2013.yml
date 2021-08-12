@@ -3,12 +3,12 @@ metadata:
   title: Dynamics CRM 2013
   description: Program Dynamics CRM 2013 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
-  ms.openlocfilehash: b99e79e86ea72c260c063f842ff64af888f4024c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 2f4dae3a38f5d0f4d731479112c0342d8b6fa768f99c33b835ace263f56924be
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860143"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2503000"
 name: Dynamics CRM 2013
 summary: >+
   Program Dynamics CRM 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
