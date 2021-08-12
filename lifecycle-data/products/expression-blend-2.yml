@@ -4,12 +4,12 @@ metadata:
   description: Program Expression 2 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio,Web
-  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 46ea4c5fa473e68e88ebe30805d3ac5abfc95c5fa1b28b6c037a90dba11f24fd
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930835"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2510289"
 name: Expression 2
 summary: "Program Expression 2 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących edycji: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
 products:
