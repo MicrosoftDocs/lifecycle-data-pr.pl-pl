@@ -3,29 +3,28 @@ metadata:
   title: Program Project 2016
   description: Program Project 2016 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
-  keywords: Professional,Standard
-  ms.openlocfilehash: 5d4110f5d6f16efd84205e08dc375cdd839c3220
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "926543"
+  keywords: 'Professional,Standard'
 name: Program Project 2016
-summary: >+
+summary: |+
   Program Project 2016 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
   Dotyczy to następujących edycji: Professional, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 09/22/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 09/22/2015
-  endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Professional\n* Standard"
+  - version: Original Release
+    startDate: 09/22/2015
+    endDate: 10/14/2025
+content: |
+
+
+
+  ## <a name="editions"></a>Edycje 
+  * Professional
+  * Standard

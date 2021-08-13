@@ -3,24 +3,34 @@ metadata:
   title: Expression
   description: Program Expression jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
-  keywords: Blend,Design,Encoder,Studio
-  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936237"
+  keywords: 'Blend,Design,Encoder,Studio'
 name: Expression
-summary: "Program Expression jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących edycji: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
+summary: |
+  Program Expression jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+  Dotyczy to następujących edycji: Blend, Design, Encoder, Studio
+
+  > [!IMPORTANT]
+  > Wsparcie dla tego produktu dobiegło końca. 
 products:
-- expression
+  - expression
 policyType: fixed
 supportDates:
   start: 07/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 07/27/2007
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Data początkowa programu Expression Blend to 13 lipca 2007 r. \n\n## <a name=\"editions\"></a>Edycje \n* Blend\n* Design\n* Encoder\n* Studio"
+  - version: Original Release
+    startDate: 07/27/2007
+    endDate: 10/10/2017
+content: |
+
+
+  > [!NOTE]
+  > Data początkowa programu Expression Blend to 13 lipca 2007 r. 
+
+  ## <a name="editions"></a>Edycje 
+  * Blend
+  * Design
+  * Encoder
+  * Studio

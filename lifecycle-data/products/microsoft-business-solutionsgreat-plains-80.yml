@@ -4,31 +4,27 @@ metadata:
   description: Program Microsoft Business Solutions--Great Plains 8.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934683"
 name: Microsoft Business Solutions--Great Plains 8.0
-summary: >
+summary: |
   Program Microsoft Business Solutions--Great Plains 8.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
   Dotyczy to następujących edycji: Standard
 
-
   > [!IMPORTANT]
-
   > Wsparcie dla tego produktu dobiegło końca 13 października 2009 r.
 products:
-- dynamics
+  - dynamics
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/01/2004
   end: 10/13/2009
 releases:
-- version: Original Release
-  startDate: 06/01/2004
-  endDate: 10/13/2009
-content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Standard"
+  - version: Original Release
+    startDate: 06/01/2004
+    endDate: 10/13/2009
+content: |
+
+
+
+  ## <a name="editions"></a>Edycje 
+  * Standard
