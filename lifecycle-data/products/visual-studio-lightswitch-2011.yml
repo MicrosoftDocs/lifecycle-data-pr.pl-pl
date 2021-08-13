@@ -3,26 +3,27 @@ metadata:
   title: Visual Studio LightSwitch 2011
   description: Program Visual Studio LightSwitch 2011 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 12d219b05d3e82323d3d5d7b6dae25393afc1afb
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860028"
 name: Visual Studio LightSwitch 2011
-summary: >+
+summary: |+
   Program Visual Studio LightSwitch 2011 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/30/2011
   end: 01/10/2017
   extendedEnd: 01/11/2022
 releases:
-- version: Original Release
-  startDate: 10/30/2011
-  endDate: 01/11/2022
-content: "\n## <a name=\"links\"></a>Linki \n* [Lightswitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Power Apps](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio 2015 to ostatnia wersja oprogramowania Visual Studio, która zawiera narzędzie LightSwitch. Zalecamy korzystanie z usługi Microsoft PowerApps do tworzenia nowych aplikacji."
+  - version: Original Release
+    startDate: 10/30/2011
+    endDate: 01/11/2022
+content: |+
+
+  ## <a name="links"></a>Linki 
+  * [Lightswitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)
+  * [Power Apps](https://powerapps.microsoft.com/)
+
+  > [!NOTE]
+  > Visual Studio 2015 to ostatnia wersja oprogramowania Visual Studio, która zawiera narzędzie LightSwitch. Zalecamy korzystanie z usługi Microsoft PowerApps do tworzenia nowych aplikacji.
