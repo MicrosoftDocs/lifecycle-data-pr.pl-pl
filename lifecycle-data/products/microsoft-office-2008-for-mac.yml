@@ -3,29 +3,40 @@ metadata:
   title: Pakiet Microsoft Office 2008 dla komputerów Mac
   description: Pakiet Microsoft Office 2008 dla komputerów Mac jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
-  keywords: Business,Home and Student,Special Media Editon
-  ms.openlocfilehash: ba599ca4191c7e1a219f31d77797c9799adeca7c
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162418"
+  keywords: 'Business,Home and Student,Special Media Editon'
 name: Pakiet Microsoft Office 2008 dla komputerów Mac
-summary: "Pakiet Microsoft Office 2008 dla komputerów Mac jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących edycji: Business, Home and Student, Special Media Editon\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
+summary: |
+  Pakiet Microsoft Office 2008 dla komputerów Mac jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+  Dotyczy to następujących edycji: Business, Home and Student, Special Media Editon
+
+  > [!IMPORTANT]
+  > Wsparcie dla tego produktu dobiegło końca. 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/15/2008
   end: 04/09/2013
 releases:
-- version: Service Pack 2
-  startDate: 07/20/2009
-  endDate: 04/09/2013
-- version: Service Pack 1
-  startDate: 05/13/2008
-  endDate: 10/12/2010
-- version: Original Release
-  startDate: 01/15/2008
-  endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Linki \n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Data początkowa pakietu Office 2008 Special Media Edition dla komputerów Mac to 12 marca 2008 r.\n\n## <a name=\"editions\"></a>Edycje \n* Business\n* Home and Student\n* Special Media Editon"
+  - version: Service Pack 2
+    startDate: 07/20/2009
+    endDate: 04/09/2013
+  - version: Service Pack 1
+    startDate: 05/13/2008
+    endDate: 10/12/2010
+  - version: Original Release
+    startDate: 01/15/2008
+    endDate: 07/14/2009
+content: |
+
+  ## <a name="links"></a>Linki 
+  * [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Data początkowa pakietu Office 2008 Special Media Edition dla komputerów Mac to 12 marca 2008 r.
+
+  ## <a name="editions"></a>Edycje 
+  * Business
+  * Home and Student
+  * Special Media Editon

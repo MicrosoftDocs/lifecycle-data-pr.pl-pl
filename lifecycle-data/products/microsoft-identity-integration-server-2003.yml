@@ -4,29 +4,37 @@ metadata:
   description: Program Microsoft Identity Integration Server 2003 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: a1ef4c754fdb32948d2e6e965d554076955dd544
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933536"
 name: Microsoft Identity Integration Server 2003
-summary: "Program Microsoft Identity Integration Server 2003 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.\n\nDotyczy to następujących edycji: Enterprise\n\n> [!IMPORTANT]\n> Wsparcie dla tego produktu dobiegło końca. \n"
+summary: |
+  Program Microsoft Identity Integration Server 2003 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+  Dotyczy to następujących edycji: Enterprise
+
+  > [!IMPORTANT]
+  > Wsparcie dla tego produktu dobiegło końca. 
 products:
-- m365
+  - m365
 policyType: fixed
 supportDates:
   start: 09/26/2003
   end: 10/14/2008
   extendedEnd: 10/08/2013
 releases:
-- version: Service Pack 2
-  startDate: 03/30/2007
-  endDate: 10/08/2013
-- version: Service Pack 1
-  startDate: 01/10/2005
-  endDate: 04/08/2008
-- version: Original Release
-  startDate: 09/26/2003
-  endDate: 01/10/2006
-content: "\n## <a name=\"links\"></a>Linki \n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n* [Informacje na temat systemu Windows Server](/windows-server/)\n\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise"
+  - version: Service Pack 2
+    startDate: 03/30/2007
+    endDate: 10/08/2013
+  - version: Service Pack 1
+    startDate: 01/10/2005
+    endDate: 04/08/2008
+  - version: Original Release
+    startDate: 09/26/2003
+    endDate: 01/10/2006
+content: |
+
+  ## <a name="links"></a>Linki 
+  * [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)
+  * [Informacje na temat systemu Windows Server](/windows-server/)
+
+
+  ## <a name="editions"></a>Edycje 
+  * Enterprise
