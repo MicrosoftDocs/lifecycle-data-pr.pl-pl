@@ -3,29 +3,37 @@ metadata:
   title: Windows Storage Server 2008 Embedded
   description: System Windows Storage Server 2008 Embedded jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
-  keywords: 32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup
-  ms.openlocfilehash: 6615fb87d3cf9d0ad0dabec14b5cb3b2fb52b8df
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939086"
+  keywords: '32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup'
 name: Windows Storage Server 2008 Embedded
-summary: >+
+summary: |+
   System Windows Storage Server 2008 Embedded jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
   Dotyczy to następujących edycji: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/19/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 07/19/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Okres wsparcia tego produktu zakończył się. Poniżej znajdują się wskazówki dotyczące migracji.\n\n## <a name=\"editions\"></a>Edycje \n* Wersja 32-bitowa\n* Wersja 64-bitowa\n* Basic\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 07/19/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Linki 
+  * [Wskazówki dotyczące migracji](/archive/blogs/storageserver/announcing-windows-storage-server-2016)
+
+  > [!NOTE]
+  > Okres wsparcia tego produktu zakończył się. Poniżej znajdują się wskazówki dotyczące migracji.
+
+  ## <a name="editions"></a>Edycje 
+  * Wersja 32-bitowa
+  * Wersja 64-bitowa
+  * Basic
+  * Basic 32-Bit
+  * Enterprise
+  * Standard
+  * Workgroup
