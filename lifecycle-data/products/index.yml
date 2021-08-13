@@ -1,11 +1,13 @@
 ### YamlMime:ContentBrowser
 title: Wyszukaj informacje o cyklu życia produktów i usług
 browseType: lifecycle
-summary: "\n> [!NOTE]\n> Eksportowanie informacji o cyklu życia ze strony [Eksportowanie cyklu życia](/lifecycle/products/export).\n\n\nCykl życia firmy Microsoft zapewnia spójne i przewidywalne wytyczne dotyczące wsparcia przez cały okres użytkowania produktu, pomagając klientom zarządzać inwestycjami i środowiskami IT, jednocześnie strategicznie planując przyszłość.\n\n\nPoniżej możesz wyszukać listę komercyjnych produktów i usług firmy Microsoft, a następnie wybrać wynik, aby znaleźć osi czasu wsparcia i pomocy technicznej, wymagane aktualizacje, informacje o migracji i wymagania systemowe."
-metadata:
-  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
-  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "943044"
+summary: |-
+
+  > [!NOTE]
+  > Eksportowanie informacji o cyklu życia ze strony [Eksportowanie cyklu życia](/lifecycle/products/export).
+
+
+  Cykl życia firmy Microsoft zapewnia spójne i przewidywalne wytyczne dotyczące wsparcia przez cały okres użytkowania produktu, pomagając klientom zarządzać inwestycjami i środowiskami IT, jednocześnie strategicznie planując przyszłość.
+
+
+  Poniżej możesz wyszukać listę komercyjnych produktów i usług firmy Microsoft, a następnie wybrać wynik, aby znaleźć osi czasu wsparcia i pomocy technicznej, wymagane aktualizacje, informacje o migracji i wymagania systemowe.

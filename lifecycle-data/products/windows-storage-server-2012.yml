@@ -3,29 +3,32 @@ metadata:
   title: Windows Storage Server 2012
   description: System Windows Storage Server 2012 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/10/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 9626cd83f310a08921530211ad3dab10456c0aee
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002251"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2012
-summary: >+
+summary: |+
   System Windows Storage Server 2012 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
   Dotyczy to następujących edycji: Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Podstawowe i dodatkowe wsparcie dla tego produktu zostało rozszerzone, aby zapewnić klientom przejście na standardowy czas trwania cyklu życia.\n\n## <a name=\"editions\"></a>Edycje \n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>Linki 
+  * [Wskazówki dotyczące migracji](/windows-server/upgrade/upgrade-2012-to-2016)
+
+  > [!NOTE]
+  > Podstawowe i dodatkowe wsparcie dla tego produktu zostało rozszerzone, aby zapewnić klientom przejście na standardowy czas trwania cyklu życia.
+
+  ## <a name="editions"></a>Edycje 
+  * Standard
+  * Workgroup
