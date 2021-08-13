@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: System Windows Phone 8 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940911"
 name: Windows Phone 8
-summary: >+
+summary: |+
   System Windows Phone 8 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> Firma Microsoft będzie udostępniać aktualizacje systemu operacyjnego, w tym aktualizacje zabezpieczeń, przez 36 miesięcy po dacie rozpoczęcia cyklu życia. Te aktualizacje będą wprowadzane stopniowo, każda z nich będzie oparta na aktualizacji, która ją poprzedzała. Klienci muszą zainstalować każdą wydaną aktualizację, aby zachować wsparcie techniczne. Dystrybucja tych aktualizacji przyrostowych może być kontrolowana przez operatora sieci komórkowej lub producenta telefonu, od którego zakupiono telefon, a instalacja będzie wymagać, aby telefon miał wcześniejsze aktualizacje. Dostępność aktualizacji będzie się również różnić w zależności od kraju, regionu i możliwości sprzętu."
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > Firma Microsoft będzie udostępniać aktualizacje systemu operacyjnego, w tym aktualizacje zabezpieczeń, przez 36 miesięcy po dacie rozpoczęcia cyklu życia. Te aktualizacje będą wprowadzane stopniowo, każda z nich będzie oparta na aktualizacji, która ją poprzedzała. Klienci muszą zainstalować każdą wydaną aktualizację, aby zachować wsparcie techniczne. Dystrybucja tych aktualizacji przyrostowych może być kontrolowana przez operatora sieci komórkowej lub producenta telefonu, od którego zakupiono telefon, a instalacja będzie wymagać, aby telefon miał wcześniejsze aktualizacje. Dostępność aktualizacji będzie się również różnić w zależności od kraju, regionu i możliwości sprzętu.

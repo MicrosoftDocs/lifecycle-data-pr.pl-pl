@@ -3,29 +3,31 @@ metadata:
   title: Outlook 2010
   description: Program Outlook 2010 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
-  keywords: Standard,with Business Contact Manager
-  ms.openlocfilehash: ce67d67737e2a942507d26d8d1bd308697a58144
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "928837"
+  keywords: 'Standard,with Business Contact Manager'
 name: Outlook 2010
-summary: >+
+summary: |+
   Program Outlook 2010 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
   Dotyczy to następujących edycji: Standard, with Business Contact Manager
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/DeployOffice/office-2010-end-support-roadmap)\n* [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edycje \n* Standard\n* z dodatkiem Business Contact Manager"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 10/13/2020
+content: |
+
+  ## <a name="links"></a>Linki 
+  * [Wskazówki dotyczące migracji](/DeployOffice/office-2010-end-support-roadmap)
+  * [Polityka dodatku Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Edycje 
+  * Standard
+  * z dodatkiem Business Contact Manager

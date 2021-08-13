@@ -3,17 +3,10 @@ metadata:
   title: Windows Server 2016
   description: System Windows Server 2016 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/09/2021
-  keywords: 
-  ms.openlocfilehash: 07c1dc6d0d6983d6fde9a35f0fad1dacbec2de75
-  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2021
-  ms.locfileid: "2255254"
+  keywords: null
 name: Windows Server 2016
-summary: >+
+summary: |+
   System Windows Server 2016 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
 
   Dotyczy to następujących edycji: Datacenter, Essentials, MultiPoint Premium, Standard
@@ -21,14 +14,31 @@ summary: >+
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/15/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/windows-server/get-started/server-basics)\n* [Często zadawane pytania dotyczące zasad cyklu życia — Produkty z systemem Windows](/lifecycle/faq/windows)\n* [Cykle obsługi obrazów bazowych kontenera systemu Windows](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Kontenery wydane z systemem Windows Server 2016 mają te same daty dla ich cyklu życia.\n\n\n## <a name=\"editions\"></a>Edycje \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |+
+
+
+  ## <a name="links"></a>Linki 
+  * [Informacje o produkcie](/windows-server/get-started/server-basics)
+  * [Często zadawane pytania dotyczące zasad cyklu życia — Produkty z systemem Windows](/lifecycle/faq/windows)
+  * [Cykle obsługi obrazów bazowych kontenera systemu Windows](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)
+
+
+  > [!NOTE]
+  > Kontenery wydane z systemem Windows Server 2016 mają te same daty dla ich cyklu życia.
+
+
+  ## <a name="editions"></a>Edycje 
+  * Datacenter
+  * Essentials
+  * MultiPoint Premium
+  * Standard

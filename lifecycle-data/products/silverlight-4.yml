@@ -3,25 +3,23 @@ metadata:
   title: Silverlight 4
   description: Program Silverlight 4 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 9635d31459c8a470c63cc90e216e4237ce7c6ca1
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904369"
 name: Silverlight 4
-summary: >+
+summary: |+
   Program Silverlight 4 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
-- silverlight
+  - silverlight
 policyType: fixed-mainstream-only
 supportDates:
   start: 04/15/2010
   end: 01/08/2013
 releases:
-- version: Original Release
-  startDate: 04/15/2010
-  endDate: 01/08/2013
-content: "\n\n> [!NOTE]\n> Firma Microsoft przekaże powiadomienie na minimum 12 miesięcy przed zakończeniem okresu wsparcia narzędzi."
+  - version: Original Release
+    startDate: 04/15/2010
+    endDate: 01/08/2013
+content: |+
+
+
+  > [!NOTE]
+  > Firma Microsoft przekaże powiadomienie na minimum 12 miesięcy przed zakończeniem okresu wsparcia narzędzi.
