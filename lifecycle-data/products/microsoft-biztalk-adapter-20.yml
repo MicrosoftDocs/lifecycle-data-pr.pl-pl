@@ -3,29 +3,31 @@ metadata:
   title: Microsoft BizTalk Adapter 2.0
   description: Program Microsoft BizTalk Adapter 2.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
-  keywords: for MSMQ,for mySAP Business Suite,for SAP
-  ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934757"
+  keywords: 'for MSMQ,for mySAP Business Suite,for SAP'
 name: Microsoft BizTalk Adapter 2.0
-summary: >+
+summary: |+
   Program Microsoft BizTalk Adapter 2.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
   Dotyczy to następujących wersji: dla usługi MSMQ, dla pakietu mySAP Business Suite, dla rozwiązań SAP
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 10/20/2004
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 10/20/2004
-  endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Data rozpoczęcia programu Microsoft BizTalk Adapter 2.0 dla usługi SAP to 2 listopada 2004 r. Data rozpoczęcia programu Microsoft BizTalk Adapter dla usługi MSMQ 2.0 to 10 grudnia 2004 r.\n\n## <a name=\"editions\"></a>Edycje \n* dla usługi MSMQ\n* dla pakietu mySAP Business Suite\n* dla rozwiązań SAP"
+  - version: Original Release
+    startDate: 10/20/2004
+    endDate: 01/13/2015
+content: |
+
+
+  > [!NOTE]
+  > Data rozpoczęcia programu Microsoft BizTalk Adapter 2.0 dla usługi SAP to 2 listopada 2004 r. Data rozpoczęcia programu Microsoft BizTalk Adapter dla usługi MSMQ 2.0 to 10 grudnia 2004 r.
+
+  ## <a name="editions"></a>Edycje 
+  * dla usługi MSMQ
+  * dla pakietu mySAP Business Suite
+  * dla rozwiązań SAP

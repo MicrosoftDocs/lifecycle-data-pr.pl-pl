@@ -3,29 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: System Windows Phone 8.1 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860070"
 name: Windows Phone 8.1
-summary: >
+summary: |
   System Windows Phone 8.1 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
-
   > [!IMPORTANT]
-
   > Wsparcie dla tego produktu dobiegło końca.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Linki \n* [Windows Phone 8.1 — często zadawane pytania](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Firma Microsoft będzie udostępniać aktualizacje systemu operacyjnego, w tym aktualizacje zabezpieczeń, przez 36 miesięcy po dacie rozpoczęcia cyklu życia. Te aktualizacje będą wprowadzane stopniowo, każda z nich będzie oparta na aktualizacji, która ją poprzedzała. Klienci muszą zainstalować każdą wydaną aktualizację, aby zachować wsparcie techniczne. Dystrybucja tych aktualizacji przyrostowych może być kontrolowana przez operatora sieci komórkowej lub producenta telefonu, od którego zakupiono telefon, a instalacja będzie wymagać, aby telefon miał wcześniejsze aktualizacje. Dostępność aktualizacji będzie się również różnić w zależności od kraju, regionu i możliwości sprzętu."
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>Linki 
+  * [Windows Phone 8.1 — często zadawane pytania](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > Firma Microsoft będzie udostępniać aktualizacje systemu operacyjnego, w tym aktualizacje zabezpieczeń, przez 36 miesięcy po dacie rozpoczęcia cyklu życia. Te aktualizacje będą wprowadzane stopniowo, każda z nich będzie oparta na aktualizacji, która ją poprzedzała. Klienci muszą zainstalować każdą wydaną aktualizację, aby zachować wsparcie techniczne. Dystrybucja tych aktualizacji przyrostowych może być kontrolowana przez operatora sieci komórkowej lub producenta telefonu, od którego zakupiono telefon, a instalacja będzie wymagać, aby telefon miał wcześniejsze aktualizacje. Dostępność aktualizacji będzie się również różnić w zależności od kraju, regionu i możliwości sprzętu.

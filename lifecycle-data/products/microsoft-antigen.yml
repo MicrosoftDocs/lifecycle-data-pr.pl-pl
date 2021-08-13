@@ -3,29 +3,22 @@ metadata:
   title: Microsoft Antigen
   description: Program Microsoft Antigen jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/10/2020
-  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
-  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001992"
+  keywords: '9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager'
 name: Microsoft Antigen
-summary: >+
+summary: |+
   Program Microsoft Antigen jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
   Dotyczy to następujących edycji: 9.0 for Exchange, Enterprise Manager 9.0, for SMTP Gateways, Spam Manager
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/17/2006
   end: 04/08/2014
   extendedEnd: 12/31/2015
 releases:
-- version: Original Release
-  startDate: 07/17/2006
-  endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Plan działania dla produktów bezpieczeństwa pod marką Forefront uległ zmianie. Ten produkt został wycofany 31 grudnia 2015 r.\n\n## <a name=\"editions\"></a>Edycje \n* 9.0 for Exchange\n* Enterprise Manager 9.0\n* for SMTP Gateways\n* Spam Manager\n"
+  - version: Original Release
+    startDate: 07/17/2006
+    endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Plan działania dla produktów bezpieczeństwa pod marką Forefront uległ zmianie.\_Ten produkt został wycofany 31 grudnia 2015 r.\n\n## <a name=\"editions\"></a>Edycje \n* 9.0 for Exchange\n* Enterprise Manager 9.0\n* for SMTP Gateways\n* Spam Manager\n"

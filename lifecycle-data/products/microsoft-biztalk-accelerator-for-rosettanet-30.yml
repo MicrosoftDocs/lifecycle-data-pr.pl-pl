@@ -3,29 +3,28 @@ metadata:
   title: Microsoft BizTalk Accelerator for RosettaNet 3.0
   description: Program Microsoft BizTalk Accelerator for RosettaNet 3.0 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 1a27e01c802b94c72dbcab51e79d200fb0877182
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934831"
+  keywords: 'Enterprise,Standard'
 name: Microsoft BizTalk Accelerator for RosettaNet 3.0
-summary: >+
+summary: |+
   Program Microsoft BizTalk Accelerator for RosettaNet 3.0 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
   Dotyczy to następujących edycji: Enterprise, Standard
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 02/22/2005
   end: 04/13/2010
   extendedEnd: 04/14/2015
 releases:
-- version: Original Release
-  startDate: 02/22/2005
-  endDate: 04/14/2015
-content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 02/22/2005
+    endDate: 04/14/2015
+content: |
+
+
+
+  ## <a name="editions"></a>Edycje 
+  * Enterprise
+  * Standard

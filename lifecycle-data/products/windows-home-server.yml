@@ -3,25 +3,19 @@ metadata:
   title: Windows Home Server
   description: System Windows Home Server jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 7858655cfe6489b145f6ec8ef4d2d113c0a1e22b
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832033"
 name: Windows Home Server
-summary: >+
+summary: |+
   System Windows Home Server jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 10/11/2007
   end: 01/08/2013
 releases:
-- version: Original Release
-  startDate: 10/11/2007
-  endDate: 01/08/2013
-content: ''
+  - version: Original Release
+    startDate: 10/11/2007
+    endDate: 01/08/2013
+content: |+
