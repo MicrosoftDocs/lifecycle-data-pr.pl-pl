@@ -3,28 +3,29 @@ metadata:
   title: Pakiet Microsoft Office 2019 dla komputerów Mac
   description: Pakiet Microsoft Office 2019 dla komputerów Mac jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
-  keywords: Academic,Home and Business,Home and Student,Standard
-  ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930428"
+  keywords: 'Academic,Home and Business,Home and Student,Standard'
 name: Pakiet Microsoft Office 2019 dla komputerów Mac
-summary: >+
+summary: |+
   Pakiet Microsoft Office 2019 dla komputerów Mac jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
   Dotyczy to następujących edycji: Academic, Home and Business, Home and Student, Standard
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 09/24/2018
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 09/24/2018
-  endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Szkolny\n* Home and Business\n* Home and Student\n* Standard"
+  - version: Original Release
+    startDate: 09/24/2018
+    endDate: 10/10/2023
+content: |
+
+
+
+  ## <a name="editions"></a>Edycje 
+  * Szkolny
+  * Home and Business
+  * Home and Student
+  * Standard

@@ -4,28 +4,30 @@ metadata:
   description: Program Infopath 2013 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/10/2020
   keywords: Standard
-  ms.openlocfilehash: 7cd0b91eef230b0f5820c953c57369a58940d719
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002029"
 name: InfoPath 2013
-summary: >+
+summary: |+
   Program Infopath 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
   Dotyczy to następujących edycji: Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Linki \n* [Szczegóły pomocy technicznej](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Pomoc techniczna dotycząca programu Microsoft InfoPath 2013 została rozszerzona w pokazany sposób w celu zapewnienia zgodności z programem SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Edycje \n* Standard"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 07/14/2026
+content: |
+
+  ## <a name="links"></a>Linki 
+  * [Szczegóły pomocy technicznej](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
+
+  > [!NOTE]
+  > Pomoc techniczna dotycząca programu Microsoft InfoPath 2013 została rozszerzona w pokazany sposób w celu zapewnienia zgodności z programem SharePoint Server 2016.
+
+  ## <a name="editions"></a>Edycje 
+  * Standard
