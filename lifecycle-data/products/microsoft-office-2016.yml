@@ -3,29 +3,32 @@ metadata:
   title: Pakiet Microsoft Office 2016
   description: Pakiet Microsoft Office 2016 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 09/01/2020
-  keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
-  ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930502"
+  keywords: 'Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard'
 name: Pakiet Microsoft Office 2016
-summary: >+
+summary: |+
   Pakiet Microsoft Office 2016 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
-
 
   Dotyczy to następujących edycji: Home and Business, Home and Student, Personal, Professional, Professional Plus, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 09/22/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 09/22/2015
-  endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Edycje \n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Plus\n* Standard"
+  - version: Original Release
+    startDate: 09/22/2015
+    endDate: 10/14/2025
+content: |
+
+
+
+  ## <a name="editions"></a>Edycje 
+  * Home and Business
+  * Home and Student
+  * Personal
+  * Professional
+  * Professional Plus
+  * Standard

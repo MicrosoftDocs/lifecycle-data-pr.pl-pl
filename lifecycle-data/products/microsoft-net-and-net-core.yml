@@ -3,45 +3,52 @@ metadata:
   title: Microsoft .NET i .NET Core
   description: Programy Microsoft .NET i .NET Core są zgodne z zasadami nowoczesnego cyklu życia.
   ms.date: 12/17/2020
-  keywords: ASP.NET Core,Entity Framework Core
-  ms.openlocfilehash: 6052955c370906a7e2ecc16cc1d24b3e055adc89
-  ms.sourcegitcommit: f4e86f7c87c4574636289408f511574ac20127a0
-  ms.translationtype: HT
-  ms.contentlocale: pl-PL
-  ms.lasthandoff: 12/17/2020
-  ms.locfileid: "1347421"
+  keywords: 'ASP.NET Core,Entity Framework Core'
 name: Microsoft .NET i .NET Core
-summary: >+
+summary: |+
   Programy Microsoft .NET i .NET Core są zgodne z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:
-- dotnet
+  - dotnet
 policyType: modern-on-prem
 supportDates:
   start: 06/27/2016
 releases:
-- version: .NET 5.0
-  startDate: 11/10/2020
-- version: .NET Core 3.1 (LTS)
-  startDate: 12/03/2019
-  endDate: 12/03/2022
-- version: .NET Core 3.0
-  startDate: 09/23/2019
-  endDate: 03/03/2020
-- version: .NET Core 2.2
-  startDate: 12/04/2018
-  endDate: 12/23/2019
-- version: .NET Core 2.1 (LTS)
-  startDate: 05/30/2018
-  endDate: 08/21/2021
-- version: .NET Core 2.0
-  startDate: 08/14/2017
-  endDate: 10/01/2018
-- version: .NET Core 1.1
-  startDate: 11/16/2016
-  endDate: 06/27/2019
-- version: .NET Core 1.0
-  startDate: 06/27/2016
-  endDate: 06/27/2019
-content: "\n## <a name=\"links\"></a>Linki \n* [Szczegóły wsparcia dla programu .NET Core (dotnet)](https://dotnet.microsoft.com/platform/support/policy/dotnet-core)\n* [Harmonogram wydań programu .NET Core](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [Plan działania produktu .NET Core](https://github.com/dotnet/core/blob/master/product-roadmap/current.md)\n* [Często zadawane pytania dotyczące cyklu życia — .NET Core](/lifecycle/faq/dotnet-core)\n* [ASP.NET i ASP.NET Core — szczegóły wsparcia](https://dotnet.microsoft.com/platform/support/policy/aspnet)\n* [Szczegóły wsparcia dla platformy Entity Framework](/ef/core/what-is-new)\n\n> [!NOTE]\n> Począwszy od platformy .NET 5.0, program Microsoft .NET Core został przemianowany na .NET. \n>\n>ASP.NET Core i Entity Framework Core mają ten sam cykl życia co .NET Core."
+  - version: .NET 5.0
+    startDate: 11/10/2020
+  - version: .NET Core 3.1 (LTS)
+    startDate: 12/03/2019
+    endDate: 12/03/2022
+  - version: .NET Core 3.0
+    startDate: 09/23/2019
+    endDate: 03/03/2020
+  - version: .NET Core 2.2
+    startDate: 12/04/2018
+    endDate: 12/23/2019
+  - version: .NET Core 2.1 (LTS)
+    startDate: 05/30/2018
+    endDate: 08/21/2021
+  - version: .NET Core 2.0
+    startDate: 08/14/2017
+    endDate: 10/01/2018
+  - version: .NET Core 1.1
+    startDate: 11/16/2016
+    endDate: 06/27/2019
+  - version: .NET Core 1.0
+    startDate: 06/27/2016
+    endDate: 06/27/2019
+content: |+
+
+  ## <a name="links"></a>Linki 
+  * [Szczegóły wsparcia dla programu .NET Core (dotnet)](https://dotnet.microsoft.com/platform/support/policy/dotnet-core)
+  * [Harmonogram wydań programu .NET Core](https://github.com/dotnet/core/blob/master/roadmap.md)
+  * [Plan działania produktu .NET Core](https://github.com/dotnet/core/blob/master/product-roadmap/current.md)
+  * [Często zadawane pytania dotyczące cyklu życia — .NET Core](/lifecycle/faq/dotnet-core)
+  * [ASP.NET i ASP.NET Core — szczegóły wsparcia](https://dotnet.microsoft.com/platform/support/policy/aspnet)
+  * [Szczegóły wsparcia dla platformy Entity Framework](/ef/core/what-is-new)
+
+  > [!NOTE]
+  > Począwszy od platformy .NET 5.0, program Microsoft .NET Core został przemianowany na .NET. 
+  >
+  >ASP.NET Core i Entity Framework Core mają ten sam cykl życia co .NET Core.
