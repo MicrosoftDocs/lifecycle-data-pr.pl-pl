@@ -2,21 +2,21 @@
 metadata:
   title: Visual Studio 2019
   description: Program Visual Studio 2019 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 08/16/2021
+  ms.date: 09/20/2021
   keywords: 
-  ms.openlocfilehash: c7e4ddffbe5d190d4a67d9537e35e9fcf95bce8c
-  ms.sourcegitcommit: 0757165840b353e73bd33bcc287aec0d191c39cf
+  ms.openlocfilehash: e23223d9d0a238c2d9784b25ab84a2195705951c
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 08/17/2021
-  ms.locfileid: "3099650"
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460615"
 name: Visual Studio 2019
 summary: >+
   Program Visual Studio 2019 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 
-  Dotyczy to następujących edycji: Agents, Build Tools, Community, Enterprise, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, Remote Tools, Team Explorer, Visual C++ Redistributable
+  Dotyczy to następujących edycji: Community, Enterprise, Professional
 
 
 
@@ -43,4 +43,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n\n## <a name=\"links\"></a>Linki \n* [Anonsy blogu programu Visual Studio](https://devblogs.microsoft.com/visualstudio/)\n* [Informacje serwisowe](/visualstudio/productinfo/vs-servicing-vs)\n* [Strona pobierania programu Visual Studio 2019](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Informacje o wersji programu Visual Studio 2019](/visualstudio/releases/2019/release-notes)\n\n\n\n\n## <a name=\"editions\"></a>Edycje \n* Agenty\n* Build Tools\n* Community\n* Enterprise\n* dla komputerów Mac\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* Remote Tools\n* Team Explorer\n* Visual C++ Redistributable"
+content: "\n\n## <a name=\"links\"></a>Linki \n* [Anonsy blogu programu Visual Studio](https://devblogs.microsoft.com/visualstudio/)\n* [Informacje serwisowe](/visualstudio/productinfo/vs-servicing-vs)\n* [Strona pobierania programu Visual Studio 2019](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Informacje o wersji programu Visual Studio 2019](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> Wersje następujących składników programu Visual Studio 2019 są dostarczane i obsługiwane w ramach cyklu życia programu Visual Studio 2019: Agents, Build Tools, Community, Enterprise, IntelliTrace Standalone Collector, Performance Tools, Remote Tools, Team Explorer i Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Edycje \n* Community\n* Enterprise\n* Professional"
