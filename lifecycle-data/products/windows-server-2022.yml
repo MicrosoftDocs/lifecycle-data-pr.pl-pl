@@ -2,21 +2,21 @@
 metadata:
   title: Windows Server 2022
   description: System Windows Server 2022 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 08/31/2021
+  ms.date: 09/23/2021
   keywords: 
-  ms.openlocfilehash: 8c3cf914c65ac5fe4d13296398a4f0bea73eb7f8
-  ms.sourcegitcommit: acb9601132598295da5c9f5a537f1a1af401417a
+  ms.openlocfilehash: 1ed53da378c243b1cb45d78aeb9770a1f6ec3e1d
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 09/01/2021
-  ms.locfileid: "3173047"
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508027"
 name: Windows Server 2022
 summary: >+
   System Windows Server 2022 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 
-  Dotyczy to następujących edycji: Datacenter, Datacenter: Azure Edition i Standard
+  Dotyczy to następujących edycji: Datacenter, Datacenter: Azure Edition, Essentials i Standard
 
 
 
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 08/18/2021
   endDate: 10/14/2031
-content: "\n\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące cyklu życia - Windows](/lifecycle/faq/windows)\n* [Informacje o produkcie](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Kontenery wydane z systemem Windows Server 2022 mają te same daty dla cyklu ich życia. \n\n\n## <a name=\"editions\"></a>Edycje \n* Datacenter\n* Datacenter: Azure Edition\n* Standard"
+content: "> [!TIP]\n> Przeglądarka Microsoft Edge jest zgodna z [zasadami nowoczesnego cyklu życia](https://docs.microsoft.com/lifecycle/policies/modern). Zapoznaj się z [dokumentacją cyklu życia](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) przeglądarki Edge, aby dowiedzieć się, jak aktualizować tę przeglądarkę i zachować wsparcie.\n\n\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące cyklu życia - Windows](/lifecycle/faq/windows)\n* [Informacje o produkcie](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Kontenery wydane z systemem Windows Server 2022 mają te same daty dla cyklu ich życia. \n\n\n## <a name=\"editions\"></a>Edycje \n* Datacenter\n* Datacenter: Azure Edition\n* Essentials\n* Standard"

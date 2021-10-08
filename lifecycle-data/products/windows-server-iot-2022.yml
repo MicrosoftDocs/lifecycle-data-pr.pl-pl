@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2022
+  description: System Windows Server IoT 2022 jest zgodny z zasadami stałego cyklu życia.
+  ms.date: 09/30/2021
+  keywords: 
+  ms.openlocfilehash: 88410d389a0328a58d5df7cd5b20e279318fe968
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508079"
+name: Windows Server IoT 2022
+summary: >+
+  System Windows Server IoT 2022 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
+
+
+
+  Dotyczy to następujących edycji: Datacenter, Standard, Storage Standard, Storage Workgroup, Telecommunications
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/18/2021
+  end: 10/13/2026
+  extendedEnd: 10/14/2031
+releases:
+- version: Original Release
+  startDate: 08/18/2021
+  endDate: 10/14/2031
+content: "\n\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące zasad cyklu życia — Produkty z systemem Windows](/lifecycle/faq/windows)\n\n\n> [!NOTE]\n> Przeglądarka Microsoft Edge jest zgodna z [zasadami nowoczesnego cyklu życia](https://docs.microsoft.com/lifecycle/policies/modern). Zapoznaj się z [dokumentacją cyklu życia](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) przeglądarki Edge, aby dowiedzieć się, jak aktualizować tę przeglądarkę i zachować wsparcie.\n\n\n## <a name=\"editions\"></a>Edycje \n* Datacenter\n* Standard\n* Storage Standard\n* Storage Workgroup\n* Telecommunications"
