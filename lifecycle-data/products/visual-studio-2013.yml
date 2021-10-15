@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2013
   description: Program Visual Studio 2013 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 09/23/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 6ae47f9d9b67de20ecd407da68c7b570ebfc14f5
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: c54d82aa98ede8eff7bda6adcbd2b9d64cae7f71
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509261"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514216"
 name: Visual Studio 2013
 summary: >+
   Program Visual Studio 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n> [!NOTE]\n> Wersje następujących składników programu Visual Studio 2013 są dostarczane i obsługiwane w ramach cyklu życia programu Visual Studio 2013: Agenci, kolektor IntelliTrace, zestaw SDK do modelowania, wielobajtowa biblioteka MFC, narzędzia zdalne, SDK, powłoka (zintegrowana), powłoka (izolowana), Team Explorer, pakiet redystrybucyjny Visual C, rozszerzenia narzędzi internetowych\n\n\n## <a name=\"editions\"></a>Edycje \n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* Premium\n* Professional\n* Release Management\n* Test Professional\n* Ultimate"
+content: "\n\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Wersje następujących składników programu Visual Studio 2013 są dostarczane i obsługiwane w ramach cyklu życia programu Visual Studio 2013: Agenci, kolektor IntelliTrace, zestaw SDK do modelowania, wielobajtowa biblioteka MFC, narzędzia zdalne, SDK, powłoka (zintegrowana), powłoka (izolowana), Team Explorer, pakiet redystrybucyjny Visual C, rozszerzenia narzędzi internetowych\n\n\n## <a name=\"editions\"></a>Edycje \n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* Premium\n* Professional\n* Release Management\n* Test Professional\n* Ultimate"
