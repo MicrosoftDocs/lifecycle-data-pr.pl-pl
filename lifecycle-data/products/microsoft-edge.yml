@@ -2,30 +2,32 @@
 metadata:
   title: Microsoft Edge
   description: Przeglądarka Microsoft Edge jest zgodna z zasadami nowoczesnego cyklu życia.
-  ms.date: 07/17/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: IE; browser; Internet Explorer
+  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560068"
 name: Microsoft Edge
-summary: |+
+summary: >+
   Przeglądarka Microsoft Edge jest zgodna z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 
 
+
   > [!IMPORTANT]
+
   > Uwaga: Wsparcie techniczne dla starszej wersji niniejszego produktu zakończy się 9 marca 2021 r. Przejdź [tutaj](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666), aby dowiedzieć się więcej.
 
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-  - version: Original Release
-    startDate: 01/15/2020
-content: |+
-
-
-  ## <a name="links"></a>Linki 
-  * [Systemy operacyjne obsługiwane przez przeglądarkę Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)
-  * [Często zadawane pytania dotyczące cyklu życia — Internet Explorer i Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
-  * [Zasady cyklu życia programu Edge firmy Microsoft](/deployedge/microsoft-edge-support-lifecycle)
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n\n## <a name=\"links\"></a>Linki \n* [Systemy operacyjne obsługiwane przez przeglądarkę Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Nowe zasoby przyspieszające przejście na Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Często zadawane pytania dotyczące cyklu życia — Internet Explorer i Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Zasady cyklu życia programu Edge firmy Microsoft](/deployedge/microsoft-edge-support-lifecycle)"

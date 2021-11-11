@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project Server Subscription Edition
+  description: Program Project Server Subscription Edition jest zgodny z zasadami nowoczesnego cyklu życia.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3775c728a11e4e8f85fd3866670d6ce7fcc5f808
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546881"
+name: Project Server Subscription Edition
+summary: >+
+  Program Project Server Subscription Edition jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Zapoznaj się z dokumentacją [produktu](https://docs.microsoft.com/project/project-server-2013-and-2016) i dokumentacją [dewelopera](https://docs.microsoft.com/office/dev/add-ins/project/)."
