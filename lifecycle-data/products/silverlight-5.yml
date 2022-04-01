@@ -3,12 +3,12 @@ metadata:
   title: Silverlight 5
   description: Technologia Silverlight 5 jest zgodna z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
-  ms.openlocfilehash: bbec6d993cf6aca62bb8ede04d92ad01eee1310e4c351f19e811f5e38208e56a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 85f89f20dfe56ae8146d7441dcdc2e4d6bb0d502
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2494305"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4111310"
 name: Silverlight 5
 summary: >+
   Technologia Silverlight 5 jest zgodna z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
@@ -18,10 +18,10 @@ products:
 - silverlight
 policyType: fixed-mainstream-only
 supportDates:
-  start: 12/09/2011
-  end: 10/12/2021
+  start: 2011-12-09T00:00:00.000-08:00
+  end: 2021-10-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 12/09/2011
-  endDate: 10/12/2021
+  startDate: 2011-12-09T00:00:00.000-08:00
+  endDate: 2021-10-12T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Linki \n* [Technologia Silverlight 5 będzie obsługiwać przeglądarki wymienione tutaj do 12 października 2021 roku lub do końca cyklu życia tych przeglądarek — zależnie od tego, który okres jest krótszy.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Koniec wsparcia dla programu Silverlight](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Firma Microsoft przekaże powiadomienie na minimum 12 miesięcy przed zakończeniem okresu wsparcia narzędzi."

@@ -4,12 +4,12 @@ metadata:
   description: System Windows Server 2019 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/09/2021
   keywords: 
-  ms.openlocfilehash: e34081f9884772bcc3d6aa54162cdaa565e9855a885118a5c778fba95408c6e4
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 38d26e4f3995db4395f241fe8bfd19c21ea0da05
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2486572"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134842"
 name: Windows Server 2019
 summary: >+
   System Windows Server 2019 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
@@ -24,11 +24,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 11/13/2018
-  end: 01/09/2024
-  extendedEnd: 01/09/2029
+  start: 2018-11-13T00:00:00.000-08:00
+  end: 2024-01-09T22:59:59.999-08:00
+  extendedEnd: 2029-01-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2018
-  endDate: 01/09/2029
+  startDate: 2018-11-13T00:00:00.000-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>Linki \n* [Informacje o produkcie](/windows-server/get-started-19/whats-new-19)\n* [Aktualizacja dot. dostępności systemu Windows Server 2019](https://aka.ms/WSRelaunchBlog)\n* [Często zadawane pytania dotyczące zasad cyklu życia — Produkty z systemem Windows](/lifecycle/faq/windows)\n* [Cykle życia obsługi obrazu bazowego kontenera systemu Windows.](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Kontenery wydane z systemem Windows Server 2019 mają te same daty dla cyklu ich życia.\n> [!NOTE]\n> Systemy Windows Server 2019 i Windows Server, wersja 1809 zostały ponownie wydane 13 listopada 2018 r. Terminy końca wsparcia technicznego zostały odpowiednio zmienione.\n\n\n## <a name=\"editions\"></a>Edycje \n* Datacenter\n* Essentials\n* Standard"

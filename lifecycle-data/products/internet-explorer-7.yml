@@ -3,30 +3,25 @@ metadata:
   title: Internet Explorer 7
   description: Program Internet Explorer 7 jest zgodny z zasadami cyklu życia składnika.
   ms.date: 10/05/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: e24db5a054e0b478b88f53da6b56d5c37110ef6e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155229"
 name: Internet Explorer 7
-summary: |+
+summary: >+
   Program Internet Explorer 7 jest zgodny z zasadami cyklu życia [składnika](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 10/18/2006
-  end: 10/10/2023
+  start: 2006-10-18T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/18/2006
-content: |+
-
-  ## <a name="links"></a>Linki 
-  * [Wskazówki dotyczące migracji](https://www.microsoft.com/itpro/microsoft-edge)
-  * [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)
-  * [System Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)
-  * [Często zadawane pytania dotyczące zasad cyklu życia — program Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > Program Internet Explorer 7 jest składnikiem systemu Windows Embedded Compact 7 oraz Windows Embedded Compact 2013 i działa zgodnie z tym samym cyklem życia. 
-  > [!NOTE]
-  > Po 12 stycznia 2016 r. pomoc techniczną i aktualizacje zabezpieczeń będą otrzymywać tylko najnowsze wersje programu Internet Explorer dostępne dla obsługiwanych systemów operacyjnych.
+- version: Original Release
+  startDate: 2006-10-18T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [System Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Często zadawane pytania dotyczące zasad cyklu życia — program Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Program Internet Explorer 7 jest składnikiem systemu Windows Embedded Compact 7 oraz Windows Embedded Compact 2013 i działa zgodnie z tym samym cyklem życia. \n> [!NOTE]\n> Po 12 stycznia 2016 r. pomoc techniczną i aktualizacje zabezpieczeń będą otrzymywać tylko najnowsze wersje programu Internet Explorer dostępne dla obsługiwanych systemów operacyjnych."

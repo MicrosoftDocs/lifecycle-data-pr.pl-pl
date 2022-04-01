@@ -3,25 +3,25 @@ metadata:
   title: Softgrid for Terminal Server (MDOP)
   description: Program Softgrid for Terminal Server (MDOP) jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
+  ms.openlocfilehash: e4b0ae8a89875a8c4b9b0b7a703f5bdb82c4c5b8
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4124630"
 name: Softgrid for Terminal Server (MDOP)
-summary: |+
+summary: >+
   Program Softgrid for Terminal Server (MDOP) jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 01/01/2007
-  end: 01/12/2010
+  start: 2007-01-01T00:00:00.000-08:00
+  end: 2010-01-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 01/01/2007
-    endDate: 01/12/2010
-content: |+
-
-  ## <a name="links"></a>Linki 
-  * [Często zadawane pytania dotyczące cyklu życia — Ogólne](/lifecycle/faq/general-lifecycle)
-
-  > [!NOTE]
-  > Nie obejmuje wersji, które utraciły wsparcie wcześniej. Pomoc techniczna dotycząca tego produktu podlega warunkom jego nabycia.
+- version: Original Release
+  startDate: 2007-01-01T00:00:00.000-08:00
+  endDate: 2010-01-12T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Linki \n* [Często zadawane pytania dotyczące cyklu życia — Ogólne](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Nie obejmuje wersji, które utraciły wsparcie wcześniej. Pomoc techniczna dotycząca tego produktu podlega warunkom jego nabycia."

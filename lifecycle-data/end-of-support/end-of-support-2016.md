@@ -1,13 +1,13 @@
 ---
 title: Produkty ze wsparciem technicznym kończącym się w 2016 roku
 description: Dowiedz się, które produkty będą wycofane, osiągną koniec wsparcia technicznego lub przejdą ze wsparcia podstawowego do dodatkowego w 2016 roku.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028901"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117563"
 ---
 # <a name="products-ending-support-in-2016"></a>Produkty ze wsparciem kończącym się w 2016 roku
 
@@ -20,13 +20,6 @@ Jeśli masz jakiekolwiek pytania dotyczące pomocy technicznej dla produktu, sko
 
 
 
-## <a name="release-end-of-servicing"></a>Koniec obsługi wydania
-
-Następujące wydania produktów, regulowane przez [nowoczesne zasady](/lifecycle/policies/modern), osiągną koniec wsparcia w roku 2016.
-
-| Rezultat | Koniec obsługi |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, wersja 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | czwartek, 8 grudnia 2016 r. |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkty, dla których pomoc techniczna dobiega końca

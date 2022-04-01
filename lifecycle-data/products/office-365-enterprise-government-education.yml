@@ -1,23 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Office 365 (Enterprise, Government, Education)'
-  description: 'Pakiet Office 365 (Enterprise, Government, Education) jest zgodny z zasadami nowoczesnego cyklu życia.'
+  title: Office 365 (Enterprise, Government, Education)
+  description: Pakiet Office 365 (Enterprise, Government, Education) jest zgodny z zasadami nowoczesnego cyklu życia.
   ms.date: 07/28/2020
-name: 'Office 365 (Enterprise, Government, Education)'
-summary: |+
+  ms.openlocfilehash: cdc44a3bb6c607ce1583bc1a14afaead8c3ae395
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4152306"
+name: Office 365 (Enterprise, Government, Education)
+summary: >+
   Pakiet Office 365 (Enterprise, Government, Education) jest zgodny z zasadami [nowoczesnego](/lifecycle/policies/modern) cyklu życia.
 
 
 products:
-  - office
+- office
 policyType: modern-online
 supportDates:
-  start: 09/22/2015
+  start: 2015-09-22T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 09/22/2015
-content: |+
-
-  ## <a name="links"></a>Linki 
-  * [Wymagania systemowe](https://products.office.com/office-system-requirements)
-  * [Informacje serwisowe](https://technet.microsoft.com/library/mt584223.aspx)
+- version: Original Release
+  startDate: 2015-09-22T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Linki \n* [Wymagania systemowe](https://products.office.com/office-system-requirements)\n* [Informacje serwisowe](https://technet.microsoft.com/library/mt584223.aspx)"

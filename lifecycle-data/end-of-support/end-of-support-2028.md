@@ -1,13 +1,13 @@
 ---
 title: Produkty ze wsparciem technicznym kończącym się w 2028 roku
 description: Dowiedz się, które produkty będą wycofane, osiągną koniec wsparcia technicznego lub przejdą ze wsparcia podstawowego do dodatkowego w 2028 roku.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4028549"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116971"
 ---
 # <a name="products-ending-support-in-2028"></a>Produkty ze wsparciem kończącym się w 2028 roku
 
@@ -39,3 +39,11 @@ Następujące produkty i wydania, regulowane przez [Zasady stałe](/lifecycle/po
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | wtorek, 11 lipca 2028 r. |
 
 
+## <a name="products-moving-to-extended-support"></a>Produkty przechodzące na wsparcie dodatkowe:
+
+Wsparcie techniczne ulegnie zmianie z podstawowego na dodatkowe w 2028 roku dla następujących produktów. Wsparcie dodatkowe obejmuje aktualizacje zabezpieczeń bez żadnych kosztów oraz płatne aktualizacje i wsparcie niedotyczące zabezpieczeń. Ponadto firma Microsoft nie będzie akceptować żądań dotyczących zmian w projekcie ani nowych funkcji w fazie wsparcia dodatkowego.
+
+| Rezultat | Data zakończenia wsparcia podstawowego |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | wtorek, 11 kwietnia 2028 r. |
+| [Oprogramowanie Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | wtorek, 11 lipca 2028 r. |

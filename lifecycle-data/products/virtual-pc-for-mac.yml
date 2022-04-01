@@ -3,23 +3,25 @@ metadata:
   title: Virtual PC for Mac
   description: Program Virtual PC for Mac jest zgodny z zasadami stałego cyklu życia.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 001a8a7f9854b5160bfa8afca63c1d90ade3710c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: pl-PL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4124186"
 name: Virtual PC for Mac
-summary: |+
+summary: >+
   Program Virtual PC for Mac jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
 
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 11/12/2003
-  end: 04/13/2010
+  start: 2003-11-12T00:00:00.000-08:00
+  end: 2010-04-13T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/12/2003
-    endDate: 01/13/2009
-content: |+
-
-
-  > [!NOTE]
-  > W tym wersja 5.01, wersja 5.02, wersja 5.03, wersja 5.04, wersja 6.01, wersja 6.02, wersja 6.1, aktualizacja wersji 6.1.1, wersja 7, wersja 7.01
+- version: Original Release
+  startDate: 2003-11-12T00:00:00.000-08:00
+  endDate: 2009-01-13T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> W tym wersja 5.01, wersja 5.02, wersja 5.03, wersja 5.04, wersja 6.01, wersja 6.02, wersja 6.1, aktualizacja wersji 6.1.1, wersja 7, wersja 7.01"

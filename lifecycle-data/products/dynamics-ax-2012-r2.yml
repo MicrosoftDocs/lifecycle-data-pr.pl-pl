@@ -4,12 +4,12 @@ metadata:
   description: Program Dynamics AX 2012 R2 jest zgodny z zasadami stałego cyklu życia.
   ms.date: 12/17/2020
   keywords: 
-  ms.openlocfilehash: 9822bf473709cbe7a204c61e02cb925d9c6993c3a33d7ced5873cee0698815fb
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 33890f565ee4ebded0196b7a50e475593b6cce65
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2488565"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4128663"
 name: Dynamics AX 2012 R2
 summary: >+
   Program Dynamics AX 2012 R2 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
@@ -19,11 +19,11 @@ products:
 - dynamics
 policyType: fixed
 supportDates:
-  start: 02/19/2013
-  end: 10/09/2018
-  extendedEnd: 04/12/2022
+  start: 2013-02-19T00:00:00.000-08:00
+  end: 2018-10-09T22:59:59.999-08:00
+  extendedEnd: 2022-04-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 02/19/2013
-  endDate: 04/12/2022
+  startDate: 2013-02-19T00:00:00.000-08:00
+  endDate: 2022-04-12T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Linki \n* [Wskazówki dotyczące migracji](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Program migracji Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Dodatkowe informacje na temat cyklu życia](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Zakończenie wsparcia dla Dynamics AX 2012 i Dynamics AX R2 zostało przedłużone z 12 października 2021 r. do 12 kwietnia 2022 r."
