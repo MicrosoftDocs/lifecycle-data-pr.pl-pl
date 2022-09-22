@@ -1,13 +1,13 @@
 ---
 title: Produkty ze wsparciem technicznym kończącym się w 2014 roku
 description: Dowiedz się, które produkty będą wycofane, osiągną koniec wsparcia technicznego lub przejdą ze wsparcia podstawowego do dodatkowego w 2014 roku.
-ms.date: 08/11/2021
-ms.openlocfilehash: 6dede11fc813825dd096d7fbfa49e6c25ad15b9d
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 07/26/2022
+ms.openlocfilehash: 1a767b8ab82e08e49e07aac1d60e0b2eff42f412
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4028596"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518353"
 ---
 # <a name="products-ending-support-in-2014"></a>Produkty ze wsparciem kończącym się w 2014 roku
 

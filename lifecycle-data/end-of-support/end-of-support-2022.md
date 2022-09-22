@@ -1,13 +1,13 @@
 ---
 title: Produkty ze wsparciem technicznym kończącym się w 2022 roku
 description: Dowiedz się, które produkty będą wycofane, osiągną koniec wsparcia technicznego lub przejdą ze wsparcia podstawowego do dodatkowego w 2022 roku.
-ms.date: 02/24/2022
-ms.openlocfilehash: accf71d54644aa9b61b478080f2e1b29f4726250
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 08/31/2022
+ms.openlocfilehash: 28ce6823a8d257177b4ae9ca839b2288316fc412
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: pl-PL
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117378"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518056"
 ---
 # <a name="products-ending-support-in-2022"></a>Produkty ze wsparciem kończącym się w 2022 roku
 
@@ -25,10 +25,10 @@ Następujące produkty, regulowane przez [nowoczesne zasady](/lifecycle/policie
 | Rezultat | Wycofanie |
 | --- | --- |
 | [Dynamics 365 for Talent](/lifecycle/products/dynamics-365-for-talent?branch=live)<br> | środa, 2 lutego 2022 r. |
+| [Azure Scheduler](/lifecycle/products/azure-scheduler?branch=live)<br> | wtorek, 15 lutego 2022 r. |
 | [Dynamics 365 Field Service (w środowisku lokalnym)](/lifecycle/products/dynamics-365-field-service-onpremises?branch=live)<br> | czwartek, 30 czerwca 2022 r. |
 | [Microsoft Machine Learning Server (Microsoft R Server)](/lifecycle/products/microsoft-machine-learning-server-microsoft-r-server?branch=live)<br> | piątek, 1 lipca 2022 r. |
 | [Windows Server](/lifecycle/products/windows-server?branch=live)<br> | wtorek, 9 sierpnia 2022 r. |
-| [PowerShell](/lifecycle/products/powershell?branch=live)<br> | sobota, 3 grudnia 2022 r. |
 
 
 ## <a name="release-end-of-servicing"></a>Koniec obsługi wydania
@@ -38,15 +38,18 @@ Następujące wydania produktów, regulowane przez [nowoczesne zasady](/lifecycl
 | Rezultat | Koniec obsługi |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, wersja 2006](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | piątek, 11 lutego 2022 r. |
-| [Dynamics 365 Business Central lokalnie (nowoczesne zasady), wydanie z 2020 r., fala 2, wersja 17.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 kwietnia 2022 r. |
-| [.NET 5.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | niedziela, 8 maja 2022 r. |
-| [Windows 10 Enterprise and Education, wersja 1909](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, wersja 20H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, wersja 1909](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | wtorek, 10 maja 2022 r. |
+| [Dynamics 365 Business Central lokalnie (nowoczesne zasady), wydanie z 2020 r., fala 1, wersja 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Dynamics 365 Business Central lokalnie (nowoczesne zasady), wydanie z 2020 r., fala 2, wersja 17.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 kwietnia 2022 r. |
+| [PowerShell, PowerShell 7.1](/lifecycle/products/powershell?branch=live)<br> | niedziela, 8 maja 2022 r. |
+| [.NET 5.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br>[Windows 10 Enterprise and Education, wersja 1909](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, wersja 20H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, wersja 1909](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | wtorek, 10 maja 2022 r. |
+| [Program Visual Studio dla komputerów Mac, program Visual Studio 2019 dla komputerów Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | poniedziałek, 23 maja 2022 r. |
 | [Microsoft Endpoint Configuration Manager, wersja 2010](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | poniedziałek, 30 maja 2022 r. |
+| [Azure IoT Edge, wersja 1.2](/lifecycle/products/azure-iot-edge?branch=live)<br> | poniedziałek, 27 czerwca 2022 r. |
+| [Azure IoT Edge, wersja 1.3](/lifecycle/products/azure-iot-edge?branch=live)<br> | poniedziałek, 29 sierpnia 2022 r. |
 | [Azure Active Directory (AD) Connect, wersja 1.x](/lifecycle/products/azure-active-directory-ad-connect?branch=live)<br> | środa, 31 sierpnia 2022 r. |
 | [Microsoft Endpoint Configuration Manager, wersja 2103](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | środa, 5 października 2022 r. |
 | [Dynamics 365 Business Central lokalnie (nowoczesne zasady), wydanie z 2021 r., fala 1, wersja 18.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 11 października 2022 r. |
-| [.NET Core 3.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | sobota, 3 grudnia 2022 r. |
-| [Windows 10 Enterprise and Education, wersja 21H1](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, wersja 21H1](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, wersja 21H1](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | wtorek, 13 grudnia 2022 r. |
+| [PowerShell, PowerShell 7.0 (LTS)](/lifecycle/products/powershell?branch=live)<br> | sobota, 3 grudnia 2022 r. |
+| [Azure IoT Edge, wersja 1.1 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET Core 3.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br>[Windows 10 Enterprise and Education, wersja 21H1](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, wersja 21H1](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, wersja 21H1](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | wtorek, 13 grudnia 2022 r. |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkty, dla których pomoc techniczna dobiega końca
@@ -58,7 +61,7 @@ Następujące produkty i wydania, regulowane przez [Zasady stałe](/lifecycle/po
 | [Visual Studio LightSwitch 2011](/lifecycle/products/visual-studio-lightswitch-2011?branch=live)<br>[Windows 7, rozszerzone aktualizacje zabezpieczeń – rok 2.](/lifecycle/products/windows-7?branch=live)<br>[Windows Server 2008, rozszerzone aktualizacje zabezpieczeń – rok 2.](/lifecycle/products/windows-server-2008?branch=live)<br>[Windows Server 2008 R2, rozszerzone aktualizacje zabezpieczeń – rok 2.](/lifecycle/products/windows-server-2008-r2?branch=live)<br> | 11 stycznia 2022 r. |
 | [Program AppFabric 1.1 dla systemu Windows Server](/lifecycle/products/appfabric-11-for-windows-server?branch=live)<br>[Dynamics AX 2009](/lifecycle/products/dynamics-ax-2009?branch=live)<br>[Dynamics AX 2012](/lifecycle/products/dynamics-ax-2012?branch=live)<br>[Dynamics AX 2012 R2](/lifecycle/products/dynamics-ax-2012-r2?branch=live)<br>[Visual Studio 2019, wersja 16.7](/lifecycle/products/visual-studio-2019?branch=live)<br> | 12 kwietnia 2022 r. |
 | [Microsoft .NET Framework, .NET Framework 4.5.2](/lifecycle/products/microsoft-net-framework?branch=live)<br>[Microsoft .NET Framework, .NET Framework 4.6](/lifecycle/products/microsoft-net-framework?branch=live)<br>[Microsoft .NET Framework, .NET Framework 4.6.1](/lifecycle/products/microsoft-net-framework?branch=live)<br> | wtorek, 26 kwietnia 2022 r. |
-| [Internet Explorer 11 na systemie Windows 10](/lifecycle/products/internet-explorer-11-on-windows-10?branch=live)<br> | wtorek, 14 czerwca 2022 r. |
+| [Program Internet Explorer 11 na systemie Windows 10 kanał półroczny](/lifecycle/products/internet-explorer-11-on-windows-10-semiannual-channel-sac?branch=live)<br> | wtorek, 14 czerwca 2022 r. |
 | [Cloud Platform System](/lifecycle/products/cloud-platform-system?branch=live)<br>[Microsoft Report Viewer Redistributable 2012](/lifecycle/products/microsoft-report-viewer-redistributable-2012?branch=live)<br>[Microsoft SQL Server 2008, rozszerzone aktualizacje zabezpieczeń – rok 3.](/lifecycle/products/microsoft-sql-server-2008?branch=live)<br>[Microsoft SQL Server 2008 R2, rozszerzone aktualizacje zabezpieczeń – rok 3.](/lifecycle/products/microsoft-sql-server-2008-r2?branch=live)<br>[Microsoft SQL Server 2012](/lifecycle/products/microsoft-sql-server-2012?branch=live)<br>[Microsoft System Center 2012 App Controller](/lifecycle/products/microsoft-system-center-2012-app-controller?branch=live)<br>[Microsoft System Center 2012 Configuration Manager](/lifecycle/products/microsoft-system-center-2012-configuration-manager?branch=live)<br>[Microsoft System Center 2012 Data Protection Manager](/lifecycle/products/microsoft-system-center-2012-data-protection-manager?branch=live)<br>[Microsoft System Center 2012 Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection?branch=live)<br>[Microsoft System Center 2012 Operations Manager](/lifecycle/products/microsoft-system-center-2012-operations-manager?branch=live)<br>[Microsoft System Center 2012 Orchestrator](/lifecycle/products/microsoft-system-center-2012-orchestrator?branch=live)<br>[Microsoft System Center 2012 R2 App Controller](/lifecycle/products/microsoft-system-center-2012-r2-app-controller?branch=live)<br>[Microsoft System Center 2012 R2 Configuration Manager](/lifecycle/products/microsoft-system-center-2012-r2-configuration-manager?branch=live)<br>[Microsoft System Center 2012 R2 Data Protection Manager](/lifecycle/products/microsoft-system-center-2012-r2-data-protection-manager?branch=live)<br>[Microsoft System Center 2012 R2 Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-r2-endpoint-protection?branch=live)<br>[Microsoft System Center 2012 R2 Operations Manager](/lifecycle/products/microsoft-system-center-2012-r2-operations-manager?branch=live)<br>[Microsoft System Center 2012 R2 Orchestrator](/lifecycle/products/microsoft-system-center-2012-r2-orchestrator?branch=live)<br>[Microsoft System Center 2012 R2 Service Manager](/lifecycle/products/microsoft-system-center-2012-r2-service-manager?branch=live)<br>[Microsoft System Center 2012 R2 Virtual Machine Manager](/lifecycle/products/microsoft-system-center-2012-r2-virtual-machine-manager?branch=live)<br>[Microsoft System Center 2012 Service Manager](/lifecycle/products/microsoft-system-center-2012-service-manager?branch=live)<br>[Microsoft System Center 2012 Virtual Machine Manager](/lifecycle/products/microsoft-system-center-2012-virtual-machine-manager?branch=live)<br>[Windows Azure Pack (w systemie Windows Server 2012 R2)](/lifecycle/products/windows-azure-pack-on-windows-server-2012-r2?branch=live)<br> | 12 lipca 2022 r. |
 | [Microsoft Forefront Identity Manager 2010](/lifecycle/products/microsoft-forefront-identity-manager-2010?branch=live)<br>[Microsoft Forefront Identity Manager 2010 R2](/lifecycle/products/microsoft-forefront-identity-manager-2010-r2?branch=live)<br>[SQL Server 2016 z dodatkiem Service Pack 2](/lifecycle/products/sql-server-2016?branch=live)<br>[Visual Studio 2019, wersja 16.9](/lifecycle/products/visual-studio-2019?branch=live)<br>[Windows Embedded POSReady 7, rozszerzone aktualizacje zabezpieczeń – rok 1.*](/lifecycle/products/windows-embedded-posready-7?branch=live)<br>[Windows Embedded Standard 7, rozszerzone aktualizacje zabezpieczeń – rok 2.*](/lifecycle/products/windows-embedded-standard-7?branch=live)<br> | 11 października 2022 r. |
 | [Seria 1200 Azure StorSimple](/lifecycle/products/azure-storsimple-1200-series?branch=live)<br>[Seria 8000 Azure StorSimple](/lifecycle/products/azure-storsimple-8000-series?branch=live)<br>[StorSimple Data Manager](/lifecycle/products/storsimple-data-manager?branch=live)<br> | sobota, 31 grudnia 2022 r. |

@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2013
   description: Program Visual Studio 2013 jest zgodny z zasadami stałego cyklu życia.
-  ms.date: 10/11/2021
+  ms.date: 2022/04/14
   keywords: 
-  ms.openlocfilehash: 74908b552844ac27651393960fa567b4971842b6
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 26531cc6c88e5781b92affe65d38caf6f78b63d4
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4142797"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516458"
 name: Visual Studio 2013
 summary: >+
   Program Visual Studio 2013 jest zgodny z zasadami [stałego](/lifecycle/policies/fixed) cyklu życia.
@@ -33,5 +33,5 @@ releases:
   endDate: 2024-04-09T22:59:59.999-08:00
 - version: Original Release
   startDate: 2014-01-15T00:00:00.000-08:00
-  endDate: 2024-04-09T22:59:59.999-08:00
+  endDate: 2016-10-11T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>Linki \n* [Informacje serwisowe](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Wersje następujących składników programu Visual Studio 2013 są dostarczane i obsługiwane w ramach cyklu życia programu Visual Studio 2013: Agenci, kolektor IntelliTrace, zestaw SDK do modelowania, wielobajtowa biblioteka MFC, narzędzia zdalne, SDK, powłoka (zintegrowana), powłoka (izolowana), Team Explorer, pakiet redystrybucyjny Visual C, rozszerzenia narzędzi internetowych\n\n\n## <a name=\"editions\"></a>Edycje \n* Community\n* Express for Web\n* Express for Windows\n* Express for Windows Desktop\n* Premium\n* Professional\n* Release Management\n* Test Professional\n* Ultimate"

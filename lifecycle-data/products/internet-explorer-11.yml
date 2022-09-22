@@ -2,14 +2,14 @@
 metadata:
   title: Internet Explorer 11
   description: Program Internet Explorer 11 jest zgodny z zasadami cyklu życia składnika.
-  ms.date: 01/25/2022
-  keywords: IE
-  ms.openlocfilehash: 5086bcdf51ebfb0315c4f4660193adab3be31a4e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/05/19
+  keywords: przeglądarka, IE, ie11
+  ms.openlocfilehash: f1a0ee829ae28cfd4b3b580a9c3d296bd822b4a5
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: pl-PL
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4114381"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518611"
 name: Internet Explorer 11
 summary: >+
   Program Internet Explorer 11 jest zgodny z zasadami cyklu życia [składnika](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
@@ -20,7 +20,7 @@ summary: >+
 
   > [!IMPORTANT]
 
-  > Aplikacja Internet Explorer (IE) 11 na komputery osobiste zakończy wsparcie dla półrocznego kanału systemu Windows 10 z dniem 15 czerwca 2022 r. Zachęcamy klientów do przejścia na przeglądarkę Microsoft Edge w trybie IE. Tryb IE zapewnia zgodność z poprzednimi wersjami i będzie wspierany przynajmniej do 2029 roku. Ponadto firma Microsoft przekaże powiadomienie na rok przed wycofaniem trybu IE. Udaj się [tutaj](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-), aby uzyskać listę obsługiwanych systemów operacyjnych dla przeglądarki Internet Explorer, w tym wersje, których dotyczy to ogłoszenie.
+  > Aplikacja stacjonarna Internet Explorer (IE) 11 zakończyła wsparcie dla systemu Windows 10 kanał półroczny z dniem 15 czerwca 2022 r. Zachęcamy klientów do przejścia na przeglądarkę Microsoft Edge w trybie IE. Tryb IE zapewnia zgodność z poprzednimi wersjami i będzie wspierany przynajmniej do 2029 roku. Ponadto firma Microsoft przekaże powiadomienie na rok przed wycofaniem trybu IE. Udaj się [tutaj](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-), aby uzyskać listę obsługiwanych systemów operacyjnych dla przeglądarki Internet Explorer, w tym wersje, których dotyczy to ogłoszenie.
 
 products:
 - internet-explorer
